@@ -1,0 +1,11 @@
+{
+  "name": "@kladno/pipeline",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node --experimental-strip-types src/build.ts",
+    "typecheck": "tsc --build"
+  },
+  "dependencies": { "@kladno/schema": "workspace:*" }
+}

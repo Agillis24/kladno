@@ -1,0 +1,9 @@
+packages:
+  - 'apps/*'
+  - 'packages/*'
+  - 'pipeline'
+
+# esbuild (přes vitest) spouští po instalaci vlastní skript. pnpm 11 vyžaduje
+# výslovné schválení — bez něj se každý `pnpm run` zastaví, i v CI.
+allowBuilds:
+  esbuild: true

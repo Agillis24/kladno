@@ -1,0 +1,40 @@
+name: Pipeline dat
+
+# Cron se zapne ve fázi 1, až budou zapojené zdroje (docs/PLAN.md).
+# Do té doby jen ruční spuštění — hodinový běh, který nic negeneruje, jen dělá nepořádek.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '17 * * * *'
+
+# Pipeline commituje vygenerovaná data zpět do repozitáře.
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  generuj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.25.0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Generuj data
+        run: pnpm pipeline
+
+      # Ve fázi 1 sem přijde commit vygenerovaných dat do data/v1/,
+      # až po kontrole proti propadu počtu položek (viz docs/PLAN.md, 1.7).

@@ -1,0 +1,6 @@
+# CI běží na Linuxu, vývoj na Windows — držme v repozitáři jednotné LF.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary
