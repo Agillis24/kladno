@@ -6,36 +6,36 @@
    "lat": 50.14385986328125,
    "lng": 14.101783752441406
   },
-  "index": 3,
-  "indexLabel": "normální",
+  "index": 2,
+  "indexLabel": "dobrá",
   "measurements": [
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 74.6,
+    "value": 71.2,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 2.1,
+    "value": 2.5,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 4,
+    "value": 2.4,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-04T21:23:46.314Z"
+   "fetchedAt": "2026-09-04T22:24:35.810Z"
   }
  },
  {
@@ -51,37 +51,37 @@
    {
     "code": "SO2",
     "name": "oxid siřičitý",
-    "value": 4.3,
+    "value": 4.5,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 3.6,
+    "value": 5.4,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 4.6,
+    "value": 8.2,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 3.7,
+    "value": 4.3,
     "unit": null,
-    "measuredAt": "2026-09-04T19:00:00.000Z"
+    "measuredAt": "2026-09-04T20:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-04T21:23:46.314Z"
+   "fetchedAt": "2026-09-04T22:24:35.810Z"
   }
  }
 ]
