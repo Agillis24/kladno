@@ -1,6 +1,6 @@
 # Podklad pro jednání s magistrátem
 
-Stav k 3. 9. 2026. Argumenty níže stojí na skutečně ověřených zjištěních, ne na dojmech —
+Stav k 4. 9. 2026. Argumenty níže stojí na skutečně ověřených zjištěních, ne na dojmech —
 každé číslo je doložené v [ZDROJE.md](ZDROJE.md).
 
 ---
@@ -9,8 +9,9 @@ každé číslo je doložené v [ZDROJE.md](ZDROJE.md).
 
 Tři důvody, všechny praktické:
 
-1. **`robots.txt` blokuje celý web** pro všechny roboty kromě osmi vyhledávačů. Bez výjimky
-   nebo souhlasu nelze legitimně scrapovat uzavírky, odpady ani kontakty. Viz [PRAVNI.md](PRAVNI.md).
+1. **`robots.txt` blokuje celý web** pro všechny roboty kromě osmi vyhledávačů. Zadavatel
+   4. 9. 2026 rozhodl scrapovat i tak, v šetrném režimu (viz [PRAVNI.md](PRAVNI.md)) — výjimka
+   od města by ale tuhle otevřenou věc uzavřela dřív, než přijde na přetřes při jednání.
 2. **App Store pravidlo 5.2.1** — aplikace vypadající jako oficiální aplikace instituce bez
    doložené autorizace se odmítá. Souhlas v App Review Notes tenhle problém odstraní.
 3. **Data MHD Kladno neexistují ve veřejné podobě.** Město je objednatelem městské dopravy.
@@ -119,6 +120,6 @@ a odpověď přijde od dodavatele, ne od města.
 
 ## 5. Co dělat, když město neodpoví
 
-Nedělat nic dramatického. Fáze 1 stojí jen na feedech a funguje i bez odpovědi. Po měsíci
-zkusit jiný kanál (tajemník, IT odbor, konkrétní radní), případně podat žádost podle zákona
+Nedělat nic dramatického. Pipeline běží a aplikace vzniká i bez odpovědi. Po měsíci zkusit
+jiný kanál (tajemník, IT odbor, konkrétní radní), případně podat žádost podle zákona
 č. 106/1999 Sb. na jízdní řády MHD — ale až tehdy, když bude aplikace hotová a bude co ukázat.

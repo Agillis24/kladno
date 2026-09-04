@@ -1,8 +1,11 @@
 name: Diagnostika dostupnosti webu města
 
-# Jednorázová pomůcka. Pipeline v GitHub Actions hlásí u všech zdrojů
-# z mestokladno.cz „fetch failed", zatímco lokálně i z ČR všechno funguje.
-# Tímhle zjistíme, jestli jde o blokaci cloudových IP, IPv6, TLS nebo DNS.
+# Pomůcka pro případ, kdy pipeline hlásí síťové chyby, které se lokálně nedají
+# zopakovat. Runner běží v Azure (typicky East US) a chová se jinak než české
+# připojení — 4. 9. 2026 tak vyšlo najevo, že web města inzeruje IPv6, na kterém
+# nepřijímá spojení (docs/ZDROJE.md, kap. 11a).
+#
+# Spouští se jen ručně. Neběží v žádném plánu a nic nezapisuje.
 on:
   workflow_dispatch:
 
