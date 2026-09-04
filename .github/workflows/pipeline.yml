@@ -39,8 +39,10 @@ jobs:
           echo -n "odchozí IP: "
           curl -sS --max-time 20 https://api.ipify.org || echo "(nezjištěno)"
           echo ""
-          curl -sS -4 --max-time 30 -o /dev/null             -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)"             -w "kontrolní curl na web města: HTTP=%{http_code} za %{time_total}s
-"             https://www.mestokladno.cz/robots.txt || echo "kontrolní curl selhal, exit $?"
+          UA="MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)"
+          curl -sS -4 --max-time 30 -o /dev/null -A "$UA" \
+            -w "kontrolní curl na web města: HTTP=%{http_code} za %{time_total}s\n" \
+            https://www.mestokladno.cz/robots.txt || echo "kontrolní curl selhal, exit $?"
 
       - name: Generuj data
         run: pnpm pipeline
