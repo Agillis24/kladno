@@ -1,13 +1,13 @@
 {
  "version": "v1",
- "generatedAt": "2026-09-04T09:58:07.379Z",
+ "generatedAt": "2026-09-04T10:00:24.796Z",
  "datasets": {
   "districts": {
    "file": "districts.json",
    "hash": "3a1e8fe30e42e7816c931f5faa7d28c4278eb50e927b83294334540441d7befa",
    "count": 6,
    "bytes": 939,
-   "lastSuccessfulFetch": "2026-09-04T09:57:06.855Z",
+   "lastSuccessfulFetch": "2026-09-04T09:59:17.407Z",
    "stale": false,
    "lastError": null
   },
@@ -16,7 +16,7 @@
    "hash": "c0654ac54fb2c089f0745396e773cf9f6df35dd033a1e100386896069cf89cda",
    "count": 578,
    "bytes": 155464,
-   "lastSuccessfulFetch": "2026-09-04T09:57:06.855Z",
+   "lastSuccessfulFetch": "2026-09-04T09:59:17.407Z",
    "stale": false,
    "lastError": null
   },
@@ -26,8 +26,8 @@
    "count": 112,
    "bytes": 117604,
    "lastSuccessfulFetch": "2026-09-04T09:57:08.198Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "https://www.mestokladno.cz/opendata-uredni-deska: fetch failed (, ETIMEDOUT)"
   },
   "events": {
    "file": "events.json",
@@ -35,8 +35,8 @@
    "count": 27,
    "bytes": 28063,
    "lastSuccessfulFetch": "2026-09-04T09:57:11.209Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "https://www.mestokladno.cz/rss/?6: fetch failed (, ETIMEDOUT)"
   },
   "news": {
    "file": "news.json",
@@ -44,15 +44,15 @@
    "count": 50,
    "bytes": 46249,
    "lastSuccessfulFetch": "2026-09-04T09:57:12.723Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "https://www.mestokladno.cz/rss/?5: fetch failed (, ETIMEDOUT)"
   },
   "air": {
    "file": "air.json",
-   "hash": "e59b1c03d6f5447a9d569b9c653b26a7d8504b9dec684c3bc64ca1a93e16df70",
+   "hash": "437b815e205c3b0ddb8d91cab42896ab3310643ad4ffae290cfa27ee63c9d8de",
    "count": 2,
    "bytes": 1830,
-   "lastSuccessfulFetch": "2026-09-04T09:57:14.279Z",
+   "lastSuccessfulFetch": "2026-09-04T09:59:53.000Z",
    "stale": false,
    "lastError": null
   },
@@ -62,8 +62,8 @@
    "count": 21,
    "bytes": 21850,
    "lastSuccessfulFetch": "2026-09-04T09:57:14.398Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821: fetch failed (, ETIMEDOUT)"
   },
   "waste": {
    "file": "waste.json",
@@ -71,8 +71,8 @@
    "count": 3,
    "bytes": 2332,
    "lastSuccessfulFetch": "2026-09-04T09:57:16.121Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618: fetch failed (, ETIMEDOUT)"
   },
   "contacts": {
    "file": "contacts.json",
@@ -80,8 +80,8 @@
    "count": 33,
    "bytes": 20101,
    "lastSuccessfulFetch": "2026-09-04T09:57:17.758Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "https://www.mestokladno.cz/odbory-magistratu/os-200244: fetch failed (, ETIMEDOUT)"
   }
  }
 }
