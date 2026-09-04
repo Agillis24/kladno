@@ -32,6 +32,16 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      # Web města některým runnerům neodpovídá (ETIMEDOUT), jiným ano. Bez zaznamenané
+      # IP se to nedá vyhodnotit — viz docs/ZDROJE.md, kap. 11a.
+      - name: Odkud voláme
+        run: |
+          echo -n "odchozí IP: "
+          curl -sS --max-time 20 https://api.ipify.org || echo "(nezjištěno)"
+          echo ""
+          curl -sS -4 --max-time 30 -o /dev/null             -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)"             -w "kontrolní curl na web města: HTTP=%{http_code} za %{time_total}s
+"             https://www.mestokladno.cz/robots.txt || echo "kontrolní curl selhal, exit $?"
+
       - name: Generuj data
         run: pnpm pipeline
 
