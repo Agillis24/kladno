@@ -53,7 +53,20 @@ const ROBOTS_URL = 'https://www.mestokladno.cz/robots.txt';
 /** Kolik odborů se smí projít v jednom běhu. Stránky jsou stabilní, spěch není. */
 const MAX_DEPARTMENTS = 40;
 
-type Problem = { dataset: string; message: string };
+/**
+ * Zaznamenaný problém jednoho datasetu.
+ *
+ * `kind` rozlišuje dvě zásadně jiné situace: `network` znamená, že zdroj nebyl
+ * dostupný (typicky přechodné), `data` znamená, že odpověděl, ale jinak než
+ * čekáme — tedy nejspíš změnil formát a je potřeba zasáhnout.
+ */
+type Problem = { dataset: string; message: string; kind: 'network' | 'data' };
+
+const NETWORK_ERROR = /ETIMEDOUT|ECONNRESET|ECONNREFUSED|ENOTFOUND|EAI_AGAIN|fetch failed|socket hang up/;
+
+function classify(message: string): Problem['kind'] {
+  return NETWORK_ERROR.test(message) ? 'network' : 'data';
+}
 
 const entries: Record<string, DatasetEntry> = {};
 const problems: Problem[] = [];
@@ -69,10 +82,12 @@ async function step(name: string, file: string, run: () => Promise<WriteOutcome>
   try {
     const outcome = await run();
     outcomes.push(outcome);
-    if (!outcome.published && outcome.reason) problems.push({ dataset: name, message: outcome.reason });
+    if (!outcome.published && outcome.reason) {
+      problems.push({ dataset: name, message: outcome.reason, kind: classify(outcome.reason) });
+    }
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
-    problems.push({ dataset: name, message });
+    problems.push({ dataset: name, message, kind: classify(message) });
     entries[name] = await staleEntry(name, file, message, entries);
     outcomes.push({ name, file, published: false, count: 0, reason: message });
   }
@@ -243,6 +258,18 @@ function report(startedAt: number): void {
   if (problems.length > 0) {
     console.log(`\n${problems.length} problém(ů):`);
     for (const problem of problems) console.log(`  ${problem.dataset}: ${problem.message}`);
+
+    // Když spadne většina zdrojů z jednoho webu na síťovou chybu, není to změna
+    // formátu, ale nedostupnost. Stojí za to to v logu odlišit — jinak se hledá
+    // chyba v parserech, které jsou v pořádku.
+    const network = problems.filter((problem) => /ETIMEDOUT|ECONNRESET|ENOTFOUND|EAI_AGAIN|fetch failed/.test(problem.message));
+    if (network.length >= problems.length / 2) {
+      console.log(
+        `\nPozor: ${network.length} z ${problems.length} selhání jsou síťové chyby, ` +
+          'ne změna formátu dat. Zkontrolujte dostupnost zdroje z tohoto prostředí ' +
+          '(workflow „Diagnostika dostupnosti webu města").',
+      );
+    }
   }
 }
 

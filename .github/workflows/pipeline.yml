@@ -70,14 +70,46 @@ jobs:
             const problems = JSON.parse(fs.readFileSync('pipeline-problems.json', 'utf8'));
             if (problems.length === 0) return;
 
+            // Web města neodpovídá některým runnerům GitHub Actions (docs/ZDROJE.md,
+            // kap. 11a). Takový výpadek spraví další běh cronu sám, takže z něj issue
+            // neděláme — jinak by jich vznikaly desítky denně. Zakládáme je, jen když
+            // zdroj odpověděl jinak, než čekáme (změna formátu), nebo když data
+            // opravdu zestárnou.
+            const dataProblems = problems.filter((p) => p.kind !== 'network');
+
+            let staleHours = 0;
+            try {
+              const manifest = JSON.parse(fs.readFileSync('data/v1/index.json', 'utf8'));
+              for (const entry of Object.values(manifest.datasets)) {
+                if (!entry.stale) continue;
+                const hours = (Date.now() - Date.parse(entry.lastSuccessfulFetch)) / 3_600_000;
+                staleHours = Math.max(staleHours, hours);
+              }
+            } catch {
+              // Bez manifestu se rozhodujeme jen podle typu problémů.
+            }
+
+            const STALE_LIMIT_HOURS = 12;
+            if (dataProblems.length === 0 && staleHours < STALE_LIMIT_HOURS) {
+              console.log(
+                `Jen přechodné síťové chyby (${problems.length}), nejstarší data ` +
+                  `${staleHours.toFixed(1)} h. Issue nezakládám, spraví to další běh.`,
+              );
+              return;
+            }
+
             const title = `Pipeline: ${problems.length} zdroj(ů) se nepodařilo aktualizovat`;
             const body = [
               'Pipeline doběhla, ale u těchto datasetů zůstala předchozí verze dat:',
               '',
-              ...problems.map((p) => `- **${p.dataset}** — ${p.message}`),
+              ...problems.map((p) => `- **${p.dataset}** (${p.kind === 'network' ? 'síť' : 'data'}) — ${p.message}`),
               '',
               'Data v `data/v1/` jsou tedy zastaralá a v `index.json` mají `stale: true`.',
-              'Obvyklá příčina je změna na straně zdroje — zkontrolujte fixtures a testy.',
+              `Nejstarší úspěšné stažení je ${staleHours.toFixed(1)} h zpět.`,
+              '',
+              dataProblems.length > 0
+                ? 'Aspoň jeden zdroj odpověděl jinak, než čekáme — zkontrolujte fixtures a testy.'
+                : `Jde jen o síťové chyby, ale trvají déle než ${STALE_LIMIT_HOURS} h. Spusťte workflow „Diagnostika dostupnosti webu města".`,
               '',
               `Běh: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
             ].join('\n');

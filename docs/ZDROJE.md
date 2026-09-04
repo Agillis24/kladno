@@ -398,9 +398,36 @@ Web města tedy inzeruje IPv6, ale neobsluhuje ho. Node si podle pořadí z DNS 
 IPv6 a spojení spadne. Lokálně se to neprojeví, protože běžné české připojení k tomuhle webu
 IPv6 nepoužije — chyba se ukáže až v prostředí, kde IPv6 funguje.
 
-**Řešení v pipeline:** `dns.setDefaultResultOrder('ipv4first')` v HTTP klientu. Stojí za to
-o tom město informovat spolu s chybou `&amp;` — je to vada, která postihne každého, kdo
-jejich data zpracovává strojově z prostředí s IPv6.
+**Ale to nebyla celá příčina.** Ani po vynucení IPv4 pipeline v CI neprošla, tentokrát
+s `ETIMEDOUT`. Následující kolo diagnostiky ukázalo něco jiného, než se čekalo:
+
+| Runner (odchozí IP) | curl | node fetch | HTTP klient pipeline | Ostrý běh pipeline |
+|---|---|---|---|---|
+| 20.55.15.2 | 200 | 200 | — | — |
+| 52.179.93.131 | 200 | 200 | **200** | — |
+| 145.132.103.25 | 200 | — | — | **všech 8 datasetů OK** |
+| dva neznámé runnery dřív | — | — | — | **6× ETIMEDOUT** |
+
+Náš HTTP klient tedy v CI prokazatelně funguje — se stejnými hlavičkami, na stejných
+adresách. **Web města prostě některým runnerům GitHub Actions neodpovídá a jiným ano.**
+Nejde o blokaci robota: požadavek s prohlížečovým User-Agentem dopadne stejně jako náš.
+
+**Jak se s tím pipeline vyrovnává:**
+
+- IPv4 se vynucuje (`dns.setDefaultResultOrder('ipv4first')`) — IPv6 je prokazatelně mrtvé
+  a nemá smysl na něj vůbec sahat,
+- selhání se v logu rozlišuje na síťové a datové, ať se nehledá chyba v parserech,
+  které jsou v pořádku,
+- ochrana proti prázdným datům drží předchozí verzi a označí ji jako zastaralou,
+- **z přechodného síťového výpadku se nezakládá issue** — spraví ho další hodinový běh.
+  Issue vznikne, až když zdroj odpoví jinak, než čekáme, nebo když data zestárnou o víc
+  než 12 hodin.
+
+Prakticky to znamená, že data mohou být občas o hodinu starší. Vzhledem k tomu, že úřední
+deska se mění jednou denně, to nikomu nevadí.
+
+Obě vady — `&amp;` v OFN i mrtvé IPv6 — stojí za to městu nahlásit. Postihnou každého, kdo
+jejich data zpracovává strojově.
 
 Ověřený objem dat z ostrého běhu: 578 ulic, 6 částí obce, 112 dokumentů úřední desky,
 27 akcí, 50 aktualit, 2 stanice ovzduší, 21 uzavírek, 3 sběrné dvory, 33 pracovišť.
