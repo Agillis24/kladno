@@ -29,7 +29,10 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: Odkud voláme
-        run: curl -sS --max-time 20 https://api.ipify.org && echo ""
+        run: |
+          echo -n "odchozí IP: "
+          curl -sS --max-time 20 https://api.ipify.org
+          echo ""
 
       - name: curl pro srovnání
         run: |

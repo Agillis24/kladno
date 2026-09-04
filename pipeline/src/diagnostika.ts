@@ -9,6 +9,7 @@
  */
 import dns from 'node:dns';
 import { lookup } from 'node:dns/promises';
+import { fetchText } from './lib/http.js';
 
 const HOST = 'www.mestokladno.cz';
 const ROBOTS = `https://${HOST}/robots.txt`;
@@ -56,4 +57,27 @@ console.log('\n=== pětkrát za sebou, jestli nejde o rate limit ===');
 for (let i = 1; i <= 5; i++) {
   await zkus(`pokus ${i}`, ROBOTS, { headers: { 'User-Agent': UA } });
   await new Promise((resolve) => setTimeout(resolve, 1_500));
+}
+
+// Holý fetch v CI prochází, ale pipeline na týchž adresách hlásí ETIMEDOUT.
+// Tenhle blok volá přímo klienta z pipeline, aby se rozlišilo, jestli je chyba
+// v našem kódu, nebo v prostředí runneru.
+console.log('\n=== přes HTTP klienta pipeline ===');
+const pres: [string, string][] = [
+  ['robots.txt', ROBOTS],
+  ['kanál 9', FEED],
+  ['úřední deska OFN', `https://${HOST}/opendata-uredni-deska`],
+];
+for (const [popis, url] of pres) {
+  const start = Date.now();
+  try {
+    const result = await fetchText(url);
+    console.log(
+      `  OK    ${popis.padEnd(26)} → ${result.status}, ${result.text.length} B za ${Date.now() - start} ms`,
+    );
+  } catch (error) {
+    console.log(
+      `  CHYBA ${popis.padEnd(26)} → ${(error as Error).message} za ${Date.now() - start} ms`,
+    );
+  }
 }
