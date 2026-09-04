@@ -378,6 +378,29 @@ ne při průzkumu:
 | **První datum v textu uzavírky nebývá začátek**, ale termín dokončení | Začátek se bere jen za slovem „od", jinak platí datum vyvěšení. Jinak by uzavírka tvrdila, že začne za rok. |
 | **Ulice se v textech vždy uvádějí s uvozením** („ul. Kladenská") | Jednoslovné názvy se proto bez uvození nepřijímají — jinak „Práce jsou ve finální fázi" označí náměstí Práce. |
 | **Řada pracovišť nemá vlastní úřední e-mail** | 15 z 33; zbytek zůstává bez kontaktu. Podrobně v [PRAVNI.md](PRAVNI.md), kap. 3.2. |
+| **`www.mestokladno.cz` má v DNS záznam AAAA, ale na IPv6 spojení nepřijímá** | Zásadní pro provoz — viz níže. |
+
+### Past, kterou odhalil až ostrý běh v CI: IPv6
+
+První běh pipeline v GitHub Actions selhal u **všech šesti zdrojů z webu města** s hláškou
+`fetch failed`, zatímco ČHMÚ i ČÚZK prošly a lokálně fungovalo všechno. Diagnostický běh
+(4. 9. 2026, runner Azure East US, IP 20.55.15.2) ukázal proč:
+
+| Test | Výsledek |
+|---|---|
+| DNS `www.mestokladno.cz` | `78.156.158.91` **i** `2a00:d940:0:3::91` |
+| `curl -4 https://www.mestokladno.cz/robots.txt` | **HTTP 200** za 0,42 s |
+| `curl -6 https://www.mestokladno.cz/robots.txt` | **selhalo, curl exit 7** (nelze se připojit) |
+| týž požadavek s prohlížečovým User-Agentem | HTTP 200 — **nejde tedy o blokaci našeho robota** |
+| `opendata.chmi.cz`, `vdp.cuzk.cz` | 200, resp. 302 |
+
+Web města tedy inzeruje IPv6, ale neobsluhuje ho. Node si podle pořadí z DNS občas vybere
+IPv6 a spojení spadne. Lokálně se to neprojeví, protože běžné české připojení k tomuhle webu
+IPv6 nepoužije — chyba se ukáže až v prostředí, kde IPv6 funguje.
+
+**Řešení v pipeline:** `dns.setDefaultResultOrder('ipv4first')` v HTTP klientu. Stojí za to
+o tom město informovat spolu s chybou `&amp;` — je to vada, která postihne každého, kdo
+jejich data zpracovává strojově z prostředí s IPv6.
 
 Ověřený objem dat z ostrého běhu: 578 ulic, 6 částí obce, 112 dokumentů úřední desky,
 27 akcí, 50 aktualit, 2 stanice ovzduší, 21 uzavírek, 3 sběrné dvory, 33 pracovišť.

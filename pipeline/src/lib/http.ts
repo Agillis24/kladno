@@ -5,7 +5,22 @@
  * na tentýž host, sekvenčně, vlastní identifikovatelný User-Agent, podmíněné
  * požadavky a exponenciální backoff. Web města je pomalý a nemá smysl ho zatěžovat.
  */
+import { setDefaultResultOrder } from 'node:dns';
 import { setTimeout as sleep } from 'node:timers/promises';
+
+/**
+ * Vynucení IPv4.
+ *
+ * `www.mestokladno.cz` má v DNS záznam AAAA (`2a00:d940:0:3::91`), ale na IPv6
+ * spojení nepřijímá — ověřeno 4. 9. 2026 diagnostickým během v GitHub Actions:
+ * `curl -4` vrátí 200, `curl -6` skončí chybou 7 (nelze se připojit). Node si
+ * podle DNS pořadí občas vybere IPv6 a celý běh pak spadne na „fetch failed"
+ * u všech zdrojů z webu města, zatímco ČHMÚ i ČÚZK projdou.
+ *
+ * Lokálně se to neprojeví, protože běžné české připojení IPv6 k tomuhle webu
+ * nepoužije. Proto to odhalil až ostrý běh v CI.
+ */
+setDefaultResultOrder('ipv4first');
 
 /** Prodleva mezi dvěma požadavky na tentýž host. */
 const HOST_DELAY_MS = 1_500;
@@ -107,7 +122,24 @@ export async function fetchUrl(
     }
   }
 
-  throw lastError instanceof Error ? lastError : new Error(`Nepodařilo se stáhnout ${url}`);
+  throw new Error(`${url}: ${describe(lastError)}`);
+}
+
+/**
+ * Čitelný popis chyby včetně příčiny.
+ *
+ * Samotné `fetch failed` z Node neřekne nic — teprve `error.cause` prozradí,
+ * jestli šlo o odmítnuté spojení, DNS, nebo timeout. Bez toho se v logu CI
+ * hledá příčina zbytečně dlouho.
+ */
+function describe(error: unknown): string {
+  if (!(error instanceof Error)) return String(error);
+  const cause = error.cause;
+  if (cause instanceof Error) {
+    const code = (cause as NodeJS.ErrnoException).code;
+    return `${error.message} (${cause.message}${code ? `, ${code}` : ''})`;
+  }
+  return error.message;
 }
 
 /** Stáhne URL a vrátí text v UTF-8. */

@@ -40,6 +40,7 @@ Tohle je nejsilnější věc, se kterou lze přijít — přinášíme hodnotu d
 | Sekce „Informace z dopravy" je prakticky prázdná (289 znaků) | 1 sekce | totéž |
 | RSS kanály 4 a 8 vrací 0 položek | 2 kanály | „Tiskové zprávy" nefungují |
 | `robots.txt` je generický soubor dodavatele z roku **2011** | celý web | Blokuje i vlastní otevřená data města registrovaná v NKOD |
+| **Web má v DNS záznam AAAA, ale na IPv6 spojení nepřijímá** | celý web | Komukoli, kdo web volá z prostředí s IPv6, spojení náhodně padá. Ověřeno: `curl -4` vrátí 200, `curl -6` selže. |
 
 ### 2.3 Kvalitou proti stávajícímu řešení
 
