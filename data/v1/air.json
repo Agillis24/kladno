@@ -12,30 +12,30 @@
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 77.8,
+    "value": 81.8,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 2.6,
+    "value": 1,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 3.8,
+    "value": 2,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-04T16:28:31.403Z"
+   "fetchedAt": "2026-09-04T17:23:39.367Z"
   }
  },
  {
@@ -51,37 +51,37 @@
    {
     "code": "SO2",
     "name": "oxid siřičitý",
-    "value": 3.7,
+    "value": 4.5,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
     "value": 3.1,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 3.8,
+    "value": 4.2,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 4.1,
+    "value": 3.9,
     "unit": null,
-    "measuredAt": "2026-09-04T14:00:00.000Z"
+    "measuredAt": "2026-09-04T15:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-04T16:28:31.403Z"
+   "fetchedAt": "2026-09-04T17:23:39.367Z"
   }
  }
 ]
