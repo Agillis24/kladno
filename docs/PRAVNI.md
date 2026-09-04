@@ -1,8 +1,10 @@
 # Právní rámec
 
-Stav k 3. 9. 2026. Tenhle dokument popisuje, co jsem zjistil, a kde je rozhodnutí na vás.
-Nejsem právník a vy ano — tak níže nenajdete poučování o správním právu, ale fakta zjištěná
-z reálných zdrojů a otázky, na které je potřeba odpovědět, než se napíše první scraper.
+Stav k 4. 9. 2026. Zjištěná fakta, přijatá rozhodnutí a pravidla, kterými se řídí pipeline.
+Nejsem právník a vy ano — nenajdete tu tedy poučování o správním právu, ale doložené nálezy
+z reálných zdrojů a záznam toho, co se na jejich základě rozhodlo.
+
+Klíčové rozhodnutí (kap. 1): scrapujeme i přes plošný `Disallow: /`, v šetrném režimu.
 
 ---
 
@@ -53,7 +55,7 @@ Nejsou to argumenty pro ani proti, jen fakta, která by v rozhodování měla za
 5. Zároveň: `robots.txt` je konvence, ne právní předpis, a nic z výše uvedeného nemění to,
    co v souboru stojí.
 
-### Kde je hranice, kterou nepřekročím bez vašeho pokynu
+### Kde byla hranice před rozhodnutím
 
 Rozlišuji dvě různé věci, protože mají různou váhu:
 
@@ -62,8 +64,9 @@ Rozlišuji dvě různé věci, protože mají různou váhu:
 | **A. Odběr publikovaných feedů** | 10 URL (OFN + 9 kanálů), volaných jednou za hodinu | Data určená ke strojovému čtení, publikovaná v NKOD. Odebírat je považuji za obhajitelné i přes plošný `Disallow`. |
 | **B. Scraping HTML stránek** | Uzavírky, odpady, kontakty, akce — jednotlivé stránky webu | Tady `Disallow: /` míří přesně. Navíc přichází ke slovu **zvláštní právo pořizovatele databáze** (§ 88a a násl. autorského zákona) — systematické vytěžování obsahu webu je jiná kategorie než odběr feedu. |
 
-**Do doby, než rozhodnete, postavím fázi 1 výhradně na (A).** Ukázalo se, že to stačí na
-podstatně víc, než zadání předpokládalo — feedy pokrývají úřední desku i kalendář akcí.
+Fáze 1 nakonec zahrnuje obojí — rozhodnutí padlo ve prospěch plného rozsahu (viz níže).
+Stojí za zaznamenání, že feedy samy o sobě pokrývají úřední desku i kalendář akcí, takže
+varianta (A) by dala použitelnou aplikaci i bez scrapingu.
 
 ### Rozhodnutí zadavatele (4. 9. 2026)
 

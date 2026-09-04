@@ -1,6 +1,6 @@
 # Plán vývoje
 
-Stav: **odsouhlaseno 4. 9. 2026, probíhá fáze 1.** Napsáno po ověření všech zdrojů —
+Stav: **fáze 0 a 1 hotové (4. 9. 2026), další na řadě je fáze 2.** Napsáno po ověření všech zdrojů —
 podklady jsou v [ZDROJE.md](ZDROJE.md), právní rámec v [PRAVNI.md](PRAVNI.md).
 
 Odhady jsou v „dnech práce" ve smyslu soustředěné práce na jednom tématu, ne kalendářních dní.
