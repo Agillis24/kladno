@@ -1,13 +1,13 @@
 {
  "version": "v1",
- "generatedAt": "2026-09-04T10:00:24.796Z",
+ "generatedAt": "2026-09-04T10:10:58.673Z",
  "datasets": {
   "districts": {
    "file": "districts.json",
    "hash": "3a1e8fe30e42e7816c931f5faa7d28c4278eb50e927b83294334540441d7befa",
    "count": 6,
    "bytes": 939,
-   "lastSuccessfulFetch": "2026-09-04T09:59:17.407Z",
+   "lastSuccessfulFetch": "2026-09-04T10:09:56.549Z",
    "stale": false,
    "lastError": null
   },
@@ -16,72 +16,72 @@
    "hash": "c0654ac54fb2c089f0745396e773cf9f6df35dd033a1e100386896069cf89cda",
    "count": 578,
    "bytes": 155464,
-   "lastSuccessfulFetch": "2026-09-04T09:59:17.407Z",
+   "lastSuccessfulFetch": "2026-09-04T10:09:56.549Z",
    "stale": false,
    "lastError": null
   },
   "board": {
    "file": "board.json",
-   "hash": "ed2195ec61613bafd7fb1c73e66545f763badbfa509a308c0031e47538123919",
+   "hash": "1f71f6c926bc7caba12a53e4020d590894e980cce2003fe88c32937f89aaf483",
    "count": 112,
    "bytes": 117604,
-   "lastSuccessfulFetch": "2026-09-04T09:57:08.198Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/opendata-uredni-deska: fetch failed (, ETIMEDOUT)"
+   "lastSuccessfulFetch": "2026-09-04T10:09:57.473Z",
+   "stale": false,
+   "lastError": null
   },
   "events": {
    "file": "events.json",
-   "hash": "37b64b5cfd1aca9d6c2c08a5e68e3bf3e0a4ab1c4d53804cd02eea0b22cb1496",
+   "hash": "ddf0fd1d3833959e5ac15e91cd59d237183176b413f112a59973bb8ae8b74a24",
    "count": 27,
    "bytes": 28063,
-   "lastSuccessfulFetch": "2026-09-04T09:57:11.209Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/rss/?6: fetch failed (, ETIMEDOUT)"
+   "lastSuccessfulFetch": "2026-09-04T10:10:00.468Z",
+   "stale": false,
+   "lastError": null
   },
   "news": {
    "file": "news.json",
-   "hash": "b8bc6903f0df8688479dbb92aca78a71102cb0bc724ef4c0502e91186501e51e",
+   "hash": "f36412b4358abb309f5f9df479059daa7127d4ffabcd444cb03ffcf15625be41",
    "count": 50,
    "bytes": 46249,
-   "lastSuccessfulFetch": "2026-09-04T09:57:12.723Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/rss/?5: fetch failed (, ETIMEDOUT)"
+   "lastSuccessfulFetch": "2026-09-04T10:10:01.970Z",
+   "stale": false,
+   "lastError": null
   },
   "air": {
    "file": "air.json",
-   "hash": "437b815e205c3b0ddb8d91cab42896ab3310643ad4ffae290cfa27ee63c9d8de",
+   "hash": "453d89799eb9537407a22dc4e4028117e9e40ab47bc7be1eb827822da820c125",
    "count": 2,
    "bytes": 1830,
-   "lastSuccessfulFetch": "2026-09-04T09:59:53.000Z",
+   "lastSuccessfulFetch": "2026-09-04T10:10:04.990Z",
    "stale": false,
    "lastError": null
   },
   "traffic": {
    "file": "traffic.json",
-   "hash": "4b6aa6f5fb785e2cba344284ea448ccd009041eb68d9da72b9f1ffc0d5c7f92b",
+   "hash": "5dc03bc784bb8cc4aeb139740c2d54f5806f11bd783434a2d6f2999cb0be12e7",
    "count": 21,
    "bytes": 21850,
-   "lastSuccessfulFetch": "2026-09-04T09:57:14.398Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821: fetch failed (, ETIMEDOUT)"
+   "lastSuccessfulFetch": "2026-09-04T10:10:05.638Z",
+   "stale": false,
+   "lastError": null
   },
   "waste": {
    "file": "waste.json",
-   "hash": "592a2b1b713ab99fb19dea9693a01a047a61497d03e3969a82f44767847d2767",
+   "hash": "c3a26b7698183efd063c7fc093dd88f872532a89070991d138c4b1e00b7ef08c",
    "count": 3,
    "bytes": 2332,
-   "lastSuccessfulFetch": "2026-09-04T09:57:16.121Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618: fetch failed (, ETIMEDOUT)"
+   "lastSuccessfulFetch": "2026-09-04T10:10:07.336Z",
+   "stale": false,
+   "lastError": null
   },
   "contacts": {
    "file": "contacts.json",
-   "hash": "7581b60a29f1bb30b2d9265f97a3561997bbb830c3260bfda908693da3eeaf4c",
+   "hash": "1af4ba8a11fa9057bc98d9fea1453f6a28aa18ed81df9cc9997ce050a7809643",
    "count": 33,
    "bytes": 20101,
-   "lastSuccessfulFetch": "2026-09-04T09:57:17.758Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/odbory-magistratu/os-200244: fetch failed (, ETIMEDOUT)"
+   "lastSuccessfulFetch": "2026-09-04T10:10:08.789Z",
+   "stale": false,
+   "lastError": null
   }
  }
 }
