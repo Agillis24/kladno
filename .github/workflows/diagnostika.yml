@@ -2,8 +2,10 @@ name: Diagnostika dostupnosti webu města
 
 # Pomůcka pro případ, kdy pipeline hlásí síťové chyby, které se lokálně nedají
 # zopakovat. Runner běží v Azure (typicky East US) a chová se jinak než české
-# připojení — 4. 9. 2026 tak vyšlo najevo, že web města inzeruje IPv6, na kterém
-# nepřijímá spojení (docs/ZDROJE.md, kap. 11a).
+# připojení.
+#
+# Vlastní testy jsou v pipeline/src/diagnostika.ts, tady je jen obal a pár
+# kontrolních curlů pro srovnání s tím, co dělá Node.
 #
 # Spouští se jen ručně. Neběží v žádném plánu a nic nezapisuje.
 on:
@@ -13,55 +15,34 @@ jobs:
   zjisti:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.25.0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
       - name: Odkud voláme
         run: curl -sS --max-time 20 https://api.ipify.org && echo ""
 
-      - name: DNS
+      - name: curl pro srovnání
         run: |
-          getent ahosts www.mestokladno.cz || echo "getent selhal"
-          echo "---"
-          getent ahostsv4 www.mestokladno.cz || echo "žádná IPv4"
-          echo "---"
-          getent ahostsv6 www.mestokladno.cz || echo "žádná IPv6"
+          UA="MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)"
+          curl -sS -4 --max-time 30 -o /dev/null -A "$UA" \
+            -w "curl IPv4      HTTP=%{http_code} time=%{time_total}\n" \
+            https://www.mestokladno.cz/robots.txt || echo "curl IPv4 EXIT=$?"
+          curl -sS -6 --max-time 30 -o /dev/null -A "$UA" \
+            -w "curl IPv6      HTTP=%{http_code} time=%{time_total}\n" \
+            https://www.mestokladno.cz/robots.txt || echo "curl IPv6 EXIT=$?"
+          curl -sS --http1.1 --max-time 30 -o /dev/null -A "$UA" \
+            -w "curl HTTP/1.1  HTTP=%{http_code} time=%{time_total}\n" \
+            https://www.mestokladno.cz/robots.txt || echo "curl HTTP/1.1 EXIT=$?"
 
-      - name: curl výchozí
-        run: |
-          curl -sS -v --max-time 30 -o /dev/null \
-            -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)" \
-            https://www.mestokladno.cz/robots.txt 2>&1 | tail -30 || echo "EXIT=$?"
-
-      - name: curl vynuceně přes IPv4
-        run: |
-          curl -sS -4 --max-time 30 -o /dev/null -w "IPv4 HTTP=%{http_code} time=%{time_total}\n" \
-            -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)" \
-            https://www.mestokladno.cz/robots.txt || echo "IPv4 EXIT=$?"
-
-      - name: curl vynuceně přes IPv6
-        run: |
-          curl -sS -6 --max-time 30 -o /dev/null -w "IPv6 HTTP=%{http_code} time=%{time_total}\n" \
-            -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)" \
-            https://www.mestokladno.cz/robots.txt || echo "IPv6 EXIT=$?"
-
-      - name: curl s běžným prohlížečovým User-Agentem
-        run: |
-          curl -sS --max-time 30 -o /dev/null -w "UA prohlížeče HTTP=%{http_code}\n" \
-            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36" \
-            https://www.mestokladno.cz/robots.txt || echo "EXIT=$?"
-
-      - name: node fetch včetně příčiny chyby
-        run: |
-          node -e "
-          const url = 'https://www.mestokladno.cz/robots.txt';
-          fetch(url, { headers: { 'User-Agent': 'MojeKladnoBot/1.0' } })
-            .then((r) => { console.log('node fetch OK, status', r.status); })
-            .catch((e) => {
-              console.log('node fetch selhal:', e.message);
-              console.log('příčina:', e.cause?.message ?? e.cause ?? '(žádná)');
-              console.log('kód:', e.cause?.code ?? '(žádný)');
-            });
-          "
-
-      - name: kontrolní volání jiného českého webu
-        run: |
-          curl -sS --max-time 30 -o /dev/null -w "opendata.chmi.cz HTTP=%{http_code}\n" https://opendata.chmi.cz/ || echo "EXIT=$?"
-          curl -sS --max-time 30 -o /dev/null -w "vdp.cuzk.cz HTTP=%{http_code}\n" https://vdp.cuzk.cz/ || echo "EXIT=$?"
+      - name: Co na to Node
+        run: pnpm --filter @kladno/pipeline run diag

@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc --build && node dist/build.js",
-    "typecheck": "tsc --build"
+    "typecheck": "tsc --build",
+    "diag": "tsc --build && node dist/diagnostika.js"
   },
   "dependencies": {
     "@kladno/schema": "workspace:*",
