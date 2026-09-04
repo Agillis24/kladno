@@ -1,13 +1,13 @@
 {
  "version": "v1",
- "generatedAt": "2026-09-04T09:49:27.610Z",
+ "generatedAt": "2026-09-04T09:53:03.250Z",
  "datasets": {
   "districts": {
    "file": "districts.json",
    "hash": "3a1e8fe30e42e7816c931f5faa7d28c4278eb50e927b83294334540441d7befa",
    "count": 6,
    "bytes": 939,
-   "lastSuccessfulFetch": "2026-09-04T09:48:26.762Z",
+   "lastSuccessfulFetch": "2026-09-04T09:51:55.531Z",
    "stale": false,
    "lastError": null
   },
@@ -16,7 +16,7 @@
    "hash": "c0654ac54fb2c089f0745396e773cf9f6df35dd033a1e100386896069cf89cda",
    "count": 578,
    "bytes": 155464,
-   "lastSuccessfulFetch": "2026-09-04T09:48:26.762Z",
+   "lastSuccessfulFetch": "2026-09-04T09:51:55.531Z",
    "stale": false,
    "lastError": null
   },
@@ -26,8 +26,8 @@
    "count": 112,
    "bytes": 117604,
    "lastSuccessfulFetch": "2026-09-04T09:48:28.089Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "fetch failed"
   },
   "events": {
    "file": "events.json",
@@ -35,8 +35,8 @@
    "count": 27,
    "bytes": 28063,
    "lastSuccessfulFetch": "2026-09-04T09:48:31.109Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "fetch failed"
   },
   "news": {
    "file": "news.json",
@@ -44,15 +44,15 @@
    "count": 50,
    "bytes": 46249,
    "lastSuccessfulFetch": "2026-09-04T09:48:32.620Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "fetch failed"
   },
   "air": {
    "file": "air.json",
-   "hash": "b2fd736217c5f590ca9428436bba7e81a8a5e1802671504d1153d4e5784b0121",
+   "hash": "bd8ae3f6f37442cf2600336f2b27faf3050d8505e5960f5ed54f961fb906e957",
    "count": 2,
    "bytes": 1830,
-   "lastSuccessfulFetch": "2026-09-04T09:48:34.174Z",
+   "lastSuccessfulFetch": "2026-09-04T09:52:31.337Z",
    "stale": false,
    "lastError": null
   },
@@ -62,8 +62,8 @@
    "count": 21,
    "bytes": 21850,
    "lastSuccessfulFetch": "2026-09-04T09:48:34.309Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "fetch failed"
   },
   "waste": {
    "file": "waste.json",
@@ -71,8 +71,8 @@
    "count": 3,
    "bytes": 2332,
    "lastSuccessfulFetch": "2026-09-04T09:48:35.984Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "fetch failed"
   },
   "contacts": {
    "file": "contacts.json",
@@ -80,8 +80,8 @@
    "count": 33,
    "bytes": 20101,
    "lastSuccessfulFetch": "2026-09-04T09:48:37.608Z",
-   "stale": false,
-   "lastError": null
+   "stale": true,
+   "lastError": "fetch failed"
   }
  }
 }
