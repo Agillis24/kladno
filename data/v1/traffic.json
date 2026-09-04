@@ -1,0 +1,426 @@
+[
+ {
+  "id": "1513026",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Dopravní opatření - přesun odjezdových stání z důvodu rekonstrukce autobusového nádraží",
+  "description": "Rekonstrukce autobusového nádraží v Kladně od soboty 5. 9. 2026 přesouvá odjezdová stání jednotlivých linek.",
+  "validFrom": "2026-09-04T22:00:00.000Z",
+  "validTo": null,
+  "streets": [],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/dopravni-opatreni-presun-odjezdovych-stani-z-duvodu-rekonstrukce-autobusoveho-nadrazi/d-1513026",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1513097",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Dočasný zákaz zastavení a stanovení přechodné úpravy provozu na pozemních komunikacích - ulice Čs. armády",
+  "description": "Z důvodu zajištění bezpečnosti a plynulosti silničního provozu, stavebních prací a odstraňování stavební závady dojde k zákazu zastavení silničních vozidel na levém jízdním pásu ve směru staničení sil. II/238 v km 4,930 - 5,030, Kladno, ul. Čs. armády vč. parkovacího pruhu, v délce cca 100 m, s platností od 3.9.2026 do ukončení opravy.",
+  "validFrom": "2026-09-02T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Čs. armády"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/docasny-zakaz-zastaveni-a-stanoveni-prechodne-upravy-provozu-na-pozemnich-komunikacich-ulice-cs-armady/d-1513097",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1513037",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavírka místní komunikace ul. M. Horákové",
+  "description": "Prodloužení termínu úplné uzavírky části místní komunikace ul. Milady Horákové v Kladně, v úseku – od čp. 433 ul. M. Horákové k propojce u OD Tesco mezi ul. Americká a M. Horákové.Termín: celkové dokončení do 30.04. 2027.Důvod: pro výstavbu podchodu a realizaci kanalizace, v souvislosti se stavbou železnice „Modernizace trati Kladno – Kladno – Ostrovec“.Stanovená trasa objížďky: objízdná trasa pro vozidla je vedena po místních komunikacích propojkou u OD Lidl – ul. Americkou – propojkou u OD Tesco a zpět na původní trasu.",
+  "validFrom": "2026-08-31T22:00:00.000Z",
+  "validTo": "2027-04-29T22:00:00.000Z",
+  "streets": [
+   "Americká",
+   "Milady Horákové"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-mistni-komunikace-ul-m-horakove/d-1513037",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1513011",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Zastávky na náměstí Svobody se od 1. září vrací na původní místa",
+  "description": "Od 1. září se odjezdová stání na náměstí Svobody přesouvají do původních prostor zastávek. „Práce jsou ve finální fázi a náměstí Svobody se krásně rýsuje. Zastávky vracíme na svá původní stanoviště, aby zejména dětem usnadnily cestu do školy hned od prvního dne nového školního roku. Jde o zásadní, velmi rozsáhlou investici a hotovo bude dle harmonogramu zhruba v polovině září, což je stále v předstihu před smluveným termínem,“ vysvětlil primátor Milan Volf (Volba pro Kladno).",
+  "validFrom": "2026-08-30T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "náměstí Svobody"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/zastavky-na-namesti-svobody-se-od-1-zari-vraci-na-puvodni-mista/d-1513011",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1513021",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Výlukové jízdní řády - Praha, Nádraží Veleslavín - Středokluky - Kladno",
+  "description": "Z důvodu uzavírky sil. III/00718 v km 0,000 – 0,620, tj. úsek ul. Revoluční, Palackého a Náměstí od křiž. se sil. III/00715 (ul. Kladenská) po křiž. se sil. III/00719 (ul. Tyršova), na území města Buštěhrad dochází ke změnám jízdních řádů a tras autobusových linek, které touto oblastí projíždějí.",
+  "validFrom": "2026-08-30T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Kladenská",
+   "Tyršova"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/vylukove-jizdni-rady-praha-nadrazi-veleslavin-stredokluky-kladno/d-1513021",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1512879",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Přechodná úprava provozu na pozemních komunikacích III/23634a, ul. Jar. Seiferta a MK ul. Pod Lesním divadlem",
+  "description": "Z důvodů stavby inž. sítí, rekonstrukce a stavby komunikace dojde v termínu od 24.8. do 30.8.2026 k omezení na sil. III/23634a a od 24.8. do 31.10.2026 k vyloučení provozu na MK ul. Pod Lesním divadlem.",
+  "validFrom": "2026-08-23T22:00:00.000Z",
+  "validTo": "2026-08-29T22:00:00.000Z",
+  "streets": [
+   "Jar. Seiferta"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/prechodna-uprava-provozu-na-pozemnich-komunikacich-iii-23634a-ul-jar-seiferta-a-mk-ul-pod-lesnim-divadlem/d-1512879",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1512652",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavirka ulic Karla Tomana, Mládežnická a Vít. Nezvala",
+  "description": "Z důvodu stavebních úprav veřejného prostoru sídliště Rozdělov – sever, rekonstrukce komunikace a chodníkových ploch dojde k úplné uzavírce v následujících etapách:I. etapa: dne 31.08. 2026 – 12.11. 2026 úplná uzavírka části ul. Karla Tomana v úseku od křižovatky s ul.Severní až ke křižovatce s ul. MládežnickáII. etapa: dne 13.11. 2026 – 19.12. 2026 úplná uzavírka části ul. Mládežnická a ul. Vít. Nezvala v úseku od křižovatky s ul. Karla Tomana až k bytovému domu č.p. 750",
+  "validFrom": "2026-08-16T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Karla Tomana",
+   "Mládežnická",
+   "Severní",
+   "Vít. Nezvala"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-ulic-karla-tomana-mladeznicka-a-vit-nezvala/d-1512652",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1512488",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavírka místní komunikace ul. Horymírova v Kladně",
+  "description": "Úplná uzavírka místní komunikace ul. Horymírova v Kladně, v termínu od 05.08. 2026 do 30.09. 2026, z důvodu realizace obnovy vodovodního řadu s následnou opravou asfaltového povrchu komunikace, výkopové a instalační práce.",
+  "validFrom": "2026-08-04T22:00:00.000Z",
+  "validTo": "2026-09-29T22:00:00.000Z",
+  "streets": [
+   "Horymírova"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-mistni-komunikace-ul-horymirova-v-kladne/d-1512488",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1512462",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavírka místní komunikace ul. Jar. Elznice a ul. Věry Pechové v Kladně",
+  "description": "Úplná uzavírka místní komunikace ul. Jar. Elznice a ul. Věry Pechové v Kladně z důvodu stavby obnovy vodovodního řádu a následné pokládky nového asfaltového povrchu komunikace.Termín:Od 27.7. 2026 do 15.10.2026 uzavírka ul. Jar. Elznice,od 1.9. 2026 do 31.10.2026 uzavírka ul. Věry Pechové",
+  "validFrom": "2026-07-26T22:00:00.000Z",
+  "validTo": "2026-10-14T22:00:00.000Z",
+  "streets": [
+   "Věry Pechové"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-mistni-komunikace-ul-jar-elznice-a-ul-very-pechove-v-kladne/d-1512462",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1511034",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Dopravní opatření - přesun odjezdových stání jednotlivých linek",
+  "description": "Z důvodu rekonstrukce autobusového nádraží v Kladně se od 26.6.2026 přesouvají odjezdová stání jednotlivých linek",
+  "validFrom": "2026-06-25T22:00:00.000Z",
+  "validTo": null,
+  "streets": [],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/dopravni-opatreni-presun-odjezdovych-stani-jednotlivych-linek/d-1511034",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1511018",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Uzavírka ulice Na Vyhaslém",
+  "description": "Z důvodu umožnění stavby parkoviště, komunikace a chodníkových ploch dojde v termínu od 23.06. do 30.09. 2026 k uzavírce slepé části místní komunikace ul. Na Vyhaslém v Kladně (úsek před č.p. 3241 až 3177).",
+  "validFrom": "2026-06-22T22:00:00.000Z",
+  "validTo": "2026-09-29T22:00:00.000Z",
+  "streets": [
+   "Na vyhaslém"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uzavirka-ulice-na-vyhaslem/d-1511018",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1510931",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Výlukový jízdní řád z důvodu rekonstrukce železničního přejezdu P 2451 – Cvrčovice – Vrapice (623 - Kladno - Třebusice - Velvary)",
+  "description": "Z důvodu rekonstrukce železničního přejezdu P 2451 – Cvrčovice – Vrapice dochází ke změnám jízdních řádů a tras autobusových linek, které touto oblastí projíždějí.",
+  "validFrom": "2026-06-16T22:00:00.000Z",
+  "validTo": null,
+  "streets": [],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/vylukovy-jizdni-rad-z-duvodu-rekonstrukce-zeleznicniho-prejezdu-p-2451-cvrcovice-vrapice-623-kladno-trebusice-velvary/d-1510931",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1512653",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavírka ulice Hřebečská",
+  "description": "Z důvodu rekonstrukce komunikací a rozšíření stávajícího parkovacího pásu včetně následné opravy vozovky dojde k úplné uzavírce místní komunikace ul. Hřebečská v těchto etapách:I. Etapa: od 16.06. 2026 do 04.09. 2026 – uzavírka ul. Hřebečská od křižovatky s ul. V Bažantnici až k zásobovacímu prostoru prodejny Norma č.p. 2716II. Etapa: od 31.08. 2026 do 04.10. 2026 – dopravní omezení u bytového domu č.p. 2674 a 2676 (instalace teplovodního potrubí) a následná uzavírka ul. Hřebečská a ul. Jerevanská úsek komunikace od č.p. 2671 včetně křižovatky s ul. Jerevanská u č.p. 2588 až č.p. 2595",
+  "validFrom": "2026-06-15T22:00:00.000Z",
+  "validTo": "2026-09-03T22:00:00.000Z",
+  "streets": [
+   "Hřebečská",
+   "Jerevanská",
+   "V Bažantnici"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-ulice-hrebecska/d-1512653",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1510861",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavírka místní komunikace ul. Hřebečská",
+  "description": "Úplná uzavírka místní komunikace ul. Hřebečská v Kladně, z důvodu rekonstrukce komunikací a rozšíření stávajícího parkovacího pásu včetně následné opravy vozovky, v následujících etapách:I. Etapa: od 16.06. 2026 do 04.09. 2026 – uzavírka ul. Hřebečská od křižovatky s ul. V Bažantnici až k zásobovacímu prostoru prodejny Norma č.p. 2716",
+  "validFrom": "2026-06-15T22:00:00.000Z",
+  "validTo": "2026-09-03T22:00:00.000Z",
+  "streets": [
+   "Hřebečská",
+   "V Bažantnici"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-mistni-komunikace-ul-hrebecska/d-1510861",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1510369",
+  "kind": "traffic",
+  "severity": "critical",
+  "title": "Úplná uzavírka ulic Helsinská a Petrohradská",
+  "description": "Z důvodu provedení opravy a rekonstrukce komunikace, parkoviště a chodníkových ploch dojde k dopravnímu omezení s částečnou a úplnou uzavírku místní komunikace ul. Helsinská a ul. Petrohradská v těchto etapách:",
+  "validFrom": "2026-05-14T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Helsinská",
+   "Petrohradská"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uplna-uzavirka-ulic-helsinska-a-petrohradska/d-1510369",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1509701",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Dopravní opatření 26/6 - Dubská, Huťská a Průmyslová",
+  "description": "1. 4. 2026, AKTUALIZOVÁNO Z důvodu omezení provozu v ulicích Dubská, Huťská a Průmyslová dojde v termínu od středy 1. 4. 2026 do odvolání (předpoklad pondělí 31. 8. 2026) k úpravám trasy a jízdních řádů linek MHD 609, 611, 613, 614",
+  "validFrom": "2026-03-31T22:00:00.000Z",
+  "validTo": null,
+  "streets": [],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/dopravni-opatreni-26-6-dubska-hutska-a-prumyslova/d-1509701",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1508540",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Dopravní opatření MHD - náměstí Svobody",
+  "description": "Z důvodu ukončení výluky na lince 609 dochází od 18. 12. 2025 k úpravě provozu na náměstí Svobody do odvolání.Dotčené linky MHD: 601, 602, 603, 604, 605, 606, 609, 612, 614",
+  "validFrom": "2025-12-17T23:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "náměstí Svobody"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/dopravni-opatreni-mhd-namesti-svobody/d-1508540",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1507540",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Uzavírka nám. Svobody - Revitalizace - II. etapa - pokračování stavby",
+  "description": "Od 22.9. 2025 začíná II. etapa stavebních prací na náměstí Svobody a dochází k přesunutí autobusových zastávek, které cestující najdou na dvou místech - před spořitelnou v ulici Československé armády a naproti na druhé straně silnice. Po dobu rekonstrukce je zde zrušena i informační kancelář ČSAD MHD Kladno. Zároveň je upravena trasa pro chodce okolo náměstí Svobody ulicí Vašatova (viz. přiložený plánek). V prvních dnech budou v nejexponovanějších časech dohlížet na bezpečné přecházení chodců hlídky Městské policie Kladno, které zároveň pomohou občanům s orientací.",
+  "validFrom": "2025-09-21T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "náměstí Svobody",
+   "Vašatova"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uzavirka-nam-svobody-revitalizace-ii-etapa-pokracovani-stavby/d-1507540",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1507288",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Uzavírka nám. Svobody, sil. č. II/238 ul. Čs. armády, ul. Vašatova v Kladně,",
+  "description": "Z důvodu I. Etapy revitalizace nám. Svobody a přilehlých prostor dojde k uzavírce místní komunikace nám. Svobody, sil. č. II/238 ul. Čs. armády, ul. Vašatova v Kladně v těchto termínech:",
+  "validFrom": "2025-08-28T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Čs. armády",
+   "Svobody",
+   "Vašatova"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/uzavirka-nam-svobody-sil-c-ii-238-ul-cs-armady-ul-vasatova-v-kladne/d-1507288",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1502283",
+  "kind": "traffic",
+  "severity": "info",
+  "title": "Dopravní opatření 24/57 - ulice M. Horákové - PID-630",
+  "description": "Od pondělí 2. 9. 2024 bude do odvolání zrušená zastávka Kladno, Nádraží z důvodu uzavřené komunikace.Linka 630 obsluhuje náhradou zastávku Kladno, U Kauflandu.",
+  "validFrom": "2024-09-01T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Milady Horákové"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/dopravni-opatreni-24-57-ulice-m-horakove-pid-630/d-1502283",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ },
+ {
+  "id": "1502261",
+  "kind": "traffic",
+  "severity": "warning",
+  "title": "Dopravní opatření 24/56 - uzavírka ulice M. Horákové - MHD 605, 614",
+  "description": "V termínu od 2.9.2024 až do odvolání bude z důvodu uzavírky ulice M. Horákové zrušená zastávka Nádraží; linky 605 a 614 obsluhují náhradou zastávku U Kauflandu.",
+  "validFrom": "2024-09-01T22:00:00.000Z",
+  "validTo": null,
+  "streets": [
+   "Milady Horákové"
+  ],
+  "geo": null,
+  "detailUrl": "https://www.mestokladno.cz/dopravni-opatreni-24-56-uzavirka-ulice-m-horakove-mhd-605-614/d-1502261",
+  "source": {
+   "name": "Uzavírky komunikací a informace z dopravy",
+   "url": "https://www.mestokladno.cz/uzavirky-komunikaci-a-informace-z-dopravy/ds-43821",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:34.309Z"
+  }
+ }
+]

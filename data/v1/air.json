@@ -1,0 +1,87 @@
+[
+ {
+  "code": "SKLM",
+  "name": "Kladno-střed města",
+  "geo": {
+   "lat": 50.14385986328125,
+   "lng": 14.101783752441406
+  },
+  "index": 2,
+  "indexLabel": "dobrá",
+  "measurements": [
+   {
+    "code": "O3",
+    "name": "přízemní ozon",
+    "value": 58.7,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   },
+   {
+    "code": "PM2_5",
+    "name": "jemné částice PM2,5",
+    "value": 12.8,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   },
+   {
+    "code": "PM10",
+    "name": "částice PM10",
+    "value": 13.2,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   }
+  ],
+  "source": {
+   "name": "Kvalita ovzduší, ČHMÚ",
+   "url": "https://opendata.chmi.cz/air_quality/",
+   "license": "CC BY 4.0, Český hydrometeorologický ústav",
+   "fetchedAt": "2026-09-04T09:48:34.174Z"
+  }
+ },
+ {
+  "code": "SKLS",
+  "name": "Kladno-Švermov",
+  "geo": {
+   "lat": 50.16741180419922,
+   "lng": 14.106047630310059
+  },
+  "index": 2,
+  "indexLabel": "dobrá",
+  "measurements": [
+   {
+    "code": "SO2",
+    "name": "oxid siřičitý",
+    "value": 3.7,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   },
+   {
+    "code": "NO2",
+    "name": "oxid dusičitý",
+    "value": 4.6,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   },
+   {
+    "code": "NOx",
+    "name": "oxidy dusíku",
+    "value": 6.3,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   },
+   {
+    "code": "PM10",
+    "name": "částice PM10",
+    "value": 11.7,
+    "unit": null,
+    "measuredAt": "2026-09-04T08:00:00.000Z"
+   }
+  ],
+  "source": {
+   "name": "Kvalita ovzduší, ČHMÚ",
+   "url": "https://opendata.chmi.cz/air_quality/",
+   "license": "CC BY 4.0, Český hydrometeorologický ústav",
+   "fetchedAt": "2026-09-04T09:48:34.174Z"
+  }
+ }
+]

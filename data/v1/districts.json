@@ -1,0 +1,62 @@
+[
+ {
+  "id": "402001",
+  "name": "Kročehlavy",
+  "normalized": "krocehlavy",
+  "center": {
+   "lat": 50.136621,
+   "lng": 14.117442
+  },
+  "addressCount": 2971
+ },
+ {
+  "id": "401994",
+  "name": "Kladno",
+  "normalized": "kladno",
+  "center": {
+   "lat": 50.144982,
+   "lng": 14.091899
+  },
+  "addressCount": 2779
+ },
+ {
+  "id": "402028",
+  "name": "Švermov",
+  "normalized": "svermov",
+  "center": {
+   "lat": 50.167981,
+   "lng": 14.107982
+  },
+  "addressCount": 1797
+ },
+ {
+  "id": "402010",
+  "name": "Rozdělov",
+  "normalized": "rozdelov",
+  "center": {
+   "lat": 50.139452,
+   "lng": 14.065892
+  },
+  "addressCount": 1021
+ },
+ {
+  "id": "65161",
+  "name": "Dubí",
+  "normalized": "dubi",
+  "center": {
+   "lat": 50.155176,
+   "lng": 14.135441
+  },
+  "addressCount": 821
+ },
+ {
+  "id": "65170",
+  "name": "Vrapice",
+  "normalized": "vrapice",
+  "center": {
+   "lat": 50.167525,
+   "lng": 14.164188
+  },
+  "addressCount": 142
+ }
+]

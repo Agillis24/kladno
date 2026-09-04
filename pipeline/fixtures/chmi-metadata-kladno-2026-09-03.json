@@ -1,0 +1,574 @@
+{
+ "zaznamID": "052d848a-af1c-40d9-8ba4-13daac6bffaf",
+ "datumVytvoreni": "2026-08-30T06:38:47.000Z",
+ "data": {
+  "Localities": [
+   {
+    "LocalityCode": "SKLM",
+    "Name": "Kladno-střed města",
+    "Active": true,
+    "BasicInfo": {
+     "LocalityName": "Kladno-střed města",
+     "State": "Česká republika",
+     "Owner": "Český hydrometeorologický ústav",
+     "Region": "Středočeský",
+     "District": "Kladno",
+     "BasicAdministrativeUnit": "Kladno",
+     "DescriptionWeb": "Městská pozaďová stanice, která je umístěna ve středu horní části  části Kladna s vícepodlažní bytovou zástavbou asi 500m od centra. Lokalita je bez lokálních topenišť. Je umístěna na zelené ploše,  na dobře provětrávaném místě, poblíž parkoviště, které nemá zásadní vliv na měřené veličiny na této stanic. Vzhledem k otevřenému terénu  je vybavena meteorologickými čidly."
+    },
+    "Classification": {
+     "Abbreviation": "B/U/R",
+     "EOI_station_type": "pozaďová",
+     "EOI_zone_type": "městská",
+     "EOI_zone_characteristics": "obytná",
+     "EOI_B/R_subcategory": ""
+    },
+    "Address": {
+     "Street": "",
+     "PostCode": "",
+     "City": ""
+    },
+    "Manager": {
+     "Name": "ČHMÚ - Libuš CLI",
+     "Street": "Gen.Šišky 942",
+     "PostCode": "143 00",
+     "City": "Praha 4 - Kamýk",
+     "Phone": "244033467",
+     "E_Mail": "jan.silhavy@chmi.cz"
+    },
+    "Localization": {
+     "Lat": "50° 8´ 37.896 sš",
+     "Lon": "14° 6´ 6.422 vd",
+     "LatAsNumber": 50.14385986328125,
+     "LonAsNumber": 14.101783752441406,
+     "Alt": "303 m"
+    },
+    "SupplementaryData": {
+     "Terrain": "horní nebo střední část povlov. svahu (do 8%)",
+     "Landscape": "vícepodlažní zástavba (sídliště)",
+     "Representativeness": "okrskové měřítko (0.5-4 km)"
+    },
+    "Place": {
+     "Description": "Stanice je umístěna v panelové zástavbě u parkoviště, asi 50m od stanice je komunikace se slabým provozem."
+    },
+    "MeasuringPrograms": [
+     {
+      "Code": "SKLMA",
+      "Type": "Automatizovaný měřicí program",
+      "BasicInfo": {
+       "MeasPrgType": "Automatizovaný měřicí program",
+       "Measuring_networks": "Státní síť imisního monitoringu"
+      },
+      "Administrator": {
+       "Name": "ČHMÚ - Libuš CLI",
+       "Street": "Gen.Šišky 942",
+       "PostCode": "143 00",
+       "City": "Praha 4 - Kamýk",
+       "Phone": "244033451",
+       "E_Mail": "stepan.rychlik@chmi.cz"
+      },
+      "Target": {
+       "Description": "stanovení repr. konc. pro osídlené části území, využití při operativním řízení a regulaci (SVRS)"
+      },
+      "Cover": {
+       "Note": "kontejner (klimatizovaný)"
+      },
+      "Measurements": [
+       {
+        "IdRegistration": 41043,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 96,
+        "ComponentCode": "O3",
+        "ComponentName": "přízemní ozon",
+        "SamplingMethod": "",
+        "MeasuringMethod": "UV-absorpce",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "A",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "R",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "23.03.2015",
+          "InstrumentType": "Thermo Environmental Instruments (TEI), M49",
+          "InstrumentNumber": "22",
+          "Note": ""
+         },
+         {
+          "DateFrom": "24.03.2015",
+          "DateTo": null,
+          "InstrumentType": "Teledyne Advanced Pollution Instrumentation (TAPI), T400",
+          "InstrumentNumber": "96",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 41050,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 25,
+        "ComponentCode": "PM2_5",
+        "ComponentName": "jemné částice PM2,5",
+        "SamplingMethod": "",
+        "MeasuringMethod": "radiometrie - absorpce beta záření",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "N",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "A",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "21.06.2004",
+          "InstrumentType": "Thermo ESM Andersen, FH 62 I-R",
+          "InstrumentNumber": "26",
+          "Note": ""
+         },
+         {
+          "DateFrom": "22.06.2004",
+          "DateTo": null,
+          "InstrumentType": "Environnement SA, MP101M",
+          "InstrumentNumber": "25",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 41045,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 25,
+        "ComponentCode": "PM10",
+        "ComponentName": "částice PM10",
+        "SamplingMethod": "",
+        "MeasuringMethod": "radiometrie - absorpce beta záření",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "N",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "A",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "21.06.2004",
+          "InstrumentType": "Thermo ESM Andersen, FH 62 I-R",
+          "InstrumentNumber": "26",
+          "Note": ""
+         },
+         {
+          "DateFrom": "22.06.2004",
+          "DateTo": null,
+          "InstrumentType": "Environnement SA, MP101M",
+          "InstrumentNumber": "25",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 1648358,
+        "SeqLaboratory": 2,
+        "SeqDataSupplier": 2,
+        "SeqInstrumentDescr": 0,
+        "ComponentCode": "INDX",
+        "ComponentName": "Index kvality ovzduší",
+        "SamplingMethod": "",
+        "MeasuringMethod": "neurčeno",
+        "UnitAsASCII": "",
+        "UnitAsUNICODE": "",
+        "IsAuthorized": "Ne",
+        "HasRealTimeData": "Ne",
+        "ParallelOrder": "0",
+        "Accredited": "N",
+        "InterlabComparsionTest": "N",
+        "MetrologicalTraceability": "N",
+        "ValidationMethods": "N",
+        "TestEquivalence": "N",
+        "Uncertainty": "N",
+        "Interval": "1h",
+        "DateFrom": "2019-01-01T00:00:00.000Z",
+        "DateTo": null
+       }
+      ],
+      "Laboratories": [
+       {
+        "Seq": "Laboratoř č. 1 (L1)",
+        "Name": "ČHMÚ-CLI ",
+        "Street": "Gen.Šišky 942",
+        "PostCode": "143 00",
+        "City": "Praha 4 - Kamýk",
+        "Phone": "244033451",
+        "E_Mail": "stepan.rychlik@chmi.cz"
+       },
+       {
+        "Seq": "Laboratoř č. 2 (L2)",
+        "Name": "neurčeno",
+        "Street": "",
+        "PostCode": "",
+        "City": "",
+        "Phone": "",
+        "E_Mail": ""
+       }
+      ],
+      "DataSuppliers": [
+       {
+        "Seq": "Dodavatel dat č. 1 (D1)",
+        "Name": "ČHMÚ-Libuš AIM",
+        "Street": "Generála Šišky 942",
+        "PostCode": "143 00",
+        "City": "Praha 4 - Kamýk",
+        "Phone": "244 033 467",
+        "E_Mail": "jan.silhavy@chmi.cz"
+       },
+       {
+        "Seq": "Dodavatel dat č. 2 (D2)",
+        "Name": "neurčeno",
+        "Street": "",
+        "PostCode": "",
+        "City": "",
+        "Phone": "",
+        "E_Mail": ""
+       }
+      ]
+     }
+    ],
+    "EstablishmentAndTermination": {
+     "Establishment": "1999-02-10T00:00:00.000Z",
+     "Termination": null
+    }
+   },
+   {
+    "LocalityCode": "SKLS",
+    "Name": "Kladno-Švermov",
+    "Active": true,
+    "BasicInfo": {
+     "LocalityName": "Kladno-Švermov",
+     "State": "Česká republika",
+     "Owner": "Český hydrometeorologický ústav",
+     "Region": "Středočeský",
+     "District": "Kladno",
+     "BasicAdministrativeUnit": "Kladno",
+     "DescriptionWeb": "Městská pozaďová stanice, která je umístěna ve severní části Kladna ve středu lokality Švermov. Stanice se nachází na náměstí s nízkopodlažní zástavbou s vlivem kokálních topenišť, který se projevuje vyššími hodnotami PM10 a SO2 v době topné sezóny. Na  měřené koncentrace má vliv  přílehlé parkoviště a frekventovaná komunikace cca 80 m od stanice (výpadovka na Slaný) . Stanice je vybavena vzorkovačem na odběr vzorků pro měření těžkých kovů a PAH."
+    },
+    "Classification": {
+     "Abbreviation": "B/U/RI",
+     "EOI_station_type": "pozaďová",
+     "EOI_zone_type": "městská",
+     "EOI_zone_characteristics": "obytná, průmyslová",
+     "EOI_B/R_subcategory": ""
+    },
+    "Address": {
+     "Street": "Havlíčkovo nám.",
+     "PostCode": "",
+     "City": "Kladno"
+    },
+    "Manager": {
+     "Name": "ČHMÚ - Libuš CLI",
+     "Street": "Gen.Šišky 942",
+     "PostCode": "143 00",
+     "City": "Praha 4 - Kamýk",
+     "Phone": "244033467",
+     "E_Mail": "jan.silhavy@chmi.cz"
+    },
+    "Localization": {
+     "Lat": "50° 10´ 2.682 sš",
+     "Lon": "14° 6´ 21.771 vd",
+     "LatAsNumber": 50.16741180419922,
+     "LonAsNumber": 14.106047630310059,
+     "Alt": "219 m"
+    },
+    "SupplementaryData": {
+     "Terrain": "rovina, velmi málo zvlněný terén",
+     "Landscape": "řídká nízkopodlažní zástavba (ves, vilová čtvrť)",
+     "Representativeness": "okrskové měřítko (0.5-4 km)"
+    },
+    "Place": {
+     "Description": "Stanice je umístěna na náměstí, poblíž nízkopodlažní bytové zástavby s četnými lokálními topeništi. V blízkosti stanice parkují automobily. Hlavní komunikace je vzdálena asi 80m. "
+    },
+    "MeasuringPrograms": [
+     {
+      "Code": "SKLSA",
+      "Type": "Automatizovaný měřicí program",
+      "BasicInfo": {
+       "MeasPrgType": "Automatizovaný měřicí program",
+       "Measuring_networks": "Státní síť imisního monitoringu"
+      },
+      "Administrator": {
+       "Name": "ČHMÚ - Libuš CLI",
+       "Street": "Gen.Šišky 942",
+       "PostCode": "143 00",
+       "City": "Praha 4 - Kamýk",
+       "Phone": "244033451",
+       "E_Mail": "stepan.rychlik@chmi.cz"
+      },
+      "Target": {
+       "Description": "využití při operativním řízení a regulaci (SVRS), určení vlivu na zdravotní stav obyvatelstva"
+      },
+      "Cover": {
+       "Note": "kontejner (klimatizovaný)"
+      },
+      "Measurements": [
+       {
+        "IdRegistration": 41056,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 93,
+        "ComponentCode": "SO2",
+        "ComponentName": "oxid siřičitý",
+        "SamplingMethod": "",
+        "MeasuringMethod": "UV-fluorescence",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "A",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "R",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "24.03.2015",
+          "InstrumentType": "Thermo Environmental Instruments (TEI), M43",
+          "InstrumentNumber": "17",
+          "Note": ""
+         },
+         {
+          "DateFrom": "25.03.2015",
+          "DateTo": null,
+          "InstrumentType": "Teledyne Advanced Pollution Instrumentation (TAPI), T100",
+          "InstrumentNumber": "93",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 41058,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 94,
+        "ComponentCode": "NO2",
+        "ComponentName": "oxid dusičitý",
+        "SamplingMethod": "",
+        "MeasuringMethod": "chemiluminiscence",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "A",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "R",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "24.03.2015",
+          "InstrumentType": "Thermo Environmental Instruments (TEI), M42",
+          "InstrumentNumber": "18",
+          "Note": ""
+         },
+         {
+          "DateFrom": "25.03.2015",
+          "DateTo": null,
+          "InstrumentType": "Teledyne Advanced Pollution Instrumentation (TAPI), T200",
+          "InstrumentNumber": "94",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 41059,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 94,
+        "ComponentCode": "NOx",
+        "ComponentName": "oxidy dusíku",
+        "SamplingMethod": "",
+        "MeasuringMethod": "chemiluminiscence",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "A",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "R",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "24.03.2015",
+          "InstrumentType": "Thermo Environmental Instruments (TEI), M42",
+          "InstrumentNumber": "18",
+          "Note": ""
+         },
+         {
+          "DateFrom": "25.03.2015",
+          "DateTo": null,
+          "InstrumentType": "Teledyne Advanced Pollution Instrumentation (TAPI), T200",
+          "InstrumentNumber": "94",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 41060,
+        "SeqLaboratory": 1,
+        "SeqDataSupplier": 1,
+        "SeqInstrumentDescr": 25,
+        "ComponentCode": "PM10",
+        "ComponentName": "částice PM10",
+        "SamplingMethod": "",
+        "MeasuringMethod": "radiometrie - absorpce beta záření",
+        "UnitAsASCII": "ug/m^3",
+        "UnitAsUNICODE": "µg∙m⁻³",
+        "IsAuthorized": "Ano",
+        "HasRealTimeData": "Ano",
+        "ParallelOrder": "0",
+        "Accredited": "A",
+        "InterlabComparsionTest": "N",
+        "MetrologicalTraceability": "A",
+        "ValidationMethods": "A",
+        "TestEquivalence": "A",
+        "Uncertainty": "A",
+        "Interval": "1h",
+        "DateFrom": "2004-01-01T00:00:00.000Z",
+        "DateTo": null,
+        "InstrumentsHistory": [
+         {
+          "DateFrom": "01.01.2004",
+          "DateTo": "24.03.2015",
+          "InstrumentType": "Thermo ESM Andersen, FH 62 I-R",
+          "InstrumentNumber": "26",
+          "Note": ""
+         },
+         {
+          "DateFrom": "25.03.2015",
+          "DateTo": null,
+          "InstrumentType": "Environnement SA, MP101M",
+          "InstrumentNumber": "25",
+          "Note": ""
+         }
+        ]
+       },
+       {
+        "IdRegistration": 1649039,
+        "SeqLaboratory": 2,
+        "SeqDataSupplier": 2,
+        "SeqInstrumentDescr": 0,
+        "ComponentCode": "INDX",
+        "ComponentName": "Index kvality ovzduší",
+        "SamplingMethod": "",
+        "MeasuringMethod": "neurčeno",
+        "UnitAsASCII": "",
+        "UnitAsUNICODE": "",
+        "IsAuthorized": "Ne",
+        "HasRealTimeData": "Ne",
+        "ParallelOrder": "0",
+        "Accredited": "N",
+        "InterlabComparsionTest": "N",
+        "MetrologicalTraceability": "N",
+        "ValidationMethods": "N",
+        "TestEquivalence": "N",
+        "Uncertainty": "N",
+        "Interval": "1h",
+        "DateFrom": "2019-01-01T00:00:00.000Z",
+        "DateTo": null
+       }
+      ],
+      "Laboratories": [
+       {
+        "Seq": "Laboratoř č. 1 (L1)",
+        "Name": "ČHMÚ-CLI ",
+        "Street": "Gen.Šišky 942",
+        "PostCode": "143 00",
+        "City": "Praha 4 - Kamýk",
+        "Phone": "244033451",
+        "E_Mail": "stepan.rychlik@chmi.cz"
+       },
+       {
+        "Seq": "Laboratoř č. 2 (L2)",
+        "Name": "neurčeno",
+        "Street": "",
+        "PostCode": "",
+        "City": "",
+        "Phone": "",
+        "E_Mail": ""
+       }
+      ],
+      "DataSuppliers": [
+       {
+        "Seq": "Dodavatel dat č. 1 (D1)",
+        "Name": "ČHMÚ-Libuš AIM",
+        "Street": "Generála Šišky 942",
+        "PostCode": "143 00",
+        "City": "Praha 4 - Kamýk",
+        "Phone": "244 033 467",
+        "E_Mail": "jan.silhavy@chmi.cz"
+       },
+       {
+        "Seq": "Dodavatel dat č. 2 (D2)",
+        "Name": "neurčeno",
+        "Street": "",
+        "PostCode": "",
+        "City": "",
+        "Phone": "",
+        "E_Mail": ""
+       }
+      ]
+     }
+    ],
+    "EstablishmentAndTermination": {
+     "Establishment": "1999-02-10T00:00:00.000Z",
+     "Termination": null
+    }
+   }
+  ]
+ }
+}

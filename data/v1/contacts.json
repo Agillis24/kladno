@@ -1,0 +1,563 @@
+[
+ {
+  "id": "1012",
+  "name": "Odbor finanční",
+  "department": null,
+  "role": null,
+  "phone": "+420312604356",
+  "email": "odbor.financni@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova A)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-financni/os-1012",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:38.914Z"
+  }
+ },
+ {
+  "id": "1037",
+  "name": "Oddělení účetnictví",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova A, II. patro)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-ucetnictvi/os-1037",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:40.357Z"
+  }
+ },
+ {
+  "id": "1036",
+  "name": "Oddělení správy rozpočtu a fin. plánování",
+  "department": null,
+  "role": null,
+  "phone": "+420312604364",
+  "email": "dana.stecova@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova A, II. patro)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-spravy-rozpoctu-a-fin-planovani/os-1036",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:41.943Z"
+  }
+ },
+ {
+  "id": "1035",
+  "name": "Daně a poplatky, pokladna",
+  "department": null,
+  "role": null,
+  "phone": "+420312604358",
+  "email": null,
+  "building": "Magistrát města kladnanám. Starosty Pavla 44272 52 Kladno (budova A, přízemí)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/dane-a-poplatky-pokladna/os-1035",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:43.556Z"
+  }
+ },
+ {
+  "id": "1070",
+  "name": "Odbor investic",
+  "department": null,
+  "role": null,
+  "phone": "+420312604181",
+  "email": "petr.dubravsky@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova B, 1. patro, č. dveří 111)Zobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-investic/os-1070",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:45.068Z"
+  }
+ },
+ {
+  "id": "200167",
+  "name": "Oddělení administrativní realizace rozpočtovaných prostředků",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-administrativni-realizace-rozpoctovanych-prostredku/os-200167",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:46.474Z"
+  }
+ },
+ {
+  "id": "200168",
+  "name": "Oddělení realizace investičních projektů",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-realizace-investicnich-projektu/os-200168",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:47.941Z"
+  }
+ },
+ {
+  "id": "4338",
+  "name": "Odbor správy majetku",
+  "department": null,
+  "role": null,
+  "phone": "+420312604261",
+  "email": "odbor.majetku@mestokladno.cz",
+  "building": "Magistrát města KladnaZádušní 1841272 01 KladnoZobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-spravy-majetku/os-4338",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:49.585Z"
+  }
+ },
+ {
+  "id": "4438",
+  "name": "Oddělení správy majetku",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-spravy-majetku/os-4438",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:50.939Z"
+  }
+ },
+ {
+  "id": "1018",
+  "name": "Odbor dopravy a služeb",
+  "department": null,
+  "role": null,
+  "phone": "+420312604331",
+  "email": "odbor.dopravy@mestokladno.cz",
+  "building": "Magistát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova B, II. patro)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-dopravy-a-sluzeb/os-1018",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:52.712Z"
+  }
+ },
+ {
+  "id": "200054",
+  "name": "Dokumenty - kanalizace, průmyslový vodovod (komerční zóna Kladno-východ, ČOV Čabárna",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 01 Kladno (2. patro)Zobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/dokumenty-kanalizace-prumyslovy-vodovod-komercni-zona-kladno-vychod-cov-cabarna/os-200054",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:55.554Z"
+  }
+ },
+ {
+  "id": "4638",
+  "name": "Odbor živnostenský",
+  "department": null,
+  "role": null,
+  "phone": "+420312604611",
+  "email": "odbor.zivnostensky@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. 17. listopadu 2840 272 52 Kladno (budova B)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-zivnostensky/os-4638",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:55.954Z"
+  }
+ },
+ {
+  "id": "4838",
+  "name": "Oddělení registrace živností",
+  "department": null,
+  "role": null,
+  "phone": "+420312604430",
+  "email": null,
+  "building": "Magistrát města Kladnanám 17. listopadu 2840 272 01 Kladno",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-registrace-zivnosti/os-4838",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:57.636Z"
+  }
+ },
+ {
+  "id": "4938",
+  "name": "Oddělení kontrolně správní",
+  "department": null,
+  "role": null,
+  "phone": "+420312604423",
+  "email": null,
+  "building": "Magistrát města Kladnanám 17. listopadu 2840 272 01 Kladno",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-kontrolne-spravni/os-4938",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:58.811Z"
+  }
+ },
+ {
+  "id": "1011",
+  "name": "Odbor správní",
+  "department": null,
+  "role": null,
+  "phone": "+420312604606",
+  "email": "odbor.spravni@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Svobody 1960272 01 Kladno",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-spravni/os-1011",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:00.593Z"
+  }
+ },
+ {
+  "id": "1028",
+  "name": "Oddělení přestupkového řízení",
+  "department": null,
+  "role": null,
+  "phone": "+420312604464",
+  "email": "jirina.berounska@mestokladno.cz",
+  "building": "Magistrát města Kladnanám 17. listopadu 2840 272 01 Kladno (budova C, vchod C2, 1. patro, č. 101)Zobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-prestupkoveho-rizeni/os-1028",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:02.201Z"
+  }
+ },
+ {
+  "id": "3138",
+  "name": "Oddělení dopravně správních agend",
+  "department": null,
+  "role": null,
+  "phone": "+420312604671",
+  "email": null,
+  "building": "Magistrát města KladnaNám. Svobody 1960 Kladno (přízemí)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-dopravne-spravnich-agend/os-3138",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:03.245Z"
+  }
+ },
+ {
+  "id": "3238",
+  "name": "Oddělení občanských průkazů a cestovních dokladů",
+  "department": null,
+  "role": null,
+  "phone": "+420312604451",
+  "email": "obcanske.prukazy@mestokladno.cz",
+  "building": "Pracoviště MMK - Centrum správních agendnám. Svobody 1960 272 01 Kladno (I. patro)Zobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-obcanskych-prukazu-a-cestovnich-dokladu/os-3238",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:04.933Z"
+  }
+ },
+ {
+  "id": "1030",
+  "name": "Oddělení evidence obyvatel",
+  "department": null,
+  "role": null,
+  "phone": "+420312604202",
+  "email": "evidence.obyvatel@mestokladno.cz",
+  "building": "Pracoviště MMK - Centrum správních agendnám. Svobody 1960272 01 Kladno (I. patro)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-evidence-obyvatel/os-1030",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:06.317Z"
+  }
+ },
+ {
+  "id": "1032",
+  "name": "Místní úřadovny",
+  "department": null,
+  "role": null,
+  "phone": "+420312604160",
+  "email": null,
+  "building": "Místní úřadovna DubíVrapická 474Kladno - Dubí",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/mistni-uradovny/os-1032",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:07.796Z"
+  }
+ },
+ {
+  "id": "1013",
+  "name": "Odbor výstavby (stavební úřad)",
+  "department": null,
+  "role": null,
+  "phone": "+420312604303",
+  "email": "odbor.vystavby@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova A)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-vystavby-stavebni-urad/os-1013",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:09.683Z"
+  }
+ },
+ {
+  "id": "200171",
+  "name": "Spisovna Odboru výstavby",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/spisovna-odboru-vystavby/os-200171",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:11.074Z"
+  }
+ },
+ {
+  "id": "3438",
+  "name": "Odbor sociální",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": "odbor.socialni@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. 17. listopadu 2840272 01 KladnoZobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-socialni/os-3438",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:12.591Z"
+  }
+ },
+ {
+  "id": "1044",
+  "name": "Oddělení sociálně-právní ochrany dětí",
+  "department": null,
+  "role": null,
+  "phone": "+420312604704",
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-socialne-pravni-ochrany-deti/os-1044",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:13.815Z"
+  }
+ },
+ {
+  "id": "3838",
+  "name": "Oddělení sociálně právní ochrany a prevence",
+  "department": null,
+  "role": null,
+  "phone": "+420312604703",
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-socialne-pravni-ochrany-a-prevence/os-3838",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:15.421Z"
+  }
+ },
+ {
+  "id": "200050",
+  "name": "Oddělení sociální práce, krizového řízení a bezpečnosti",
+  "department": null,
+  "role": null,
+  "phone": "+420312604715",
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-socialni-prace-krizoveho-rizeni-a-bezpecnosti/os-200050",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:17.190Z"
+  }
+ },
+ {
+  "id": "1015",
+  "name": "Odbor životního prostředí",
+  "department": null,
+  "role": null,
+  "phone": "+420312604382",
+  "email": "odbor.ziv.prostredi@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 Kladno (budova B a D)",
+  "officeHours": "Pondělí: 8:00 - 12:00, 13:00 - 18:00",
+  "detailUrl": "https://www.mestokladno.cz/odbor-zivotniho-prostredi/os-1015",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:18.517Z"
+  }
+ },
+ {
+  "id": "1059",
+  "name": "Oddělení státní správy v oblasti životního prostředí",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44 272 52 KladnoZobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-statni-spravy-v-oblasti-zivotniho-prostredi/os-1059",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:20.013Z"
+  }
+ },
+ {
+  "id": "200250",
+  "name": "Oddělení vodního hospodářství a ochrany vod",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-vodniho-hospodarstvi-a-ochrany-vod/os-200250",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:21.619Z"
+  }
+ },
+ {
+  "id": "6077",
+  "name": "Oddělení samosprávných činností v oblasti životního prostředí",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": "Statutární město Kladnonám. Starosty Pavla 44 272 52 KladnoZobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/oddeleni-samospravnych-cinnosti-v-oblasti-zivotniho-prostredi/os-6077",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:23.102Z"
+  }
+ },
+ {
+  "id": "200239",
+  "name": "Úsek manuálních prací a péče o veřejné prostory",
+  "department": null,
+  "role": null,
+  "phone": null,
+  "email": null,
+  "building": null,
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/usek-manualnich-praci-a-pece-o-verejne-prostory/os-200239",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:24.504Z"
+  }
+ },
+ {
+  "id": "4738",
+  "name": "Odbor bezpečnostních rizik a IT outsourcingu Magistrátu města Kladna",
+  "department": null,
+  "role": null,
+  "phone": "+420312604283",
+  "email": "uits@mestokladno.cz",
+  "building": "Magistrát města Kladnanám. Starosty Pavla 44272 52 Kladno (budova A, 3.patro)",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/odbor-bezpecnostnich-rizik-a-it-outsourcingu-magistratu-mesta-kladna/os-4738",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:26.158Z"
+  }
+ },
+ {
+  "id": "10",
+  "name": "Statutární město Kladno",
+  "department": null,
+  "role": null,
+  "phone": "+420312604111",
+  "email": "posta@mestokladno.cz",
+  "building": "Statutární město Kladnonám. Starosty Pavla 44272 01 Kladno (I. patro, č. kanceláře 116)Zobrazit v mapě",
+  "officeHours": null,
+  "detailUrl": "https://www.mestokladno.cz/statutarni-mesto-kladno/os-10",
+  "source": {
+   "name": "Magistrát města Kladna",
+   "url": "https://www.mestokladno.cz/odbory-magistratu/os-200244",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:49:27.595Z"
+  }
+ }
+]

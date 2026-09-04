@@ -1,0 +1,59 @@
+[
+ {
+  "id": "sd-smecenska-381-kladno-rozdelov",
+  "name": "Sběrný dvůr Smečenská 381, Kladno Rozdělov",
+  "kind": "sberny-dvur",
+  "geo": {
+   "lat": 50.142482,
+   "lng": 14.060072
+  },
+  "address": "Smečenská 381, Kladno Rozdělov",
+  "openingHours": "Pondělí 8:00–17:00, Úterý 8:00–18:00, Středa 8:00–17:00, Čtvrtek 8:00–18:00, Pátek 8:00–17:00, Sobota 8:00–13:00, Neděle 9:00–12:00",
+  "phone": "606 765 663",
+  "url": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618",
+  "source": {
+   "name": "Sběrné dvory města Kladna",
+   "url": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:35.984Z"
+  }
+ },
+ {
+  "id": "sd-vrapicka-kladno-vrapice",
+  "name": "Sběrný dvůr Vrapická, Kladno - Vrapice",
+  "kind": "sberny-dvur",
+  "geo": {
+   "lat": 50.162218,
+   "lng": 14.145813
+  },
+  "address": "Vrapická, Kladno - Vrapice",
+  "openingHours": "Pondělí 8:00–16:00, Úterý 10:00–18:00, Středa 8:00–16:00, Čtvrtek 10:00–18:00, Pátek 8:00–16:00, Sobota 8:00–13:00",
+  "phone": "720 597 538",
+  "url": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618",
+  "source": {
+   "name": "Sběrné dvory města Kladna",
+   "url": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:35.984Z"
+  }
+ },
+ {
+  "id": "sd-mladeznicka-kladno",
+  "name": "Sběrný dvůr Mládežnická, Kladno",
+  "kind": "sberny-dvur",
+  "geo": {
+   "lat": 50.145296,
+   "lng": 14.07417
+  },
+  "address": "Mládežnická, Kladno",
+  "openingHours": "Pondělí 10:00–18:00, Úterý 10:00–18:00, Středa 10:00–18:00, Čtvrtek 10:00–18:00, Pátek 10:00–18:00, Sobota 8:00–13:00",
+  "phone": "733 172 449",
+  "url": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618",
+  "source": {
+   "name": "Sběrné dvory města Kladna",
+   "url": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618",
+   "license": "Obsah © Statutární město Kladno, aplikace odkazuje na originál",
+   "fetchedAt": "2026-09-04T09:48:35.984Z"
+  }
+ }
+]

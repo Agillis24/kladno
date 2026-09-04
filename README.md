@@ -8,7 +8,7 @@ ovzduší a kontakty na úřad na jednom místě.
 
 ## Stav
 
-**Fáze 0 — průzkum dokončen, plán čeká na odsouhlasení.** Aplikační kód zatím nevzniká.
+**Fáze 1 hotová** — pipeline generuje data. Další na řadě je fáze 2, aplikace.
 
 | Dokument | Obsah |
 |---|---|

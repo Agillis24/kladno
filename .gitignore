@@ -9,3 +9,6 @@ dist/
 Thumbs.db
 coverage/
 pipeline/.cache/
+
+# Výstup pipeline pro CI, nepatří do repozitáře.
+pipeline-problems.json

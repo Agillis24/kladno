@@ -1,6 +1,6 @@
 # Katalog datových zdrojů
 
-**Poslední kontrola: 3. 9. 2026.** Vše níže bylo skutečně staženo a rozebráno, ne odhadnuto.
+**Poslední kontrola: 4. 9. 2026.** Vše níže bylo skutečně staženo a rozebráno, ne odhadnuto.
 Sloupec „ověřeno" znamená: staženo, otevřeno, spočítány záznamy, zkontrolována pole.
 
 Legenda stavu:
@@ -78,7 +78,8 @@ Skutečné pokrytí polí (ne co slibuje norma):
 
 | Pole | Vyplněno | Poznámka |
 |---|---|---|
-| `typ`, `url`, `iri`, `název`, `vyvěšení`, `relevantní_do` | **114 / 114** | spolehlivé |
+| `typ`, `url`, `iri`, `název`, `vyvěšení` | **114 / 114** | spolehlivé |
+| `relevantní_do` → `datum` | **67 / 114** | u zbylých 47 je `nespecifikovaný: true` — konec vyvěšení není znám (typicky volební dokumenty). Opraveno 4. 9. 2026: dřívější údaj „114 / 114" počítal přítomnost klíče, ne hodnoty. |
 | `dokument` | 113 / 114 | |
 | `číslo_jednací` | **10 / 114** | prakticky nepoužitelné |
 | `spisová_značka` | **1 / 114** | prakticky nepoužitelné |
@@ -106,7 +107,7 @@ Ověřeno porovnáním množin ID: **kanál 9 a OFN obsahují přesně stejných
 | | OFN | Kanál 9 |
 |---|---|---|
 | Kategorie / složka | ✗ chybí | ✅ **114 / 114** (`TYP` + `TYPCESTA` s celou cestou) |
-| `relevantní_do` / `STAZENO` | ✅ 114 / 114 | ⚠️ jen 67 / 114 |
+| Konec vyvěšení | ⚠️ 67 / 114 (u 47 `nespecifikovaný`) | ⚠️ stejných 67 / 114 |
 | Číslo jednací, spisová značka | ⚠️ 10, resp. 1 | ✗ |
 
 **Doporučení: spojit OFN + kanál 9 přes ID dokumentu.** Zadání v kap. 5.2 navrhuje párovat OFN s RSS 7, ale ten má jen 50 položek — pokryl by méně než polovinu desky. Kanál 9 pokryje vše.
@@ -359,6 +360,28 @@ Doporučení: v aplikaci nabídnout **6 úředních částí** a lidové názvy 
 | **Městská policie** `mpkladno.cz` | Také VISMO. **RSS ale nemá** — `/rss?1` i `/rss/?6` vrací 404. Sitemap má (651 KB). `robots.txt` **opět `Disallow: /`**. | bez RSS |
 | **YouTube kanál města** | HTTP 200, Atom, 26 034 B, bez klíče | **funguje** |
 | Portál občana, Rezervace | Bez API, jen deep link — dle zadání | ok |
+
+---
+
+## 11a. Co ukázal ostrý provoz (4. 9. 2026)
+
+Pipeline běží a plní `data/v1/`. Několik věcí se dalo zjistit až při skutečném zpracování,
+ne při průzkumu:
+
+| Zjištění | Dopad |
+|---|---|
+| **OFN uvádí `nespecifikovaný: true`** místo data u 47 ze 114 dokumentů | Konec vyvěšení prostě není znám. Průzkum to přehlédl — počítal přítomnost klíče, ne hodnoty. |
+| **Kanál 9 posílá prázdný `<STAZENO></STAZENO>`** místo vynechání tagu | Bez ošetření se prázdný řetězec protlačí dál jako neplatné datum. |
+| **Jmenovité zákazy v `robots.txt` jsou zapsané u vyhledávačů**, ne ve skupině `*` | Skupina `*` má jen plošné `Disallow: /`. Kdo čte jen ji, nechrání nic — pipeline proto sbírá jmenovité zákazy ze všech skupin (20 cest). |
+| **Sběrné dvory jsou v HTML tabulkách**, ne v plochém textu | Parser je čte z `<table>`, což je spolehlivější, než jak to vypadalo z textového výpisu. |
+| **Datumy v uzavírkách se píšou i bez roku** („od 23.06. do 30.09. 2026") | Rok se doplňuje z nejbližšího dalšího data v textu. |
+| **První datum v textu uzavírky nebývá začátek**, ale termín dokončení | Začátek se bere jen za slovem „od", jinak platí datum vyvěšení. Jinak by uzavírka tvrdila, že začne za rok. |
+| **Ulice se v textech vždy uvádějí s uvozením** („ul. Kladenská") | Jednoslovné názvy se proto bez uvození nepřijímají — jinak „Práce jsou ve finální fázi" označí náměstí Práce. |
+| **Řada pracovišť nemá vlastní úřední e-mail** | 15 z 33; zbytek zůstává bez kontaktu. Podrobně v [PRAVNI.md](PRAVNI.md), kap. 3.2. |
+
+Ověřený objem dat z ostrého běhu: 578 ulic, 6 částí obce, 112 dokumentů úřední desky,
+27 akcí, 50 aktualit, 2 stanice ovzduší, 21 uzavírek, 3 sběrné dvory, 33 pracovišť.
+Celý běh trvá 61 s včetně povinných prodlev mezi požadavky.
 
 ---
 

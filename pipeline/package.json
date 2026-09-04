@@ -4,8 +4,19 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node --experimental-strip-types src/build.ts",
+    "build": "tsc --build && node dist/build.js",
     "typecheck": "tsc --build"
   },
-  "dependencies": { "@kladno/schema": "workspace:*" }
+  "dependencies": {
+    "@kladno/schema": "workspace:*",
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.11.1",
+    "fflate": "^0.8.3",
+    "iconv-lite": "^0.7.3",
+    "proj4": "^2.22.0",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/proj4": "^2.19.0"
+  }
 }

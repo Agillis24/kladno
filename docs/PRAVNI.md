@@ -65,20 +65,35 @@ Rozlišuji dvě různé věci, protože mají různou váhu:
 **Do doby, než rozhodnete, postavím fázi 1 výhradně na (A).** Ukázalo se, že to stačí na
 podstatně víc, než zadání předpokládalo — feedy pokrývají úřední desku i kalendář akcí.
 
-### Tři cesty, ze kterých je potřeba vybrat
+### Rozhodnutí zadavatele (4. 9. 2026)
 
-| | Cesta | Co to znamená | Co získáte | Co ztratíte |
-|---|---|---|---|---|
-| **1** | **Napsat městu dřív než psát scrapery** | E-mail tiskovému odboru / tajemníkovi: kdo jste, co stavíte, prosba o souhlas se scrapingem a o výjimku v `robots.txt` pro `MojeKladnoBot` | Právní jistotu, kontakt navázaný před fází 5, možná i data MHD | Několik týdnů čekání |
-| **2** | **Jen feedy, žádný scraping** | Fáze 1 pouze na (A) | Můžete stavět hned, bez otevřených otázek | Uzavírky, odpady, kontakty a sběrné dvory v aplikaci nebudou |
-| **3** | **Scrapovat i tak** | Šetrně, s vlastním UA, 1 req/1,5 s | Plný rozsah zadání hned | Rozpor s `robots.txt` a s kap. 9.5 zadání; riziko v okamžiku, kdy budete s městem jednat |
+Předložil jsem tři cesty: (1) napsat městu a mezitím stavět jen na feedech, (2) jen feedy
+bez oslovení města, (3) scrapovat i přes `robots.txt`. Doporučoval jsem kombinaci 1+2.
 
-**Moje doporučení: kombinace 1 + 2.** Napsat městu hned teď (návrh e-mailu je v
-[MESTO.md](MESTO.md)) a mezitím postavit fázi 1 na feedech. Když souhlas přijde, scrapery
-se doplní; když nepřijde, aplikace i tak funguje. Cesta 3 se mi nelíbí ne kvůli riziku žaloby
-— to je u obecního webu spíš teoretické — ale proto, že cílem projektu je nabídnout aplikaci
-městu. Začínat vztah porušením jejich `robots.txt` je špatná vyjednávací pozice, a je to první
-věc, kterou dodavatel CMS při obraně své zakázky zmíní.
+**Zadavatel zvolil cestu 3: scrapovat v plném rozsahu zadání.** E-mail městu se zatím
+neodesílá, návrh zůstává připravený v [MESTO.md](MESTO.md) pro fázi 5.
+
+Rozhodnutí je vědomé a informované — zadavatel je odborník na správní právo a důsledky mu
+byly popsány. `robots.txt` je konvence, ne právní předpis, a scrapovaný obsah jsou veřejné
+informace obce.
+
+**Co z toho plyne pro pipeline.** Šetrný režim není volitelný a platí bez výjimky:
+
+| Pravidlo | Hodnota |
+|---|---|
+| Prodleva mezi požadavky na jeden host | **nejméně 1,5 s**, sekvenčně |
+| `User-Agent` | vlastní, identifikovatelný, s kontaktem |
+| Podmíněné požadavky | `If-Modified-Since` / `ETag` vždy, kde to server umí |
+| Zdroj dotazů | výhradně GitHub Actions, **nikdy z telefonů uživatelů** |
+| Rozsah | jen stránky, ze kterých se skutečně berou data — žádné plošné procházení |
+| Přílohy | PDF a fotogalerie se nekopírují, jen se na ně odkazuje |
+| Blokované cesty | `Disallow` z prvního bloku `robots.txt` se **respektuje** (captcha, `ZaslatEmailem.asp`, `galerie3.asp`, `/aa/`, jmenovité dokumenty) |
+
+Poslední řádek stojí za zdůraznění: rozhodnutí se týká plošného `Disallow: /` v druhém
+bloku. Konkrétní zákazy z prvního bloku dodržujeme dál, protože mají věcný důvod.
+
+Zbývá doplnit kontaktní e-mail do `User-Agent`. Dokud ho nemám, běží pipeline
+s `MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)`.
 
 ---
 
@@ -126,10 +141,30 @@ Dvě věci, které z ověření vyplynuly navíc:
 ### 3.2 Kontakty úředníků
 
 Ověřeno na `os-1018`: stránka odboru obsahuje 16 e-mailů a 28 telefonů se jmény. Jde o údaje
-zveřejněné povinným subjektem, ale je to zpracování osobních údajů. Pravidlo pro pipeline:
-přebírat **jen pracovní kontakt v rozsahu, v jakém ho město zveřejňuje**, nespojovat s ničím
-dalším a nedělat z toho vyhledávatelný rejstřík osob. (Modul kontaktů je stejně až za feedy —
-je závislý na scrapingu, viz kapitola 1.)
+zveřejněné povinným subjektem, ale je to zpracování osobních údajů.
+
+**Jak to pipeline řeší (implementováno 4. 9. 2026).** VISMO má na stránce odboru dva různé
+zdroje kontaktů a rozdíl mezi nimi je zásadní:
+
+| Zdroj na stránce | Co to je | Bereme? |
+|---|---|---|
+| `<dl><dt>E-mail:</dt><dd>oficiální: …` | kontakt pracoviště, jak ho město samo označuje | **ano** |
+| `<dl class="kontakty">` — seznam osob se jmény, funkcemi a přímými linkami | rejstřík úředníků | **ne** |
+
+První verze scraperu brala prostě první `mailto:` na stránce, což u pracovišť bez vlastní
+adresy vytáhlo soukromý pracovní e-mail první úřednice v seznamu (například
+`katerina.zahrubska@…` u oddělení účetnictví). To bylo špatně a je to opravené; hlídá to
+test `u pracoviště bez vlastního e-mailu nesáhne po adrese úřednice ze seznamu osob`.
+
+Výsledek ostrého běhu: z 33 pracovišť má **15 uvedený úřední kontakt**, zbylých 18 zůstává
+bez e-mailu. To je záměr — chybějící kontakt je lepší než cizí.
+
+**Poznámka k adresám tvaru `jmeno.prijmeni@`.** U tří pracovišť (odbor investic, oddělení
+správy rozpočtu, oddělení přestupkového řízení) je jako *oficiální* kontakt uvedená adresa
+vedoucího. Ověřeno v HTML: město ji samo označuje slovem „oficiální" v bloku kontaktu
+pracoviště. Přebíráme ji tedy přesně v rozsahu, v jakém ji město zveřejňuje, a aplikace
+u ní zobrazuje jen název odboru — ne jméno, funkci ani cokoli dalšího. Rejstřík osob
+z toho nevzniká.
 
 ### 3.3 Uživatel aplikace
 
@@ -159,11 +194,11 @@ nekopírujeme PDF ani fotogalerie.
 
 ## 5. Co je potřeba rozhodnout, než začne fáze 1
 
-1. **Cesta podle kapitoly 1** (doporučuji 1 + 2).
+1. ~~Cesta podle kapitoly 1~~ — rozhodnuto 4. 9. 2026, viz výše.
 2. **Kontaktní e-mail do `User-Agent`.** Zadání předepisuje UA s kontaktem. Zatím používám
    `MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)` bez e-mailu — doplňte adresu,
    na kterou vám může správce webu napsat, nebo potvrďte, že stačí odkaz na repozitář.
-3. **Zda oslovit město hned** (návrh e-mailu v [MESTO.md](MESTO.md)).
+3. ~~Zda oslovit město hned~~ — rozhodnuto: zatím ne, návrh čeká v [MESTO.md](MESTO.md).
 
 ## 6. Poznámka k repozitáři
 

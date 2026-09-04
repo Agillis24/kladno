@@ -1,7 +1,7 @@
 # Plán vývoje
 
-Stav: **návrh k odsouhlasení.** Napsáno 3. 9. 2026 po ověření všech zdrojů — podklady jsou
-v [ZDROJE.md](ZDROJE.md), otevřené právní otázky v [PRAVNI.md](PRAVNI.md).
+Stav: **odsouhlaseno 4. 9. 2026, probíhá fáze 1.** Napsáno po ověření všech zdrojů —
+podklady jsou v [ZDROJE.md](ZDROJE.md), právní rámec v [PRAVNI.md](PRAVNI.md).
 
 Odhady jsou v „dnech práce" ve smyslu soustředěné práce na jednom tématu, ne kalendářních dní.
 
@@ -13,7 +13,7 @@ Ověření změnilo pět věcí. Bez nich by plán stál na chybných předpokla
 
 | # | Zadání předpokládá | Skutečnost | Dopad na plán |
 |---|---|---|---|
-| 1 | Scraping webu je v pořádku, `robots.txt` blokuje jen pár skriptů | Plošný `Disallow: /` pro všechny kromě 8 vyhledávačů | **Fáze 1 postavena jen na feedech.** Scrapery čekají na rozhodnutí |
+| 1 | Scraping webu je v pořádku, `robots.txt` blokuje jen pár skriptů | Plošný `Disallow: /` pro všechny kromě 8 vyhledávačů | Zadavatel 4. 9. 2026 rozhodl scrapovat v plném rozsahu. **Šetrný režim je povinný** — viz [PRAVNI.md](PRAVNI.md) |
 | 2 | Kalendář akcí nemá export, nutný scraping | Kanál `?6` je hotový XML export | Scraping akcí odpadá, fáze 1 je levnější |
 | 3 | Kategorii desky doplnit párováním s RSS 7 (50 položek) | Kanál `?9` má kategorii u všech 114 | Jednodušší a úplnější |
 | 4 | MHD Kladno je v PID GTFS | Není. Jen příměstské, regionální a vlaky | **Fáze 4 přestavěna** |
@@ -33,12 +33,16 @@ Ověřeno stažením: `robots.txt`, sitemap (19 563 URL), OFN deska (114 záznam
 RSS kanálů, 7 stránek webu města, PID GTFS (46,7 MB), RÚIAN Kladno (9 716 adres),
 ČHMÚ ovzduší + metadata + CAP, ARES, registr smluv, volby, YouTube, 8 externích webů.
 
-**Zbývá rozhodnout před fází 1** (viz [PRAVNI.md](PRAVNI.md) kap. 5): cesta ohledně
-scrapingu, kontaktní e-mail do `User-Agent`, zda oslovit město hned.
+Rozhodnuto 4. 9. 2026: scrapovat v plném rozsahu v šetrném režimu, e-mail městu zatím
+neposílat. Zbývá jediné — doplnit kontaktní e-mail do `User-Agent`.
 
 ---
 
-## Fáze 1 — Pipeline a data · odhad 6–8 dní
+## Fáze 1 — Pipeline a data ✅ HOTOVO
+
+Dokončeno 4. 9. 2026. Pipeline běží v GitHub Actions každou hodinu a plní `data/v1/`.
+Ověřený ostrý běh: 578 ulic, 6 částí, 112 dokumentů úřední desky, 27 akcí, 50 aktualit,
+2 stanice ovzduší, 21 uzavírek, 3 sběrné dvory, 33 kontaktů odborů. 88 testů prochází.
 
 Cíl: v `data/v1/` leží validované JSONy, generuje je GitHub Action, jde si je otevřít
 v prohlížeči. Bez aplikace.
@@ -85,10 +89,16 @@ v prohlížeči. Bez aplikace.
 - fixture + test pro každý zdroj, včetně úmyslně rozbité fixture pro test ochrany
 - GitHub Action, cron **jednou za hodinu**
 
-### Podmíněné (jen se souhlasem podle [PRAVNI.md](PRAVNI.md)) · +3–4 dny
-- uzavírky (ds-43821) — parsování volného textu, nejnáročnější scraper projektu
-- sběrné dvory (ds-200618), kontakty odborů (178× `os-`)
-- blokové čištění — **nejdřív zjistit, zda existuje jinde než v PDF**
+### 1.8 Scrapery webu města (2,5–3,5 dne)
+Zařazeno do fáze 1 na základě rozhodnutí ze 4. 9. 2026. Povinně v šetrném režimu
+(1 požadavek / 1,5 s, vlastní UA, podmíněné požadavky) — podrobnosti v [PRAVNI.md](PRAVNI.md).
+
+- **uzavírky** (ds-43821) → `traffic.json` — parsování volného textu, nejnáročnější scraper
+  projektu. Extrahovat název ulice, platnost od–do a popis.
+- **sběrné dvory a kontejnery** (ds-200618, ds-200879) → `waste.json`
+- **kontakty odborů** (178× `os-`) → `contacts.json` — jen pracovní kontakt v rozsahu, v jakém
+  ho město zveřejňuje; 178 stránek při 1,5 s je ~4,5 minuty běhu, stahovat proto obden
+- **blokové čištění** (ds-201379) — nejdřív zjistit, zda je harmonogram jinde než v PDF
 
 ### Definice hotovo
 `pnpm typecheck`, `lint`, `test` procházejí · každý zdroj má fixture a test · Zod validace
@@ -171,18 +181,21 @@ Review Notes — proto je dobré napsat městu už teď, ne až tady.
 | Fáze | Odhad | Poznámka |
 |---|---|---|
 | 0 | hotovo | |
-| 1 | 6–8 dní | +3–4 dny se scrapery, pokud bude souhlas |
+| 1 | 9–12 dní | včetně scraperů webu města |
 | 2 | 8–10 dní | |
 | 3 | 5–6 dní | |
 | 4 | 6–8 dní | přestavěno oproti zadání |
 | 5 | 4–5 dní | |
-| **Celkem** | **29–37 dní** | bez čekání na město a na review v obchodech |
+| **Celkem** | **32–41 dní** | bez čekání na město a na review v obchodech |
 
 ---
 
 ## Čtyři největší rizika
 
-1. **`robots.txt`** — blokuje celý web. Řešení: napsat městu, mezitím stavět na feedech.
+1. **`robots.txt`** — blokuje celý web, zadavatel se rozhodl scrapovat i tak. Zbytkové
+   riziko je hlavně vyjednávací, ne právní: až se povede jednat s městem, může to přijít
+   na přetřes. Zmírnění: šetrný režim, identifikovatelný UA a připravený e-mail v
+   [MESTO.md](MESTO.md), který lze poslat kdykoli.
 2. **Odmítnutí v App Store** podle pravidla 5.2.1 (vydávání se za instituci). Řešení: souhlas
    města předem, jinak důsledný disclaimer a jiný název.
 3. **Blokové čištění je v PDF.** Zadání z něj dělá hlavní notifikaci. Rozhodnout před fází 3.

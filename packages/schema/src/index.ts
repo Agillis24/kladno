@@ -2,18 +2,12 @@
  * Kanonický datový model aplikace „Moje Kladno".
  *
  * Obrazovky aplikace nikdy nevědí, ze kterého zdroje data pocházejí — pipeline
- * všechny zdroje převádí na tyto typy. Zod schémata a validace přibudou ve fázi 1
- * podle docs/PLAN.md; dokud není plán odsouhlasen, drží tenhle soubor jen tvar modelu.
+ * všechny zdroje převádí na tyto typy. Schémata jsou zároveň validací: pipeline
+ * jimi prožene data před zápisem a při chybě celý běh padá, ať se do `data/v1/`
+ * nedostane nic rozbitého.
  */
-
-/** Odkaz na původní zdroj. Povinný u každé položky — aplikace vždy odkazuje na originál. */
-export type SourceRef = {
-  name: string;
-  url: string;
-  license: string;
-  /** ISO 8601 */
-  fetchedAt: string;
-};
-
-/** Verze datového kontraktu mezi pipeline a aplikací. */
-export const DATA_VERSION = 'v1' as const;
+export * from './common.js';
+export * from './board.js';
+export * from './content.js';
+export * from './places.js';
+export * from './manifest.js';

@@ -1,13 +1,12 @@
 name: Pipeline dat
 
-# Cron se zapne ve fázi 1, až budou zapojené zdroje (docs/PLAN.md).
-# Do té doby jen ruční spuštění — hodinový běh, který nic negeneruje, jen dělá nepořádek.
 on:
+  schedule:
+    # Každou hodinu v 17. minutě — mimo celou hodinu, kdy má web města špičku.
+    - cron: '17 * * * *'
   workflow_dispatch:
-  # schedule:
-  #   - cron: '17 * * * *'
 
-# Pipeline commituje vygenerovaná data zpět do repozitáře.
+# Pipeline commituje vygenerovaná data zpět do repozitáře a při potížích zakládá issue.
 permissions:
   contents: write
   issues: write
@@ -36,5 +35,63 @@ jobs:
       - name: Generuj data
         run: pnpm pipeline
 
-      # Ve fázi 1 sem přijde commit vygenerovaných dat do data/v1/,
-      # až po kontrole proti propadu počtu položek (viz docs/PLAN.md, 1.7).
+      - name: Commitni data, pokud se změnila
+        run: |
+          git config user.name "moje-kladno-bot"
+          git config user.email "noreply@github.com"
+          git add data/v1
+          if git diff --cached --quiet; then
+            echo "Data beze změny, není co commitovat."
+          else
+            git commit -m "chore(data): aktualizace $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Založ issue, když se některý zdroj nepodařilo aktualizovat
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            if (!fs.existsSync('pipeline-problems.json')) return;
+
+            const problems = JSON.parse(fs.readFileSync('pipeline-problems.json', 'utf8'));
+            if (problems.length === 0) return;
+
+            const title = `Pipeline: ${problems.length} zdroj(ů) se nepodařilo aktualizovat`;
+            const body = [
+              'Pipeline doběhla, ale u těchto datasetů zůstala předchozí verze dat:',
+              '',
+              ...problems.map((p) => `- **${p.dataset}** — ${p.message}`),
+              '',
+              'Data v `data/v1/` jsou tedy zastaralá a v `index.json` mají `stale: true`.',
+              'Obvyklá příčina je změna na straně zdroje — zkontrolujte fixtures a testy.',
+              '',
+              `Běh: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+            ].join('\n');
+
+            // Otevřené issue se stejným názvem se jen doplní, ať nevzniká hromada duplikátů.
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'pipeline',
+            });
+            const match = existing.data.find((issue) => issue.title === title);
+
+            if (match) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: match.number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['pipeline'],
+              });
+            }

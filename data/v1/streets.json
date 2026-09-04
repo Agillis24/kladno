@@ -1,0 +1,11005 @@
+[
+ {
+  "id": "207781",
+  "name": "28. října",
+  "normalized": "28. rijna",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170018,
+   "lng": 14.107879
+  },
+  "bbox": [
+   50.163088,
+   14.106719,
+   50.177321,
+   14.112171
+  ],
+  "addressCount": 98
+ },
+ {
+  "id": "207799",
+  "name": "5. května",
+  "normalized": "5. kvetna",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138964,
+   "lng": 14.113284
+  },
+  "bbox": [
+   50.137232,
+   14.108664,
+   50.139659,
+   14.115489
+  ],
+  "addressCount": 35
+ },
+ {
+  "id": "207802",
+  "name": "A. Dvořáka",
+  "normalized": "a. dvoraka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135157,
+   "lng": 14.109376
+  },
+  "bbox": [
+   50.133961,
+   14.107916,
+   50.136083,
+   14.111177
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "207811",
+  "name": "A. Kouly",
+  "normalized": "a. kouly",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149617,
+   "lng": 14.13692
+  },
+  "bbox": [
+   50.149339,
+   14.136312,
+   50.149758,
+   14.137676
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "846431",
+  "name": "Adolfa Kožíška",
+  "normalized": "adolfa koziska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165539,
+   "lng": 14.095624
+  },
+  "bbox": [
+   50.16499,
+   14.094013,
+   50.16596,
+   14.097071
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "207829",
+  "name": "Alešova",
+  "normalized": "alesova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134796,
+   "lng": 14.108012
+  },
+  "bbox": [
+   50.133845,
+   14.106461,
+   50.13593,
+   14.109784
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "207837",
+  "name": "Alšova",
+  "normalized": "alsova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171218,
+   "lng": 14.111718
+  },
+  "bbox": [
+   50.171078,
+   14.111508,
+   50.171314,
+   14.112103
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "207900",
+  "name": "Amálská",
+  "normalized": "amalska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141753,
+   "lng": 14.094028
+  },
+  "bbox": [
+   50.140888,
+   14.093092,
+   50.142389,
+   14.094943
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "208035",
+  "name": "Americká",
+  "normalized": "americka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.128961,
+   "lng": 14.117172
+  },
+  "bbox": [
+   50.125834,
+   14.111959,
+   50.132059,
+   14.125335
+  ],
+  "addressCount": 41
+ },
+ {
+  "id": "208167",
+  "name": "Anglická",
+  "normalized": "anglicka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13139,
+   "lng": 14.118907
+  },
+  "bbox": [
+   50.129402,
+   14.117254,
+   50.133497,
+   14.120213
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "207845",
+  "name": "Ant. Fouska",
+  "normalized": "ant. fouska",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137441,
+   "lng": 14.063199
+  },
+  "bbox": [
+   50.13676,
+   14.062938,
+   50.138047,
+   14.063377
+  ],
+  "addressCount": 23
+ },
+ {
+  "id": "207853",
+  "name": "Ant. Kymličky",
+  "normalized": "ant. kymlicky",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150252,
+   "lng": 14.094696
+  },
+  "bbox": [
+   50.149867,
+   14.094113,
+   50.150673,
+   14.095274
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "207861",
+  "name": "Ant. Rendla",
+  "normalized": "ant. rendla",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.143153,
+   "lng": 14.067939
+  },
+  "bbox": [
+   50.142987,
+   14.066763,
+   50.143392,
+   14.069239
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "207870",
+  "name": "Ant. Suchého",
+  "normalized": "ant. sucheho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149163,
+   "lng": 14.090896
+  },
+  "bbox": [
+   50.146744,
+   14.089813,
+   50.150611,
+   14.092121
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "207888",
+  "name": "Ant. Škváry",
+  "normalized": "ant. skvary",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147502,
+   "lng": 14.081667
+  },
+  "bbox": [
+   50.145601,
+   14.077071,
+   50.150959,
+   14.088294
+  ],
+  "addressCount": 68
+ },
+ {
+  "id": "803740",
+  "name": "Antonína Raymonda",
+  "normalized": "antonina raymonda",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.143835,
+   "lng": 14.064581
+  },
+  "bbox": [
+   50.143522,
+   14.064339,
+   50.144153,
+   14.065057
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "207896",
+  "name": "Anýžova",
+  "normalized": "anyzova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.147857,
+   "lng": 14.13704
+  },
+  "bbox": [
+   50.147468,
+   14.136715,
+   50.148271,
+   14.137294
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "207918",
+  "name": "Arbesova",
+  "normalized": "arbesova",
+  "districts": [
+   "Kladno",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142009,
+   "lng": 14.110659
+  },
+  "bbox": [
+   50.141372,
+   14.108334,
+   50.142517,
+   14.113085
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "208281",
+  "name": "Arménská",
+  "normalized": "armenska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135564,
+   "lng": 14.137773
+  },
+  "bbox": [
+   50.132725,
+   14.136762,
+   50.137563,
+   14.139737
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "207926",
+  "name": "B. Němcové",
+  "normalized": "b. nemcove",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131387,
+   "lng": 14.105666
+  },
+  "bbox": [
+   50.130891,
+   14.105349,
+   50.131836,
+   14.105996
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "207934",
+  "name": "Balcarova",
+  "normalized": "balcarova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145322,
+   "lng": 14.102865
+  },
+  "bbox": [
+   50.145142,
+   14.102474,
+   50.145482,
+   14.103108
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "207942",
+  "name": "Baráčkova",
+  "normalized": "barackova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144049,
+   "lng": 14.108909
+  },
+  "bbox": [
+   50.14374,
+   14.108382,
+   50.144376,
+   14.109389
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "207951",
+  "name": "Barrandova",
+  "normalized": "barrandova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138944,
+   "lng": 14.085227
+  },
+  "bbox": [
+   50.138593,
+   14.084993,
+   50.139242,
+   14.085543
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "207993",
+  "name": "Bělehradská",
+  "normalized": "belehradska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130705,
+   "lng": 14.127915
+  },
+  "bbox": [
+   50.130615,
+   14.127311,
+   50.13079,
+   14.128523
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211923",
+  "name": "Belgická",
+  "normalized": "belgicka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.121334,
+   "lng": 14.114394
+  },
+  "bbox": [
+   50.121334,
+   14.114394,
+   50.121334,
+   14.114394
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "656658",
+  "name": "Bellevue",
+  "normalized": "bellevue",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.139276,
+   "lng": 14.111848
+  },
+  "bbox": [
+   50.138457,
+   14.109999,
+   50.139926,
+   14.113531
+  ],
+  "addressCount": 63
+ },
+ {
+  "id": "207969",
+  "name": "Bendlova",
+  "normalized": "bendlova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139412,
+   "lng": 14.098576
+  },
+  "bbox": [
+   50.137527,
+   14.097599,
+   50.141151,
+   14.099669
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "2166038",
+  "name": "Benediktínská",
+  "normalized": "benediktinska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145871,
+   "lng": 14.068751
+  },
+  "bbox": [
+   50.145545,
+   14.068505,
+   50.146149,
+   14.06923
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "207977",
+  "name": "Benešovská",
+  "normalized": "benesovska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137664,
+   "lng": 14.106821
+  },
+  "bbox": [
+   50.136802,
+   14.105599,
+   50.138707,
+   14.107571
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "3071022",
+  "name": "Benno Löbla",
+  "normalized": "benno lobla",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14661,
+   "lng": 14.066792
+  },
+  "bbox": [
+   50.146381,
+   14.066299,
+   50.14706,
+   14.067316
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "207985",
+  "name": "Bezručova",
+  "normalized": "bezrucova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169712,
+   "lng": 14.114662
+  },
+  "bbox": [
+   50.169444,
+   14.114167,
+   50.170353,
+   14.11504
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "701793",
+  "name": "Billundská",
+  "normalized": "billundska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.120962,
+   "lng": 14.124785
+  },
+  "bbox": [
+   50.120644,
+   14.123166,
+   50.12128,
+   14.126403
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "208001",
+  "name": "Blodkova",
+  "normalized": "blodkova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13966,
+   "lng": 14.12281
+  },
+  "bbox": [
+   50.139485,
+   14.122622,
+   50.139869,
+   14.122972
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208019",
+  "name": "Boční",
+  "normalized": "bocni",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.167947,
+   "lng": 14.161613
+  },
+  "bbox": [
+   50.167722,
+   14.161314,
+   50.168171,
+   14.161911
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "660221",
+  "name": "Bohumila Hrabala",
+  "normalized": "bohumila hrabala",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.140694,
+   "lng": 14.058643
+  },
+  "bbox": [
+   50.139694,
+   14.056352,
+   50.142081,
+   14.060245
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "208027",
+  "name": "Bohumila Kouby",
+  "normalized": "bohumila kouby",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.166897,
+   "lng": 14.108875
+  },
+  "bbox": [
+   50.166564,
+   14.107318,
+   50.167164,
+   14.110304
+  ],
+  "addressCount": 23
+ },
+ {
+  "id": "3104087",
+  "name": "Bohumila Landy",
+  "normalized": "bohumila landy",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136646,
+   "lng": 14.138598
+  },
+  "bbox": [
+   50.136387,
+   14.137993,
+   50.136983,
+   14.13913
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "803758",
+  "name": "Bohuslava Niederleho",
+  "normalized": "bohuslava niederleho",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.144526,
+   "lng": 14.064787
+  },
+  "bbox": [
+   50.144313,
+   14.064352,
+   50.144656,
+   14.065265
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "208043",
+  "name": "Boleslavova",
+  "normalized": "boleslavova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138437,
+   "lng": 14.095584
+  },
+  "bbox": [
+   50.138421,
+   14.095504,
+   50.138452,
+   14.095663
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "2222213",
+  "name": "Borovského",
+  "normalized": "borovskeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170017,
+   "lng": 14.115915
+  },
+  "bbox": [
+   50.169071,
+   14.11512,
+   50.171105,
+   14.116398
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "803766",
+  "name": "Bory Kříže",
+  "normalized": "bory krize",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.144199,
+   "lng": 14.063505
+  },
+  "bbox": [
+   50.143443,
+   14.06313,
+   50.145118,
+   14.063944
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "208051",
+  "name": "Bořivojova",
+  "normalized": "borivojova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139686,
+   "lng": 14.094851
+  },
+  "bbox": [
+   50.139526,
+   14.094494,
+   50.139825,
+   14.095164
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "208060",
+  "name": "Boženy Němcové",
+  "normalized": "bozeny nemcove",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.163461,
+   "lng": 14.10392
+  },
+  "bbox": [
+   50.163308,
+   14.103731,
+   50.163625,
+   14.104122
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "208078",
+  "name": "Braunova",
+  "normalized": "braunova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149214,
+   "lng": 14.0867
+  },
+  "bbox": [
+   50.147985,
+   14.084575,
+   50.150496,
+   14.088832
+  ],
+  "addressCount": 46
+ },
+ {
+  "id": "208086",
+  "name": "Brjanská",
+  "normalized": "brjanska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142296,
+   "lng": 14.071468
+  },
+  "bbox": [
+   50.142015,
+   14.070031,
+   50.143154,
+   14.072896
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "208094",
+  "name": "Brněnská",
+  "normalized": "brnenska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136857,
+   "lng": 14.1005
+  },
+  "bbox": [
+   50.136785,
+   14.100435,
+   50.136929,
+   14.100564
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "2166071",
+  "name": "Broumovská",
+  "normalized": "broumovska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145461,
+   "lng": 14.067677
+  },
+  "bbox": [
+   50.145408,
+   14.067348,
+   50.145513,
+   14.068007
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "208108",
+  "name": "Brožíkova",
+  "normalized": "brozikova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.140479,
+   "lng": 14.121003
+  },
+  "bbox": [
+   50.139081,
+   14.117605,
+   50.141736,
+   14.123855
+  ],
+  "addressCount": 38
+ },
+ {
+  "id": "2166054",
+  "name": "Břevnovská",
+  "normalized": "brevnovska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145881,
+   "lng": 14.067753
+  },
+  "bbox": [
+   50.145756,
+   14.067486,
+   50.146026,
+   14.067958
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "208116",
+  "name": "Březinova",
+  "normalized": "brezinova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133511,
+   "lng": 14.10627
+  },
+  "bbox": [
+   50.132426,
+   14.102519,
+   50.135041,
+   14.110732
+  ],
+  "addressCount": 73
+ },
+ {
+  "id": "208124",
+  "name": "Bří Rybářů",
+  "normalized": "bri rybaru",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137514,
+   "lng": 14.063856
+  },
+  "bbox": [
+   50.136757,
+   14.063692,
+   50.138278,
+   14.06408
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "208132",
+  "name": "Budapešťská",
+  "normalized": "budapestska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135222,
+   "lng": 14.132024
+  },
+  "bbox": [
+   50.134693,
+   14.131646,
+   50.135857,
+   14.132425
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "208141",
+  "name": "Budečská",
+  "normalized": "budecska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.152245,
+   "lng": 14.136062
+  },
+  "bbox": [
+   50.151857,
+   14.133205,
+   50.152428,
+   14.138176
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "208159",
+  "name": "Bukovská",
+  "normalized": "bukovska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147245,
+   "lng": 14.097645
+  },
+  "bbox": [
+   50.14671,
+   14.096206,
+   50.147962,
+   14.099028
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "208175",
+  "name": "Bulharská",
+  "normalized": "bulharska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131247,
+   "lng": 14.128196
+  },
+  "bbox": [
+   50.131007,
+   14.12722,
+   50.131636,
+   14.129677
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "208183",
+  "name": "Buštěhradská",
+  "normalized": "bustehradska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149205,
+   "lng": 14.144222
+  },
+  "bbox": [
+   50.146577,
+   14.136613,
+   50.152978,
+   14.153351
+  ],
+  "addressCount": 47
+ },
+ {
+  "id": "2088932",
+  "name": "Cihlová",
+  "normalized": "cihlova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159806,
+   "lng": 14.138947
+  },
+  "bbox": [
+   50.15949,
+   14.138644,
+   50.160076,
+   14.13915
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "208213",
+  "name": "Ctiborova",
+  "normalized": "ctiborova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144029,
+   "lng": 14.10263
+  },
+  "bbox": [
+   50.141952,
+   14.101398,
+   50.145211,
+   14.104611
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "208302",
+  "name": "Cyrila Boudy",
+  "normalized": "cyrila boudy",
+  "districts": [
+   "Kladno",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.140632,
+   "lng": 14.099262
+  },
+  "bbox": [
+   50.137595,
+   14.097117,
+   50.142855,
+   14.103391
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "208221",
+  "name": "Čechova",
+  "normalized": "cechova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142768,
+   "lng": 14.109009
+  },
+  "bbox": [
+   50.142106,
+   14.105352,
+   50.143483,
+   14.11208
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "208230",
+  "name": "Čelakovského",
+  "normalized": "celakovskeho",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137916,
+   "lng": 14.122363
+  },
+  "bbox": [
+   50.137693,
+   14.121961,
+   50.138072,
+   14.12289
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "208311",
+  "name": "Čermákova",
+  "normalized": "cermakova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142826,
+   "lng": 14.091997
+  },
+  "bbox": [
+   50.141562,
+   14.091063,
+   50.143747,
+   14.093411
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "208248",
+  "name": "Čs. armády",
+  "normalized": "cs. armady",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14347,
+   "lng": 14.089085
+  },
+  "bbox": [
+   50.141308,
+   14.085001,
+   50.145273,
+   14.093012
+  ],
+  "addressCount": 38
+ },
+ {
+  "id": "208256",
+  "name": "ČSD-strážní domek",
+  "normalized": "csd-strazni domek",
+  "districts": [
+   "Rozdělov",
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.142181,
+   "lng": 14.098266
+  },
+  "bbox": [
+   50.127152,
+   14.060537,
+   50.165033,
+   14.146845
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "208264",
+  "name": "Dalimilova",
+  "normalized": "dalimilova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.137597,
+   "lng": 14.096142
+  },
+  "bbox": [
+   50.137474,
+   14.096001,
+   50.137735,
+   14.096266
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208396",
+  "name": "Dánská",
+  "normalized": "danska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131202,
+   "lng": 14.122919
+  },
+  "bbox": [
+   50.130527,
+   14.120022,
+   50.131923,
+   14.125031
+  ],
+  "addressCount": 28
+ },
+ {
+  "id": "208477",
+  "name": "Děčínská",
+  "normalized": "decinska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137021,
+   "lng": 14.105787
+  },
+  "bbox": [
+   50.136677,
+   14.104877,
+   50.137427,
+   14.106785
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "208272",
+  "name": "Dělnická",
+  "normalized": "delnicka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.144106,
+   "lng": 14.119805
+  },
+  "bbox": [
+   50.142449,
+   14.11889,
+   50.146275,
+   14.12121
+  ],
+  "addressCount": 29
+ },
+ {
+  "id": "208299",
+  "name": "Divadelní",
+  "normalized": "divadelni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144796,
+   "lng": 14.108904
+  },
+  "bbox": [
+   50.143774,
+   14.106337,
+   50.146065,
+   14.112525
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "208329",
+  "name": "Divišova",
+  "normalized": "divisova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150317,
+   "lng": 14.091282
+  },
+  "bbox": [
+   50.150079,
+   14.09083,
+   50.150557,
+   14.091713
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "208507",
+  "name": "Dlouhá",
+  "normalized": "dlouha",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138568,
+   "lng": 14.117834
+  },
+  "bbox": [
+   50.135748,
+   14.107363,
+   50.141949,
+   14.122225
+  ],
+  "addressCount": 67
+ },
+ {
+  "id": "208663",
+  "name": "Doberská",
+  "normalized": "doberska",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137763,
+   "lng": 14.068622
+  },
+  "bbox": [
+   50.135076,
+   14.067773,
+   50.14052,
+   14.069731
+  ],
+  "addressCount": 73
+ },
+ {
+  "id": "208337",
+  "name": "Dobrovského",
+  "normalized": "dobrovskeho",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131126,
+   "lng": 14.10482
+  },
+  "bbox": [
+   50.130703,
+   14.104145,
+   50.13161,
+   14.105644
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "2171741",
+  "name": "Dolní",
+  "normalized": "dolni",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170533,
+   "lng": 14.118787
+  },
+  "bbox": [
+   50.170191,
+   14.118406,
+   50.170799,
+   14.11923
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "208345",
+  "name": "Dr. Foustky",
+  "normalized": "dr. foustky",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136462,
+   "lng": 14.109889
+  },
+  "bbox": [
+   50.134753,
+   14.107816,
+   50.140351,
+   14.111359
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "208353",
+  "name": "Dr. Steinera",
+  "normalized": "dr. steinera",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142848,
+   "lng": 14.122519
+  },
+  "bbox": [
+   50.128081,
+   14.119533,
+   50.145234,
+   14.14347
+  ],
+  "addressCount": 37
+ },
+ {
+  "id": "208361",
+  "name": "Dr. Topky",
+  "normalized": "dr. topky",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149727,
+   "lng": 14.092399
+  },
+  "bbox": [
+   50.148811,
+   14.09202,
+   50.150441,
+   14.092859
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "208370",
+  "name": "Dr. Vrbenského",
+  "normalized": "dr. vrbenskeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146433,
+   "lng": 14.104498
+  },
+  "bbox": [
+   50.145663,
+   14.104062,
+   50.146912,
+   14.105378
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "208388",
+  "name": "Družstevní",
+  "normalized": "druzstevni",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.168243,
+   "lng": 14.166455
+  },
+  "bbox": [
+   50.167949,
+   14.166216,
+   50.168647,
+   14.166826
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "208701",
+  "name": "Dubská",
+  "normalized": "dubska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.154336,
+   "lng": 14.125558
+  },
+  "bbox": [
+   50.15101,
+   14.121162,
+   50.1603,
+   14.130229
+  ],
+  "addressCount": 34
+ },
+ {
+  "id": "208400",
+  "name": "Dukelských hrdinů",
+  "normalized": "dukelskych hrdinu",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146265,
+   "lng": 14.106673
+  },
+  "bbox": [
+   50.145436,
+   14.105637,
+   50.147481,
+   14.107607
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "208418",
+  "name": "Důlní",
+  "normalized": "dulni",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164889,
+   "lng": 14.100364
+  },
+  "bbox": [
+   50.164694,
+   14.100101,
+   50.165235,
+   14.100615
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "208426",
+  "name": "Dvorská",
+  "normalized": "dvorska",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.165248,
+   "lng": 14.170901
+  },
+  "bbox": [
+   50.160758,
+   14.169487,
+   50.167714,
+   14.175274
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "208434",
+  "name": "Dvořákova",
+  "normalized": "dvorakova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164458,
+   "lng": 14.107154
+  },
+  "bbox": [
+   50.16388,
+   14.106936,
+   50.164953,
+   14.107464
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "208442",
+  "name": "E. Větrovcové",
+  "normalized": "e. vetrovcove",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.15912,
+   "lng": 14.132892
+  },
+  "bbox": [
+   50.158804,
+   14.132628,
+   50.159389,
+   14.133225
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "208451",
+  "name": "Em. Zahrádky",
+  "normalized": "em. zahradky",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.142773,
+   "lng": 14.066663
+  },
+  "bbox": [
+   50.139462,
+   14.065541,
+   50.146248,
+   14.067383
+  ],
+  "addressCount": 55
+ },
+ {
+  "id": "4114990",
+  "name": "Engerth",
+  "normalized": "engerth",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.151585,
+   "lng": 14.089797
+  },
+  "bbox": [
+   50.151102,
+   14.089667,
+   50.15207,
+   14.089939
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208469",
+  "name": "Erbenova",
+  "normalized": "erbenova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.140279,
+   "lng": 14.083991
+  },
+  "bbox": [
+   50.140087,
+   14.0823,
+   50.140525,
+   14.085524
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "208485",
+  "name": "Estonská",
+  "normalized": "estonska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132675,
+   "lng": 14.131972
+  },
+  "bbox": [
+   50.132275,
+   14.131377,
+   50.133229,
+   14.132733
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208493",
+  "name": "F. Plamínkové",
+  "normalized": "f. plaminkove",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133644,
+   "lng": 14.104112
+  },
+  "bbox": [
+   50.133058,
+   14.103541,
+   50.134246,
+   14.104484
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "208515",
+  "name": "Fibichova",
+  "normalized": "fibichova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.140729,
+   "lng": 14.095716
+  },
+  "bbox": [
+   50.139779,
+   14.093407,
+   50.141702,
+   14.098266
+  ],
+  "addressCount": 28
+ },
+ {
+  "id": "208990",
+  "name": "Finská",
+  "normalized": "finska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131999,
+   "lng": 14.120434
+  },
+  "bbox": [
+   50.13166,
+   14.119428,
+   50.13251,
+   14.121138
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "208523",
+  "name": "Floriánská",
+  "normalized": "florianska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145187,
+   "lng": 14.101892
+  },
+  "bbox": [
+   50.144768,
+   14.101624,
+   50.145645,
+   14.102192
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "738565",
+  "name": "Floriánské náměstí",
+  "normalized": "florianske namesti",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146339,
+   "lng": 14.101129
+  },
+  "bbox": [
+   50.146239,
+   14.100943,
+   50.146438,
+   14.101314
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "208531",
+  "name": "Foersterova",
+  "normalized": "foersterova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146815,
+   "lng": 14.076897
+  },
+  "bbox": [
+   50.146444,
+   14.076039,
+   50.14721,
+   14.077712
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "208540",
+  "name": "Fr. Černohorského",
+  "normalized": "fr. cernohorskeho",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.139731,
+   "lng": 14.070899
+  },
+  "bbox": [
+   50.139561,
+   14.069607,
+   50.139961,
+   14.071821
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "208558",
+  "name": "Fr. Hamouze",
+  "normalized": "fr. hamouze",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.136379,
+   "lng": 14.06749
+  },
+  "bbox": [
+   50.13627,
+   14.067249,
+   50.136521,
+   14.067682
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208566",
+  "name": "Fr. Kloze",
+  "normalized": "fr. kloze",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139431,
+   "lng": 14.091274
+  },
+  "bbox": [
+   50.137072,
+   14.089573,
+   50.140811,
+   14.092257
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "208574",
+  "name": "Fr. Kosíka",
+  "normalized": "fr. kosika",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137632,
+   "lng": 14.064547
+  },
+  "bbox": [
+   50.137044,
+   14.064408,
+   50.138213,
+   14.064732
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "208582",
+  "name": "Fr. Kouby",
+  "normalized": "fr. kouby",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.167913,
+   "lng": 14.163586
+  },
+  "bbox": [
+   50.167669,
+   14.162452,
+   50.168192,
+   14.164745
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "208591",
+  "name": "Fr. Křížka",
+  "normalized": "fr. krizka",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137164,
+   "lng": 14.060101
+  },
+  "bbox": [
+   50.137008,
+   14.059507,
+   50.137385,
+   14.06049
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209015",
+  "name": "Francouzská",
+  "normalized": "francouzska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.129493,
+   "lng": 14.118778
+  },
+  "bbox": [
+   50.12889,
+   14.117749,
+   50.12997,
+   14.11974
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "208621",
+  "name": "Fráni Šrámka",
+  "normalized": "frani sramka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145084,
+   "lng": 14.071134
+  },
+  "bbox": [
+   50.145038,
+   14.07036,
+   50.145129,
+   14.071887
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "208604",
+  "name": "Frant. Oplta",
+  "normalized": "frant. oplta",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.16846,
+   "lng": 14.111225
+  },
+  "bbox": [
+   50.167279,
+   14.10879,
+   50.169196,
+   14.114743
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "2050757",
+  "name": "Františka Kindla",
+  "normalized": "frantiska kindla",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170041,
+   "lng": 14.115185
+  },
+  "bbox": [
+   50.169865,
+   14.114572,
+   50.170267,
+   14.115907
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "208612",
+  "name": "Františka Zvonaře",
+  "normalized": "frantiska zvonare",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.142738,
+   "lng": 14.067989
+  },
+  "bbox": [
+   50.140925,
+   14.067487,
+   50.144269,
+   14.068464
+  ],
+  "addressCount": 46
+ },
+ {
+  "id": "208639",
+  "name": "Freyova",
+  "normalized": "freyova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138485,
+   "lng": 14.123953
+  },
+  "bbox": [
+   50.138222,
+   14.123032,
+   50.138633,
+   14.126154
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "208647",
+  "name": "Fričova",
+  "normalized": "fricova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149478,
+   "lng": 14.134988
+  },
+  "bbox": [
+   50.149306,
+   14.134443,
+   50.149702,
+   14.135549
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "208655",
+  "name": "Fügnerova",
+  "normalized": "fugnerova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.144064,
+   "lng": 14.116597
+  },
+  "bbox": [
+   50.143401,
+   14.116134,
+   50.144779,
+   14.117063
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "208671",
+  "name": "gen. Eliáše",
+  "normalized": "gen. eliase",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158849,
+   "lng": 14.137781
+  },
+  "bbox": [
+   50.157441,
+   14.132875,
+   50.160021,
+   14.140521
+  ],
+  "addressCount": 35
+ },
+ {
+  "id": "209252",
+  "name": "gen. Klapálka",
+  "normalized": "gen. klapalka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144672,
+   "lng": 14.110042
+  },
+  "bbox": [
+   50.143891,
+   14.106106,
+   50.145395,
+   14.11363
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "209261",
+  "name": "gen. Píky",
+  "normalized": "gen. piky",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133322,
+   "lng": 14.123785
+  },
+  "bbox": [
+   50.132051,
+   14.123174,
+   50.134366,
+   14.124313
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "818241",
+  "name": "Generála Selnera",
+  "normalized": "generala selnera",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134631,
+   "lng": 14.140623
+  },
+  "bbox": [
+   50.133794,
+   14.139895,
+   50.135424,
+   14.141397
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "208680",
+  "name": "Gorkého",
+  "normalized": "gorkeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145474,
+   "lng": 14.100807
+  },
+  "bbox": [
+   50.145246,
+   14.100585,
+   50.145716,
+   14.101013
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "208698",
+  "name": "H. Malířové",
+  "normalized": "h. malirove",
+  "districts": [
+   "Kladno",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.14208,
+   "lng": 14.109597
+  },
+  "bbox": [
+   50.141596,
+   14.108228,
+   50.1426,
+   14.110201
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "208728",
+  "name": "Hajnova",
+  "normalized": "hajnova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147378,
+   "lng": 14.104618
+  },
+  "bbox": [
+   50.147033,
+   14.103881,
+   50.147709,
+   14.10534
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "208787",
+  "name": "Hálkova",
+  "normalized": "halkova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141188,
+   "lng": 14.106081
+  },
+  "bbox": [
+   50.140509,
+   14.105427,
+   50.142025,
+   14.106819
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "208736",
+  "name": "Harantova",
+  "normalized": "harantova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.157265,
+   "lng": 14.134444
+  },
+  "bbox": [
+   50.157174,
+   14.134262,
+   50.157363,
+   14.134636
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208744",
+  "name": "Havanská",
+  "normalized": "havanska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136154,
+   "lng": 14.130838
+  },
+  "bbox": [
+   50.135614,
+   14.129989,
+   50.136694,
+   14.131593
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "208752",
+  "name": "Havířská",
+  "normalized": "havirska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14651,
+   "lng": 14.093569
+  },
+  "bbox": [
+   50.145784,
+   14.088771,
+   50.147805,
+   14.099554
+  ],
+  "addressCount": 78
+ },
+ {
+  "id": "208761",
+  "name": "Havlasova",
+  "normalized": "havlasova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148876,
+   "lng": 14.088105
+  },
+  "bbox": [
+   50.148566,
+   14.086877,
+   50.149069,
+   14.089087
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "208779",
+  "name": "Havlíčkova",
+  "normalized": "havlickova",
+  "districts": [
+   "Kladno",
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.138375,
+   "lng": 14.081632
+  },
+  "bbox": [
+   50.137808,
+   14.081149,
+   50.139154,
+   14.082234
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "209414",
+  "name": "Havlíčkovo nám.",
+  "normalized": "havlickovo nam.",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167408,
+   "lng": 14.105911
+  },
+  "bbox": [
+   50.167251,
+   14.105089,
+   50.16768,
+   14.106752
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209449",
+  "name": "Helsinská",
+  "normalized": "helsinska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139361,
+   "lng": 14.077916
+  },
+  "bbox": [
+   50.139182,
+   14.075215,
+   50.13976,
+   14.08048
+  ],
+  "addressCount": 28
+ },
+ {
+  "id": "208795",
+  "name": "Herbenova",
+  "normalized": "herbenova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136707,
+   "lng": 14.111221
+  },
+  "bbox": [
+   50.136016,
+   14.1103,
+   50.137595,
+   14.112156
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "208809",
+  "name": "Heydukova",
+  "normalized": "heydukova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14645,
+   "lng": 14.077789
+  },
+  "bbox": [
+   50.145983,
+   14.076536,
+   50.147038,
+   14.079212
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "208817",
+  "name": "Hlohová",
+  "normalized": "hlohova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148616,
+   "lng": 14.133281
+  },
+  "bbox": [
+   50.148492,
+   14.133118,
+   50.148777,
+   14.133508
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "208825",
+  "name": "Hluboká",
+  "normalized": "hluboka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147598,
+   "lng": 14.097644
+  },
+  "bbox": [
+   50.147414,
+   14.097189,
+   50.14776,
+   14.097943
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208833",
+  "name": "Hnidouská",
+  "normalized": "hnidouska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.161494,
+   "lng": 14.114041
+  },
+  "bbox": [
+   50.161334,
+   14.113501,
+   50.161784,
+   14.114401
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "2305925",
+  "name": "Hokejových legend",
+  "normalized": "hokejovych legend",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.13672,
+   "lng": 14.092867
+  },
+  "bbox": [
+   50.136527,
+   14.092565,
+   50.136912,
+   14.093169
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "209571",
+  "name": "Holandská",
+  "normalized": "holandska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.129104,
+   "lng": 14.120638
+  },
+  "bbox": [
+   50.128398,
+   14.118255,
+   50.130215,
+   14.12308
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "1943707",
+  "name": "Horní",
+  "normalized": "horni",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.169911,
+   "lng": 14.166208
+  },
+  "bbox": [
+   50.169653,
+   14.164652,
+   50.170061,
+   14.167398
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "208841",
+  "name": "Hornická",
+  "normalized": "hornicka",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.162097,
+   "lng": 14.136473
+  },
+  "bbox": [
+   50.161962,
+   14.136308,
+   50.162215,
+   14.13663
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208850",
+  "name": "Horymírova",
+  "normalized": "horymirova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.153338,
+   "lng": 14.134628
+  },
+  "bbox": [
+   50.152681,
+   14.134441,
+   50.154181,
+   14.134794
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "208868",
+  "name": "Hradčanská",
+  "normalized": "hradcanska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149347,
+   "lng": 14.1377
+  },
+  "bbox": [
+   50.149075,
+   14.137207,
+   50.149562,
+   14.138186
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "208876",
+  "name": "Hrnčířská",
+  "normalized": "hrncirska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145495,
+   "lng": 14.104955
+  },
+  "bbox": [
+   50.145405,
+   14.104691,
+   50.145567,
+   14.105195
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "208884",
+  "name": "Hromadova",
+  "normalized": "hromadova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146762,
+   "lng": 14.078298
+  },
+  "bbox": [
+   50.146227,
+   14.077797,
+   50.147097,
+   14.078631
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "208892",
+  "name": "Hřbitovní",
+  "normalized": "hrbitovni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.154014,
+   "lng": 14.103969
+  },
+  "bbox": [
+   50.153737,
+   14.103664,
+   50.154537,
+   14.104334
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "208906",
+  "name": "Hřebečská",
+  "normalized": "hrebecska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132732,
+   "lng": 14.136641
+  },
+  "bbox": [
+   50.131394,
+   14.135624,
+   50.134058,
+   14.13757
+  ],
+  "addressCount": 22
+ },
+ {
+  "id": "208914",
+  "name": "Humna",
+  "normalized": "humna",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.141703,
+   "lng": 14.113419
+  },
+  "bbox": [
+   50.141428,
+   14.113204,
+   50.141936,
+   14.113595
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "208922",
+  "name": "Husova",
+  "normalized": "husova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.166442,
+   "lng": 14.102556
+  },
+  "bbox": [
+   50.1622,
+   14.100483,
+   50.169259,
+   14.10447
+  ],
+  "addressCount": 44
+ },
+ {
+  "id": "208931",
+  "name": "Hutnická",
+  "normalized": "hutnicka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164377,
+   "lng": 14.118717
+  },
+  "bbox": [
+   50.164113,
+   14.118574,
+   50.164641,
+   14.118859
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "209643",
+  "name": "Huťská",
+  "normalized": "hutska",
+  "districts": [
+   "Dubí",
+   "Kladno",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.149148,
+   "lng": 14.117067
+  },
+  "bbox": [
+   50.147043,
+   14.106768,
+   50.151145,
+   14.13006
+  ],
+  "addressCount": 60
+ },
+ {
+  "id": "208949",
+  "name": "Hviezdoslavova",
+  "normalized": "hviezdoslavova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136583,
+   "lng": 14.120251
+  },
+  "bbox": [
+   50.136388,
+   14.11991,
+   50.136769,
+   14.120594
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "208191",
+  "name": "Chelčického",
+  "normalized": "chelcickeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164248,
+   "lng": 14.095976
+  },
+  "bbox": [
+   50.16369,
+   14.095614,
+   50.164763,
+   14.096376
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "208205",
+  "name": "Chodská",
+  "normalized": "chodska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131813,
+   "lng": 14.109494
+  },
+  "bbox": [
+   50.130453,
+   14.102497,
+   50.141221,
+   14.123769
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "208957",
+  "name": "Ininova",
+  "normalized": "ininova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149503,
+   "lng": 14.13588
+  },
+  "bbox": [
+   50.148501,
+   14.134375,
+   50.150137,
+   14.1376
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "209651",
+  "name": "Italská",
+  "normalized": "italska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132368,
+   "lng": 14.116146
+  },
+  "bbox": [
+   50.131402,
+   14.114306,
+   50.133461,
+   14.117427
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "208965",
+  "name": "Ivana Olbrachta",
+  "normalized": "ivana olbrachta",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145567,
+   "lng": 14.10343
+  },
+  "bbox": [
+   50.144781,
+   14.102445,
+   50.146305,
+   14.104622
+  ],
+  "addressCount": 22
+ },
+ {
+  "id": "208973",
+  "name": "J. Dražila",
+  "normalized": "j. drazila",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130204,
+   "lng": 14.107115
+  },
+  "bbox": [
+   50.129974,
+   14.106962,
+   50.1304,
+   14.10733
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209007",
+  "name": "J. Hory",
+  "normalized": "j. hory",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14267,
+   "lng": 14.105989
+  },
+  "bbox": [
+   50.139401,
+   14.103941,
+   50.144122,
+   14.107632
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "209023",
+  "name": "J. Lady",
+  "normalized": "j. lady",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150056,
+   "lng": 14.087203
+  },
+  "bbox": [
+   50.149912,
+   14.087004,
+   50.150201,
+   14.087403
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209031",
+  "name": "J. Lébra",
+  "normalized": "j. lebra",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130869,
+   "lng": 14.108027
+  },
+  "bbox": [
+   50.130145,
+   14.105903,
+   50.131568,
+   14.110744
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "209040",
+  "name": "J. Pecky",
+  "normalized": "j. pecky",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138602,
+   "lng": 14.07892
+  },
+  "bbox": [
+   50.13847,
+   14.078901,
+   50.138735,
+   14.078935
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "209058",
+  "name": "J. V. Sládka",
+  "normalized": "j. v. sladka",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.154955,
+   "lng": 14.117713
+  },
+  "bbox": [
+   50.154652,
+   14.117259,
+   50.155098,
+   14.118109
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209066",
+  "name": "J. Vrby",
+  "normalized": "j. vrby",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131969,
+   "lng": 14.110522
+  },
+  "bbox": [
+   50.130311,
+   14.109169,
+   50.138351,
+   14.120266
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "209074",
+  "name": "Jana Klímy",
+  "normalized": "jana klimy",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14955,
+   "lng": 14.093395
+  },
+  "bbox": [
+   50.149092,
+   14.092897,
+   50.150039,
+   14.093924
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "209082",
+  "name": "Jana Opletala",
+  "normalized": "jana opletala",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167072,
+   "lng": 14.100926
+  },
+  "bbox": [
+   50.166286,
+   14.098777,
+   50.167596,
+   14.102118
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "209783",
+  "name": "Jana Palacha",
+  "normalized": "jana palacha",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143357,
+   "lng": 14.094532
+  },
+  "bbox": [
+   50.142952,
+   14.093873,
+   50.143701,
+   14.094835
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209091",
+  "name": "Jana Vaita",
+  "normalized": "jana vaita",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.139161,
+   "lng": 14.064977
+  },
+  "bbox": [
+   50.138756,
+   14.061443,
+   50.13941,
+   14.069051
+  ],
+  "addressCount": 45
+ },
+ {
+  "id": "209881",
+  "name": "Jana Velly",
+  "normalized": "jana velly",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138117,
+   "lng": 14.112848
+  },
+  "bbox": [
+   50.137658,
+   14.112029,
+   50.138605,
+   14.113678
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "209899",
+  "name": "Jana Wericha",
+  "normalized": "jana wericha",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147554,
+   "lng": 14.083176
+  },
+  "bbox": [
+   50.147356,
+   14.081968,
+   50.147799,
+   14.084358
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "209104",
+  "name": "Janáčkova",
+  "normalized": "janackova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.15354,
+   "lng": 14.135799
+  },
+  "bbox": [
+   50.153439,
+   14.134924,
+   50.153659,
+   14.136483
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "209171",
+  "name": "Jánská",
+  "normalized": "janska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148559,
+   "lng": 14.140245
+  },
+  "bbox": [
+   50.148347,
+   14.138525,
+   50.149016,
+   14.141936
+  ],
+  "addressCount": 22
+ },
+ {
+  "id": "209112",
+  "name": "Jar. Charváta",
+  "normalized": "jar. charvata",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.160212,
+   "lng": 14.140124
+  },
+  "bbox": [
+   50.160019,
+   14.139883,
+   50.160396,
+   14.140302
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209121",
+  "name": "Jar. Kejře",
+  "normalized": "jar. kejre",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.13797,
+   "lng": 14.065917
+  },
+  "bbox": [
+   50.137453,
+   14.06575,
+   50.138479,
+   14.06628
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "209139",
+  "name": "Jar. Merhauta",
+  "normalized": "jar. merhauta",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144858,
+   "lng": 14.111778
+  },
+  "bbox": [
+   50.14409,
+   14.111036,
+   50.145467,
+   14.112489
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "210013",
+  "name": "Jar. Seiferta",
+  "normalized": "jar. seiferta",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.163726,
+   "lng": 14.104336
+  },
+  "bbox": [
+   50.163006,
+   14.090882,
+   50.164347,
+   14.111939
+  ],
+  "addressCount": 78
+ },
+ {
+  "id": "1889303",
+  "name": "Jarní",
+  "normalized": "jarni",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158342,
+   "lng": 14.138212
+  },
+  "bbox": [
+   50.158016,
+   14.137782,
+   50.15858,
+   14.138659
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209147",
+  "name": "Jarosl. Kociána",
+  "normalized": "jarosl. kociana",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133822,
+   "lng": 14.108223
+  },
+  "bbox": [
+   50.132522,
+   14.105463,
+   50.135115,
+   14.110595
+  ],
+  "addressCount": 36
+ },
+ {
+  "id": "209155",
+  "name": "Jaroslava Elznice",
+  "normalized": "jaroslava elznice",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171413,
+   "lng": 14.112084
+  },
+  "bbox": [
+   50.170645,
+   14.109544,
+   50.172108,
+   14.114655
+  ],
+  "addressCount": 28
+ },
+ {
+  "id": "209902",
+  "name": "Jaroslava Foglara",
+  "normalized": "jaroslava foglara",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133692,
+   "lng": 14.119939
+  },
+  "bbox": [
+   50.132874,
+   14.118163,
+   50.13457,
+   14.120834
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "818259",
+  "name": "Jaroslava Holečka",
+  "normalized": "jaroslava holecka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13579,
+   "lng": 14.138629
+  },
+  "bbox": [
+   50.135533,
+   14.138026,
+   50.136057,
+   14.139189
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "209937",
+  "name": "Jaroslava Ježka",
+  "normalized": "jaroslava jezka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147955,
+   "lng": 14.083373
+  },
+  "bbox": [
+   50.147724,
+   14.082727,
+   50.148158,
+   14.084034
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209163",
+  "name": "Jateční",
+  "normalized": "jatecni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.134217,
+   "lng": 14.095367
+  },
+  "bbox": [
+   50.134055,
+   14.094535,
+   50.134363,
+   14.096297
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "209180",
+  "name": "Jerevanská",
+  "normalized": "jerevanska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134537,
+   "lng": 14.135777
+  },
+  "bbox": [
+   50.134001,
+   14.134427,
+   50.135388,
+   14.13698
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "209198",
+  "name": "Jeronýmova",
+  "normalized": "jeronymova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.144588,
+   "lng": 14.120182
+  },
+  "bbox": [
+   50.127474,
+   14.116637,
+   50.145409,
+   14.143416
+  ],
+  "addressCount": 48
+ },
+ {
+  "id": "209201",
+  "name": "Jeseniova",
+  "normalized": "jeseniova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.152986,
+   "lng": 14.135583
+  },
+  "bbox": [
+   50.152408,
+   14.13541,
+   50.153797,
+   14.135798
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "209210",
+  "name": "Jindř. Soukupa",
+  "normalized": "jindr. soukupa",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148997,
+   "lng": 14.092825
+  },
+  "bbox": [
+   50.148778,
+   14.092282,
+   50.149242,
+   14.093279
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "209228",
+  "name": "Jindřichova",
+  "normalized": "jindrichova",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.167606,
+   "lng": 14.16379
+  },
+  "bbox": [
+   50.167375,
+   14.162556,
+   50.167837,
+   14.164829
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "209236",
+  "name": "Jiráskova",
+  "normalized": "jiraskova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165156,
+   "lng": 14.095478
+  },
+  "bbox": [
+   50.163613,
+   14.091821,
+   50.167362,
+   14.098556
+  ],
+  "addressCount": 38
+ },
+ {
+  "id": "799513",
+  "name": "Jiřího Koláře",
+  "normalized": "jiriho kolare",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.143122,
+   "lng": 14.063156
+  },
+  "bbox": [
+   50.142915,
+   14.061379,
+   50.143297,
+   14.065493
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "210021",
+  "name": "Jiřího Voskovce",
+  "normalized": "jiriho voskovce",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146759,
+   "lng": 14.082084
+  },
+  "bbox": [
+   50.146168,
+   14.080707,
+   50.147287,
+   14.083111
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "209244",
+  "name": "Jižní",
+  "normalized": "jizni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138089,
+   "lng": 14.079994
+  },
+  "bbox": [
+   50.137983,
+   14.078817,
+   50.138319,
+   14.081125
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "209279",
+  "name": "Jos. Černohorského",
+  "normalized": "jos. cernohorskeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144567,
+   "lng": 14.079937
+  },
+  "bbox": [
+   50.144084,
+   14.078612,
+   50.144873,
+   14.080622
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "209287",
+  "name": "Jos. Erlebacha",
+  "normalized": "jos. erlebacha",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158313,
+   "lng": 14.134746
+  },
+  "bbox": [
+   50.157928,
+   14.134277,
+   50.158728,
+   14.135142
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "209295",
+  "name": "Jos. Fremla",
+  "normalized": "jos. fremla",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.136047,
+   "lng": 14.067439
+  },
+  "bbox": [
+   50.135891,
+   14.067091,
+   50.136202,
+   14.067766
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209309",
+  "name": "Jos. Písaříka",
+  "normalized": "jos. pisarika",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144676,
+   "lng": 14.111664
+  },
+  "bbox": [
+   50.144342,
+   14.110944,
+   50.144979,
+   14.112513
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "209317",
+  "name": "Jos. Špalka",
+  "normalized": "jos. spalka",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.160006,
+   "lng": 14.139485
+  },
+  "bbox": [
+   50.159791,
+   14.139221,
+   50.16022,
+   14.139676
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "209325",
+  "name": "Josefa Bejčka",
+  "normalized": "josefa bejcka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169333,
+   "lng": 14.111644
+  },
+  "bbox": [
+   50.168717,
+   14.108632,
+   50.169838,
+   14.114069
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "209333",
+  "name": "Josefa Čapka",
+  "normalized": "josefa capka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135237,
+   "lng": 14.105076
+  },
+  "bbox": [
+   50.134135,
+   14.10158,
+   50.136676,
+   14.108552
+  ],
+  "addressCount": 33
+ },
+ {
+  "id": "209341",
+  "name": "Josefa Drmly",
+  "normalized": "josefa drmly",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167809,
+   "lng": 14.103679
+  },
+  "bbox": [
+   50.166781,
+   14.103188,
+   50.168579,
+   14.104165
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "1810529",
+  "name": "Josefa Hoffmanna",
+  "normalized": "josefa hoffmanna",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148987,
+   "lng": 14.105697
+  },
+  "bbox": [
+   50.148511,
+   14.105345,
+   50.149275,
+   14.105931
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209350",
+  "name": "Josefa Jílka",
+  "normalized": "josefa jilka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167098,
+   "lng": 14.110527
+  },
+  "bbox": [
+   50.166769,
+   14.11025,
+   50.167468,
+   14.110685
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "209376",
+  "name": "Josefa Káchy",
+  "normalized": "josefa kachy",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158557,
+   "lng": 14.135159
+  },
+  "bbox": [
+   50.158109,
+   14.134804,
+   50.158903,
+   14.135455
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "209368",
+  "name": "Josefa Kaliny",
+  "normalized": "josefa kaliny",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169881,
+   "lng": 14.108677
+  },
+  "bbox": [
+   50.169322,
+   14.108135,
+   50.170291,
+   14.109561
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "1105191",
+  "name": "Josefa Lesáka",
+  "normalized": "josefa lesaka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147961,
+   "lng": 14.093265
+  },
+  "bbox": [
+   50.147729,
+   14.091871,
+   50.148227,
+   14.094288
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "1784544",
+  "name": "Josefa Pletichy",
+  "normalized": "josefa pletichy",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.16386,
+   "lng": 14.108963
+  },
+  "bbox": [
+   50.163689,
+   14.108798,
+   50.164064,
+   14.109149
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "209384",
+  "name": "Jungmannova",
+  "normalized": "jungmannova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167822,
+   "lng": 14.101434
+  },
+  "bbox": [
+   50.167412,
+   14.101164,
+   50.168135,
+   14.101722
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "777374",
+  "name": "Jutská",
+  "normalized": "jutska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.121635,
+   "lng": 14.12003
+  },
+  "bbox": [
+   50.12087,
+   14.118831,
+   50.122399,
+   14.121229
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "1943723",
+  "name": "K Březinám",
+  "normalized": "k brezinam",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165028,
+   "lng": 14.093952
+  },
+  "bbox": [
+   50.164953,
+   14.093661,
+   50.165103,
+   14.094243
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "1532553",
+  "name": "K Bubčáku",
+  "normalized": "k bubcaku",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165065,
+   "lng": 14.109724
+  },
+  "bbox": [
+   50.164916,
+   14.109479,
+   50.165184,
+   14.109997
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "1985370",
+  "name": "K Lípám",
+  "normalized": "k lipam",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.163972,
+   "lng": 14.091079
+  },
+  "bbox": [
+   50.163528,
+   14.090284,
+   50.164986,
+   14.09141
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "210595",
+  "name": "K nemocnici",
+  "normalized": "k nemocnici",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142696,
+   "lng": 14.091346
+  },
+  "bbox": [
+   50.142051,
+   14.090094,
+   50.143771,
+   14.093355
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "916463",
+  "name": "K Olejárně",
+  "normalized": "k olejarne",
+  "districts": [
+   "Dubí",
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150812,
+   "lng": 14.124585
+  },
+  "bbox": [
+   50.150517,
+   14.124428,
+   50.151107,
+   14.124741
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "2090384",
+  "name": "K Racandě",
+  "normalized": "k racande",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.138224,
+   "lng": 14.06518
+  },
+  "bbox": [
+   50.13712,
+   14.064821,
+   50.13968,
+   14.06551
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "1134477",
+  "name": "K Rovinám",
+  "normalized": "k rovinam",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170812,
+   "lng": 14.10142
+  },
+  "bbox": [
+   50.170456,
+   14.101002,
+   50.171187,
+   14.101939
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "918857",
+  "name": "K Vinařické hoře",
+  "normalized": "k vinaricke hore",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.175532,
+   "lng": 14.102985
+  },
+  "bbox": [
+   50.174444,
+   14.102364,
+   50.176563,
+   14.105241
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "209392",
+  "name": "K. Čapka",
+  "normalized": "k. capka",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.153307,
+   "lng": 14.133652
+  },
+  "bbox": [
+   50.152652,
+   14.133484,
+   50.153992,
+   14.133827
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "209406",
+  "name": "Kačická",
+  "normalized": "kacicka",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.141333,
+   "lng": 14.059405
+  },
+  "bbox": [
+   50.140491,
+   14.057278,
+   50.14232,
+   14.061181
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "209422",
+  "name": "Kaftanova",
+  "normalized": "kaftanova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134131,
+   "lng": 14.106956
+  },
+  "bbox": [
+   50.133361,
+   14.105644,
+   50.138027,
+   14.11633
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "209431",
+  "name": "Kalinova",
+  "normalized": "kalinova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.162037,
+   "lng": 14.137757
+  },
+  "bbox": [
+   50.161116,
+   14.136055,
+   50.163131,
+   14.139075
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "701823",
+  "name": "Kamenný vrch",
+  "normalized": "kamenny vrch",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.154434,
+   "lng": 14.087691
+  },
+  "bbox": [
+   50.153345,
+   14.086884,
+   50.155228,
+   14.088458
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "209457",
+  "name": "Kaprova",
+  "normalized": "kaprova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142353,
+   "lng": 14.114599
+  },
+  "bbox": [
+   50.142261,
+   14.114452,
+   50.142411,
+   14.114776
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "209465",
+  "name": "Kar. Světlé",
+  "normalized": "kar. svetle",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139116,
+   "lng": 14.096667
+  },
+  "bbox": [
+   50.138948,
+   14.095849,
+   50.13937,
+   14.097298
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "210170",
+  "name": "kardinála Berana",
+  "normalized": "kardinala berana",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138551,
+   "lng": 14.080416
+  },
+  "bbox": [
+   50.138429,
+   14.080408,
+   50.138674,
+   14.080426
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "209473",
+  "name": "Karla Čapka",
+  "normalized": "karla capka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.16572,
+   "lng": 14.118122
+  },
+  "bbox": [
+   50.164416,
+   14.115704,
+   50.166713,
+   14.120136
+  ],
+  "addressCount": 34
+ },
+ {
+  "id": "209481",
+  "name": "Karla Dudy",
+  "normalized": "karla dudy",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158002,
+   "lng": 14.133785
+  },
+  "bbox": [
+   50.157632,
+   14.133266,
+   50.158423,
+   14.134202
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "209490",
+  "name": "Karla Landy",
+  "normalized": "karla landy",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169706,
+   "lng": 14.111481
+  },
+  "bbox": [
+   50.169529,
+   14.11125,
+   50.169931,
+   14.111806
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "2222191",
+  "name": "Karla Poláčka",
+  "normalized": "karla polacka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164787,
+   "lng": 14.115375
+  },
+  "bbox": [
+   50.164101,
+   14.114182,
+   50.165519,
+   14.116606
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "209503",
+  "name": "Karla Rezka",
+  "normalized": "karla rezka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.166674,
+   "lng": 14.105639
+  },
+  "bbox": [
+   50.166049,
+   14.105352,
+   50.167227,
+   14.105923
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "209511",
+  "name": "Karla Tomana",
+  "normalized": "karla tomana",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145208,
+   "lng": 14.072818
+  },
+  "bbox": [
+   50.144532,
+   14.071901,
+   50.14563,
+   14.074021
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "209520",
+  "name": "Karla Trousila",
+  "normalized": "karla trousila",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.157354,
+   "lng": 14.135567
+  },
+  "bbox": [
+   50.156969,
+   14.135024,
+   50.157701,
+   14.136052
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "209538",
+  "name": "Karlova",
+  "normalized": "karlova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.141312,
+   "lng": 14.122592
+  },
+  "bbox": [
+   50.140287,
+   14.121368,
+   50.142691,
+   14.123447
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "209546",
+  "name": "Kauckého",
+  "normalized": "kauckeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167929,
+   "lng": 14.108122
+  },
+  "bbox": [
+   50.167412,
+   14.107654,
+   50.168417,
+   14.108514
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "2050854",
+  "name": "Ke Hřišti",
+  "normalized": "ke hristi",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.16892,
+   "lng": 14.110821
+  },
+  "bbox": [
+   50.168582,
+   14.110243,
+   50.169463,
+   14.111217
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209554",
+  "name": "Ke křížku",
+  "normalized": "ke krizku",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.161405,
+   "lng": 14.13431
+  },
+  "bbox": [
+   50.160787,
+   14.132854,
+   50.161815,
+   14.135702
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "210285",
+  "name": "Ke stadionu",
+  "normalized": "ke stadionu",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139725,
+   "lng": 14.093272
+  },
+  "bbox": [
+   50.135208,
+   14.090002,
+   50.143359,
+   14.096705
+  ],
+  "addressCount": 40
+ },
+ {
+  "id": "1810871",
+  "name": "Ke Staré škole",
+  "normalized": "ke stare skole",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170769,
+   "lng": 14.115628
+  },
+  "bbox": [
+   50.170756,
+   14.115562,
+   50.170782,
+   14.115694
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "209562",
+  "name": "Kladenská",
+  "normalized": "kladenska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165503,
+   "lng": 14.120337
+  },
+  "bbox": [
+   50.163745,
+   14.114488,
+   50.167614,
+   14.122259
+  ],
+  "addressCount": 31
+ },
+ {
+  "id": "209589",
+  "name": "Kleinerova",
+  "normalized": "kleinerova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144362,
+   "lng": 14.096073
+  },
+  "bbox": [
+   50.143461,
+   14.095477,
+   50.145163,
+   14.096973
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "209597",
+  "name": "Klikorkova",
+  "normalized": "klikorkova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144818,
+   "lng": 14.080769
+  },
+  "bbox": [
+   50.142011,
+   14.077709,
+   50.14604,
+   14.083606
+  ],
+  "addressCount": 36
+ },
+ {
+  "id": "209601",
+  "name": "Kollárova",
+  "normalized": "kollarova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131013,
+   "lng": 14.108376
+  },
+  "bbox": [
+   50.130084,
+   14.107791,
+   50.132222,
+   14.108809
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "209619",
+  "name": "Kolmistrova",
+  "normalized": "kolmistrova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145687,
+   "lng": 14.090413
+  },
+  "bbox": [
+   50.144532,
+   14.087239,
+   50.146374,
+   14.094262
+  ],
+  "addressCount": 34
+ },
+ {
+  "id": "209627",
+  "name": "Komenského",
+  "normalized": "komenskeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145097,
+   "lng": 14.099281
+  },
+  "bbox": [
+   50.144457,
+   14.098932,
+   50.14556,
+   14.099642
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "209635",
+  "name": "Koperníkova",
+  "normalized": "kopernikova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139194,
+   "lng": 14.099645
+  },
+  "bbox": [
+   50.138995,
+   14.099405,
+   50.139345,
+   14.09987
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210331",
+  "name": "Kordačova",
+  "normalized": "kordacova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141382,
+   "lng": 14.075593
+  },
+  "bbox": [
+   50.140885,
+   14.070981,
+   50.142025,
+   14.079802
+  ],
+  "addressCount": 37
+ },
+ {
+  "id": "209660",
+  "name": "Korychova",
+  "normalized": "korychova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.139985,
+   "lng": 14.118255
+  },
+  "bbox": [
+   50.139447,
+   14.11688,
+   50.140646,
+   14.119627
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "209678",
+  "name": "Kořenského",
+  "normalized": "korenskeho",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137966,
+   "lng": 14.06962
+  },
+  "bbox": [
+   50.135245,
+   14.068509,
+   50.140605,
+   14.070737
+  ],
+  "addressCount": 76
+ },
+ {
+  "id": "209686",
+  "name": "Kosmonautů",
+  "normalized": "kosmonautu",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13643,
+   "lng": 14.132461
+  },
+  "bbox": [
+   50.13586,
+   14.132096,
+   50.136824,
+   14.133082
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "209694",
+  "name": "Kosmova",
+  "normalized": "kosmova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148896,
+   "lng": 14.087866
+  },
+  "bbox": [
+   50.148214,
+   14.087354,
+   50.149376,
+   14.08842
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "209708",
+  "name": "Kotaskova",
+  "normalized": "kotaskova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170517,
+   "lng": 14.109082
+  },
+  "bbox": [
+   50.170302,
+   14.107725,
+   50.170667,
+   14.110648
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "209716",
+  "name": "Kozinova",
+  "normalized": "kozinova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.141101,
+   "lng": 14.121221
+  },
+  "bbox": [
+   50.140161,
+   14.120211,
+   50.14229,
+   14.122094
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "209724",
+  "name": "kpt. Jaroše",
+  "normalized": "kpt. jarose",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137491,
+   "lng": 14.111916
+  },
+  "bbox": [
+   50.136903,
+   14.111143,
+   50.138143,
+   14.112885
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "209732",
+  "name": "Kralupská",
+  "normalized": "kralupska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.151428,
+   "lng": 14.136602
+  },
+  "bbox": [
+   50.147344,
+   14.13492,
+   50.154215,
+   14.148295
+  ],
+  "addressCount": 34
+ },
+ {
+  "id": "209741",
+  "name": "Krátká",
+  "normalized": "kratka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133602,
+   "lng": 14.109605
+  },
+  "bbox": [
+   50.133434,
+   14.109467,
+   50.133776,
+   14.109736
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210579",
+  "name": "Kročehlavská",
+  "normalized": "krocehlavska",
+  "districts": [
+   "Dubí",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143896,
+   "lng": 14.120285
+  },
+  "bbox": [
+   50.143263,
+   14.112721,
+   50.145794,
+   14.135525
+  ],
+  "addressCount": 55
+ },
+ {
+  "id": "209759",
+  "name": "Křesomyslova",
+  "normalized": "kresomyslova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139945,
+   "lng": 14.094571
+  },
+  "bbox": [
+   50.139945,
+   14.094571,
+   50.139945,
+   14.094571
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "209767",
+  "name": "Křižíkova",
+  "normalized": "krizikova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143624,
+   "lng": 14.125343
+  },
+  "bbox": [
+   50.143208,
+   14.123416,
+   50.144127,
+   14.127917
+  ],
+  "addressCount": 29
+ },
+ {
+  "id": "209775",
+  "name": "Kubelíkova",
+  "normalized": "kubelikova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141532,
+   "lng": 14.095918
+  },
+  "bbox": [
+   50.141013,
+   14.093668,
+   50.14211,
+   14.0973
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "209791",
+  "name": "Kudrnova",
+  "normalized": "kudrnova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.147337,
+   "lng": 14.137044
+  },
+  "bbox": [
+   50.146681,
+   14.134561,
+   50.147688,
+   14.138874
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "210587",
+  "name": "Kulhánkova",
+  "normalized": "kulhankova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136731,
+   "lng": 14.123775
+  },
+  "bbox": [
+   50.136044,
+   14.121954,
+   50.142503,
+   14.126542
+  ],
+  "addressCount": 29
+ },
+ {
+  "id": "209805",
+  "name": "Kyjevská",
+  "normalized": "kyjevska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143812,
+   "lng": 14.075795
+  },
+  "bbox": [
+   50.143447,
+   14.075253,
+   50.144329,
+   14.076478
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "209813",
+  "name": "L. Zápotockého",
+  "normalized": "l. zapotockeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143619,
+   "lng": 14.080136
+  },
+  "bbox": [
+   50.141529,
+   14.078495,
+   50.144946,
+   14.082669
+  ],
+  "addressCount": 48
+ },
+ {
+  "id": "209821",
+  "name": "Lacinova",
+  "normalized": "lacinova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136634,
+   "lng": 14.116551
+  },
+  "bbox": [
+   50.135029,
+   14.114756,
+   50.13811,
+   14.117937
+  ],
+  "addressCount": 22
+ },
+ {
+  "id": "209830",
+  "name": "Lad. Koláře",
+  "normalized": "lad. kolare",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170377,
+   "lng": 14.115164
+  },
+  "bbox": [
+   50.170121,
+   14.11421,
+   50.170571,
+   14.115704
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "2015862",
+  "name": "Ladislava Nováka",
+  "normalized": "ladislava novaka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168694,
+   "lng": 14.103975
+  },
+  "bbox": [
+   50.168662,
+   14.103676,
+   50.168732,
+   14.10428
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "209848",
+  "name": "Ladislava Ševčíka",
+  "normalized": "ladislava sevcika",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142874,
+   "lng": 14.081428
+  },
+  "bbox": [
+   50.142537,
+   14.080373,
+   50.14309,
+   14.082051
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209856",
+  "name": "Lalákova",
+  "normalized": "lalakova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.1502,
+   "lng": 14.091134
+  },
+  "bbox": [
+   50.149668,
+   14.090477,
+   50.150587,
+   14.091612
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "209864",
+  "name": "Lapák",
+  "normalized": "lapak",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.128767,
+   "lng": 14.071097
+  },
+  "bbox": [
+   50.12846,
+   14.069111,
+   50.129333,
+   14.072155
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "210609",
+  "name": "Leoše Janáčka",
+  "normalized": "leose janacka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144585,
+   "lng": 14.102034
+  },
+  "bbox": [
+   50.143655,
+   14.099249,
+   50.145063,
+   14.103536
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "209872",
+  "name": "Lesík",
+  "normalized": "lesik",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.151988,
+   "lng": 14.098492
+  },
+  "bbox": [
+   50.151202,
+   14.095902,
+   50.152566,
+   14.100994
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "209911",
+  "name": "Lesní",
+  "normalized": "lesni",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149086,
+   "lng": 14.138394
+  },
+  "bbox": [
+   50.148696,
+   14.137764,
+   50.14941,
+   14.138893
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "209929",
+  "name": "Letecká",
+  "normalized": "letecka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137549,
+   "lng": 14.122736
+  },
+  "bbox": [
+   50.137141,
+   14.122083,
+   50.137822,
+   14.123296
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "209945",
+  "name": "Libušina",
+  "normalized": "libusina",
+  "districts": [
+   "Dubí",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.146712,
+   "lng": 14.126775
+  },
+  "bbox": [
+   50.144008,
+   14.123395,
+   50.150581,
+   14.134045
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "209953",
+  "name": "Libušínská",
+  "normalized": "libusinska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146595,
+   "lng": 14.075644
+  },
+  "bbox": [
+   50.145389,
+   14.074464,
+   50.147626,
+   14.076827
+  ],
+  "addressCount": 31
+ },
+ {
+  "id": "209961",
+  "name": "Lidická",
+  "normalized": "lidicka",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148228,
+   "lng": 14.136542
+  },
+  "bbox": [
+   50.147416,
+   14.130792,
+   50.148719,
+   14.142615
+  ],
+  "addressCount": 33
+ },
+ {
+  "id": "209970",
+  "name": "Lidických žen",
+  "normalized": "lidickych zen",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138648,
+   "lng": 14.113798
+  },
+  "bbox": [
+   50.138273,
+   14.113185,
+   50.139037,
+   14.114428
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "210706",
+  "name": "Liebscherova",
+  "normalized": "liebscherova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139835,
+   "lng": 14.096389
+  },
+  "bbox": [
+   50.138683,
+   14.095379,
+   50.141112,
+   14.097094
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "209988",
+  "name": "Lipová",
+  "normalized": "lipova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.141863,
+   "lng": 14.118517
+  },
+  "bbox": [
+   50.141695,
+   14.118265,
+   50.142035,
+   14.118999
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "209996",
+  "name": "Litevská",
+  "normalized": "litevska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132315,
+   "lng": 14.134347
+  },
+  "bbox": [
+   50.130368,
+   14.133269,
+   50.134403,
+   14.135614
+  ],
+  "addressCount": 33
+ },
+ {
+  "id": "2164639",
+  "name": "Lomená",
+  "normalized": "lomena",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164962,
+   "lng": 14.10695
+  },
+  "bbox": [
+   50.164098,
+   14.106069,
+   50.165325,
+   14.108015
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "210005",
+  "name": "Ludvíka Kuby",
+  "normalized": "ludvika kuby",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149342,
+   "lng": 14.089265
+  },
+  "bbox": [
+   50.148753,
+   14.08851,
+   50.150047,
+   14.090195
+  ],
+  "addressCount": 29
+ },
+ {
+  "id": "210030",
+  "name": "Ludvíka Kuny",
+  "normalized": "ludvika kuny",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.136716,
+   "lng": 14.063331
+  },
+  "bbox": [
+   50.136212,
+   14.062044,
+   50.137267,
+   14.064485
+  ],
+  "addressCount": 22
+ },
+ {
+  "id": "803774",
+  "name": "Ludviky Smrčkové",
+  "normalized": "ludviky smrckove",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.145013,
+   "lng": 14.065193
+  },
+  "bbox": [
+   50.144605,
+   14.065029,
+   50.145431,
+   14.065569
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210048",
+  "name": "Lva Nikolaje Tolstého",
+  "normalized": "lva nikolaje tolsteho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164345,
+   "lng": 14.097083
+  },
+  "bbox": [
+   50.16399,
+   14.096688,
+   50.164738,
+   14.097464
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210056",
+  "name": "M. Majerové",
+  "normalized": "m. majerove",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.145228,
+   "lng": 14.122266
+  },
+  "bbox": [
+   50.144268,
+   14.121944,
+   50.146329,
+   14.122627
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "210064",
+  "name": "M. Švabinského",
+  "normalized": "m. svabinskeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142919,
+   "lng": 14.099585
+  },
+  "bbox": [
+   50.142641,
+   14.099308,
+   50.143246,
+   14.099835
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210072",
+  "name": "Maďarská",
+  "normalized": "madarska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135185,
+   "lng": 14.128419
+  },
+  "bbox": [
+   50.134845,
+   14.128077,
+   50.135623,
+   14.128617
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "210081",
+  "name": "Mahenova",
+  "normalized": "mahenova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148532,
+   "lng": 14.086447
+  },
+  "bbox": [
+   50.148016,
+   14.085824,
+   50.149385,
+   14.086959
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "210161",
+  "name": "Máchova",
+  "normalized": "machova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141558,
+   "lng": 14.105888
+  },
+  "bbox": [
+   50.141322,
+   14.105178,
+   50.141842,
+   14.106565
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "210099",
+  "name": "Malá",
+  "normalized": "mala",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158706,
+   "lng": 14.13288
+  },
+  "bbox": [
+   50.158632,
+   14.132678,
+   50.158818,
+   14.133061
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210102",
+  "name": "Malá strana",
+  "normalized": "mala strana",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169707,
+   "lng": 14.117988
+  },
+  "bbox": [
+   50.168485,
+   14.116852,
+   50.17136,
+   14.11998
+  ],
+  "addressCount": 40
+ },
+ {
+  "id": "210111",
+  "name": "Malátova",
+  "normalized": "malatova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142457,
+   "lng": 14.122042
+  },
+  "bbox": [
+   50.142173,
+   14.121016,
+   50.142643,
+   14.122718
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "210188",
+  "name": "Mánesova",
+  "normalized": "manesova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139325,
+   "lng": 14.095505
+  },
+  "bbox": [
+   50.137287,
+   14.094171,
+   50.141187,
+   14.096691
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "210129",
+  "name": "manž. Maříkových",
+  "normalized": "manz. marikovych",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159754,
+   "lng": 14.134557
+  },
+  "bbox": [
+   50.1593,
+   14.132545,
+   50.160186,
+   14.136574
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "210137",
+  "name": "manž. Topinkových",
+  "normalized": "manz. topinkovych",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.155492,
+   "lng": 14.11851
+  },
+  "bbox": [
+   50.155149,
+   14.11801,
+   50.156109,
+   14.118883
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "210145",
+  "name": "Marie Majerové",
+  "normalized": "marie majerove",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165125,
+   "lng": 14.118725
+  },
+  "bbox": [
+   50.163771,
+   14.115061,
+   50.167072,
+   14.121216
+  ],
+  "addressCount": 63
+ },
+ {
+  "id": "210153",
+  "name": "Maroldova",
+  "normalized": "maroldova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14372,
+   "lng": 14.09232
+  },
+  "bbox": [
+   50.143312,
+   14.091839,
+   50.14408,
+   14.09283
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "210757",
+  "name": "Milady Horákové",
+  "normalized": "milady horakove",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132709,
+   "lng": 14.11568
+  },
+  "bbox": [
+   50.122103,
+   14.110344,
+   50.141536,
+   14.12727
+  ],
+  "addressCount": 96
+ },
+ {
+  "id": "210196",
+  "name": "Milířova",
+  "normalized": "milirova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133598,
+   "lng": 14.100757
+  },
+  "bbox": [
+   50.133492,
+   14.100268,
+   50.13376,
+   14.101344
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210200",
+  "name": "Míru",
+  "normalized": "miru",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142756,
+   "lng": 14.077738
+  },
+  "bbox": [
+   50.141339,
+   14.075678,
+   50.14464,
+   14.07941
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "210218",
+  "name": "Mládežnická",
+  "normalized": "mladeznicka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145296,
+   "lng": 14.07417
+  },
+  "bbox": [
+   50.144799,
+   14.073333,
+   50.146057,
+   14.075004
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "210226",
+  "name": "Mlýnská",
+  "normalized": "mlynska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145198,
+   "lng": 14.104523
+  },
+  "bbox": [
+   50.14468,
+   14.104373,
+   50.145557,
+   14.104833
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210234",
+  "name": "Močidlanská",
+  "normalized": "mocidlanska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.154274,
+   "lng": 14.13519
+  },
+  "bbox": [
+   50.154151,
+   14.133742,
+   50.154473,
+   14.136468
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "210242",
+  "name": "Moskevská",
+  "normalized": "moskevska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139063,
+   "lng": 14.076858
+  },
+  "bbox": [
+   50.138611,
+   14.072668,
+   50.139376,
+   14.082709
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "210251",
+  "name": "Mostecká",
+  "normalized": "mostecka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137143,
+   "lng": 14.105177
+  },
+  "bbox": [
+   50.136056,
+   14.10418,
+   50.13812,
+   14.106417
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "210269",
+  "name": "Mošnova",
+  "normalized": "mosnova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142324,
+   "lng": 14.123535
+  },
+  "bbox": [
+   50.141805,
+   14.123128,
+   50.143178,
+   14.123957
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "210277",
+  "name": "Motyčínská",
+  "normalized": "motycinska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.161953,
+   "lng": 14.113886
+  },
+  "bbox": [
+   50.161726,
+   14.113555,
+   50.162156,
+   14.11423
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "210293",
+  "name": "Mrázkova",
+  "normalized": "mrazkova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147197,
+   "lng": 14.076179
+  },
+  "bbox": [
+   50.146956,
+   14.075641,
+   50.147418,
+   14.076778
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "210307",
+  "name": "Mrštíkova",
+  "normalized": "mrstikova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159529,
+   "lng": 14.138401
+  },
+  "bbox": [
+   50.158879,
+   14.138065,
+   50.159908,
+   14.138687
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210820",
+  "name": "MUDr. Jiroutka",
+  "normalized": "mudr. jiroutka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138958,
+   "lng": 14.094787
+  },
+  "bbox": [
+   50.13695,
+   14.093469,
+   50.140746,
+   14.096231
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "210315",
+  "name": "Myslbekova",
+  "normalized": "myslbekova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143348,
+   "lng": 14.126374
+  },
+  "bbox": [
+   50.14332,
+   14.126175,
+   50.143375,
+   14.126573
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "210323",
+  "name": "Na Borku",
+  "normalized": "na borku",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.175038,
+   "lng": 14.106301
+  },
+  "bbox": [
+   50.174359,
+   14.105471,
+   50.17579,
+   14.107182
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "210340",
+  "name": "Na Cikánce",
+  "normalized": "na cikance",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.163614,
+   "lng": 14.12115
+  },
+  "bbox": [
+   50.163614,
+   14.12115,
+   50.163614,
+   14.12115
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "782840",
+  "name": "Na Cimrmanském",
+  "normalized": "na cimrmanskem",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150501,
+   "lng": 14.069587
+  },
+  "bbox": [
+   50.150079,
+   14.069117,
+   50.150989,
+   14.070069
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210358",
+  "name": "Na Dunderce",
+  "normalized": "na dunderce",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.17017,
+   "lng": 14.106699
+  },
+  "bbox": [
+   50.169825,
+   14.106537,
+   50.170494,
+   14.106841
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "1025431",
+  "name": "Na Feruli",
+  "normalized": "na feruli",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.169413,
+   "lng": 14.166325
+  },
+  "bbox": [
+   50.169208,
+   14.165603,
+   50.169666,
+   14.167365
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "966771",
+  "name": "Na Hoblíku",
+  "normalized": "na hobliku",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168107,
+   "lng": 14.114994
+  },
+  "bbox": [
+   50.167294,
+   14.114151,
+   50.168906,
+   14.116049
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "210366",
+  "name": "Na homolce",
+  "normalized": "na homolce",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169196,
+   "lng": 14.106185
+  },
+  "bbox": [
+   50.168743,
+   14.105876,
+   50.169622,
+   14.106474
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "210374",
+  "name": "Na kopci",
+  "normalized": "na kopci",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.160906,
+   "lng": 14.111894
+  },
+  "bbox": [
+   50.159336,
+   14.109781,
+   50.162606,
+   14.113305
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210382",
+  "name": "Na kovárně",
+  "normalized": "na kovarne",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130917,
+   "lng": 14.110472
+  },
+  "bbox": [
+   50.130752,
+   14.110145,
+   50.131007,
+   14.110673
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "210391",
+  "name": "Na Ludmile",
+  "normalized": "na ludmile",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.170989,
+   "lng": 14.149055
+  },
+  "bbox": [
+   50.170808,
+   14.148619,
+   50.17117,
+   14.14949
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "701815",
+  "name": "Na Mýtině",
+  "normalized": "na mytine",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.154211,
+   "lng": 14.088204
+  },
+  "bbox": [
+   50.15412,
+   14.088003,
+   50.154301,
+   14.088405
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "785717",
+  "name": "Na Obloucích",
+  "normalized": "na obloucich",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.173749,
+   "lng": 14.106326
+  },
+  "bbox": [
+   50.173151,
+   14.105523,
+   50.174135,
+   14.107548
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "894851",
+  "name": "Na Okraji",
+  "normalized": "na okraji",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165982,
+   "lng": 14.122734
+  },
+  "bbox": [
+   50.165982,
+   14.122734,
+   50.165982,
+   14.122734
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "210404",
+  "name": "Na Ostrovci",
+  "normalized": "na ostrovci",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170619,
+   "lng": 14.105763
+  },
+  "bbox": [
+   50.17003,
+   14.104099,
+   50.171526,
+   14.108114
+  ],
+  "addressCount": 32
+ },
+ {
+  "id": "2163845",
+  "name": "Na Palouku",
+  "normalized": "na palouku",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164466,
+   "lng": 14.098047
+  },
+  "bbox": [
+   50.164206,
+   14.097687,
+   50.164745,
+   14.098382
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "210412",
+  "name": "Na pískách",
+  "normalized": "na piskach",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164224,
+   "lng": 14.092088
+  },
+  "bbox": [
+   50.163849,
+   14.091219,
+   50.165159,
+   14.09288
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210421",
+  "name": "Na růžovém poli",
+  "normalized": "na ruzovem poli",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.129429,
+   "lng": 14.128649
+  },
+  "bbox": [
+   50.128538,
+   14.127505,
+   50.130282,
+   14.129593
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "211222",
+  "name": "Na samotě",
+  "normalized": "na samote",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.174743,
+   "lng": 14.131084
+  },
+  "bbox": [
+   50.174743,
+   14.131084,
+   50.174743,
+   14.131084
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "210439",
+  "name": "Na stráni",
+  "normalized": "na strani",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145529,
+   "lng": 14.091405
+  },
+  "bbox": [
+   50.144826,
+   14.088304,
+   50.145997,
+   14.095214
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "210447",
+  "name": "Na šibenci",
+  "normalized": "na sibenci",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.162405,
+   "lng": 14.107495
+  },
+  "bbox": [
+   50.16223,
+   14.106252,
+   50.162539,
+   14.108867
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "916358",
+  "name": "Na Valmetce",
+  "normalized": "na valmetce",
+  "districts": [
+   "Dubí",
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149705,
+   "lng": 14.125364
+  },
+  "bbox": [
+   50.148524,
+   14.118592,
+   50.153334,
+   14.152035
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "210455",
+  "name": "Na Vítku",
+  "normalized": "na vitku",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.168629,
+   "lng": 14.165567
+  },
+  "bbox": [
+   50.167752,
+   14.165003,
+   50.169634,
+   14.166467
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "210463",
+  "name": "Na vyhaslém",
+  "normalized": "na vyhaslem",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.153054,
+   "lng": 14.089974
+  },
+  "bbox": [
+   50.151253,
+   14.08796,
+   50.1543,
+   14.09174
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "210480",
+  "name": "Na výhybce",
+  "normalized": "na vyhybce",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131001,
+   "lng": 14.10423
+  },
+  "bbox": [
+   50.130835,
+   14.103922,
+   50.131158,
+   14.104474
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210471",
+  "name": "Na Vysokém",
+  "normalized": "na vysokem",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.164464,
+   "lng": 14.135197
+  },
+  "bbox": [
+   50.162932,
+   14.130163,
+   50.166589,
+   14.14155
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "210498",
+  "name": "Na zelené",
+  "normalized": "na zelene",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138949,
+   "lng": 14.123549
+  },
+  "bbox": [
+   50.138746,
+   14.122525,
+   50.139355,
+   14.124594
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "756466",
+  "name": "Na Zvonečku",
+  "normalized": "na zvonecku",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.135041,
+   "lng": 14.067824
+  },
+  "bbox": [
+   50.134914,
+   14.067692,
+   50.135228,
+   14.068015
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "777382",
+  "name": "Nad Bílými vršky",
+  "normalized": "nad bilymi vrsky",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137846,
+   "lng": 14.058403
+  },
+  "bbox": [
+   50.137732,
+   14.058157,
+   50.137959,
+   14.058649
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "792071",
+  "name": "Nad Oleškou",
+  "normalized": "nad oleskou",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165043,
+   "lng": 14.101521
+  },
+  "bbox": [
+   50.164846,
+   14.101043,
+   50.165106,
+   14.102081
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "1889281",
+  "name": "Nad Potokem",
+  "normalized": "nad potokem",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159448,
+   "lng": 14.140523
+  },
+  "bbox": [
+   50.159338,
+   14.140176,
+   50.159546,
+   14.140893
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210501",
+  "name": "Nad Školou",
+  "normalized": "nad skolou",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167709,
+   "lng": 14.097781
+  },
+  "bbox": [
+   50.167209,
+   14.096215,
+   50.168644,
+   14.100181
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "2164655",
+  "name": "Nad Vápenkami",
+  "normalized": "nad vapenkami",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.145486,
+   "lng": 14.119614
+  },
+  "bbox": [
+   50.145047,
+   14.116476,
+   50.145958,
+   14.121476
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "211125",
+  "name": "nám. Edvarda Beneše",
+  "normalized": "nam. edvarda benese",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142913,
+   "lng": 14.096109
+  },
+  "bbox": [
+   50.142082,
+   14.095058,
+   50.143385,
+   14.09843
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210528",
+  "name": "nám. Fr. Rosenbauma",
+  "normalized": "nam. fr. rosenbauma",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.161033,
+   "lng": 14.136228
+  },
+  "bbox": [
+   50.16072,
+   14.135725,
+   50.161468,
+   14.136614
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "211168",
+  "name": "nám. Jana Masaryka",
+  "normalized": "nam. jana masaryka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139527,
+   "lng": 14.073248
+  },
+  "bbox": [
+   50.139333,
+   14.072718,
+   50.13972,
+   14.073778
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "210536",
+  "name": "nám. Jana Opletala",
+  "normalized": "nam. jana opletala",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.136294,
+   "lng": 14.06588
+  },
+  "bbox": [
+   50.135792,
+   14.064604,
+   50.136884,
+   14.066944
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "210544",
+  "name": "nám. Mikoláše Alše",
+  "normalized": "nam. mikolase alse",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170511,
+   "lng": 14.11122
+  },
+  "bbox": [
+   50.170246,
+   14.110736,
+   50.17071,
+   14.112042
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211095",
+  "name": "náměstí 17. listopadu",
+  "normalized": "namesti 17. listopadu",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141869,
+   "lng": 14.098794
+  },
+  "bbox": [
+   50.141719,
+   14.097945,
+   50.141992,
+   14.099355
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210552",
+  "name": "náměstí 9. května",
+  "normalized": "namesti 9. kvetna",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165114,
+   "lng": 14.117566
+  },
+  "bbox": [
+   50.164519,
+   14.115937,
+   50.165889,
+   14.119208
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "210901",
+  "name": "náměstí Sítná",
+  "normalized": "namesti sitna",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136113,
+   "lng": 14.102685
+  },
+  "bbox": [
+   50.135477,
+   14.10169,
+   50.137151,
+   14.104261
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210943",
+  "name": "náměstí starosty Pavla",
+  "normalized": "namesti starosty pavla",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147188,
+   "lng": 14.102951
+  },
+  "bbox": [
+   50.146476,
+   14.101845,
+   50.148341,
+   14.103992
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "210978",
+  "name": "náměstí Svobody",
+  "normalized": "namesti svobody",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144309,
+   "lng": 14.094374
+  },
+  "bbox": [
+   50.143806,
+   14.093227,
+   50.144838,
+   14.095366
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210561",
+  "name": "Nerudova",
+  "normalized": "nerudova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167986,
+   "lng": 14.103891
+  },
+  "bbox": [
+   50.1676,
+   14.10256,
+   50.168329,
+   14.105173
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "210617",
+  "name": "Nezamyslova",
+  "normalized": "nezamyslova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142554,
+   "lng": 14.113959
+  },
+  "bbox": [
+   50.141851,
+   14.113147,
+   50.143253,
+   14.114598
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "211231",
+  "name": "Norská",
+  "normalized": "norska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.128715,
+   "lng": 14.122843
+  },
+  "bbox": [
+   50.128173,
+   14.121775,
+   50.129163,
+   14.125285
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "210625",
+  "name": "Nučická",
+  "normalized": "nucicka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144692,
+   "lng": 14.112833
+  },
+  "bbox": [
+   50.144278,
+   14.112742,
+   50.145111,
+   14.112869
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "210633",
+  "name": "O. Peška",
+  "normalized": "o. peska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145427,
+   "lng": 14.097626
+  },
+  "bbox": [
+   50.1451,
+   14.097393,
+   50.145685,
+   14.097964
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "210641",
+  "name": "Obránců míru",
+  "normalized": "obrancu miru",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133987,
+   "lng": 14.12827
+  },
+  "bbox": [
+   50.133694,
+   14.126465,
+   50.134585,
+   14.129574
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "210650",
+  "name": "Ocelárenská",
+  "normalized": "ocelarenska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145674,
+   "lng": 14.108332
+  },
+  "bbox": [
+   50.145522,
+   14.107565,
+   50.145862,
+   14.109032
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "210668",
+  "name": "Ol. Holcmana",
+  "normalized": "ol. holcmana",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137295,
+   "lng": 14.066355
+  },
+  "bbox": [
+   50.137172,
+   14.065478,
+   50.137486,
+   14.067223
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "210676",
+  "name": "Oldřichova",
+  "normalized": "oldrichova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159496,
+   "lng": 14.132072
+  },
+  "bbox": [
+   50.158378,
+   14.13105,
+   50.161921,
+   14.132795
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "210684",
+  "name": "Opuková",
+  "normalized": "opukova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136597,
+   "lng": 14.11799
+  },
+  "bbox": [
+   50.135521,
+   14.117017,
+   50.137533,
+   14.118921
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "210692",
+  "name": "Ořechová",
+  "normalized": "orechova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.141018,
+   "lng": 14.122042
+  },
+  "bbox": [
+   50.140153,
+   14.121379,
+   50.141776,
+   14.122689
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "210714",
+  "name": "Ostravská",
+  "normalized": "ostravska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136205,
+   "lng": 14.099849
+  },
+  "bbox": [
+   50.135731,
+   14.098806,
+   50.136728,
+   14.100924
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "210722",
+  "name": "Ostrovecká",
+  "normalized": "ostrovecka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148977,
+   "lng": 14.093846
+  },
+  "bbox": [
+   50.148298,
+   14.09245,
+   50.149711,
+   14.095447
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "211249",
+  "name": "Ostruhová",
+  "normalized": "ostruhova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150026,
+   "lng": 14.094002
+  },
+  "bbox": [
+   50.1496,
+   14.093226,
+   50.150453,
+   14.094762
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "211273",
+  "name": "Osvoboz. pol. vězňů",
+  "normalized": "osvoboz. pol. veznu",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145019,
+   "lng": 14.100225
+  },
+  "bbox": [
+   50.144235,
+   14.099667,
+   50.145545,
+   14.100975
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "210731",
+  "name": "Ot. Ostrčila",
+  "normalized": "ot. ostrcila",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158613,
+   "lng": 14.135615
+  },
+  "bbox": [
+   50.158254,
+   14.135181,
+   50.159018,
+   14.13605
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210765",
+  "name": "Otak. Müllera",
+  "normalized": "otak. mullera",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170087,
+   "lng": 14.109954
+  },
+  "bbox": [
+   50.170066,
+   14.109807,
+   50.170107,
+   14.1101
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "210773",
+  "name": "Otevřená",
+  "normalized": "otevrena",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135732,
+   "lng": 14.119771
+  },
+  "bbox": [
+   50.135115,
+   14.117807,
+   50.136258,
+   14.121309
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "3071049",
+  "name": "Otmara Zinkeho",
+  "normalized": "otmara zinkeho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147077,
+   "lng": 14.067458
+  },
+  "bbox": [
+   50.146904,
+   14.067172,
+   50.147251,
+   14.067744
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "210781",
+  "name": "Ovocná",
+  "normalized": "ovocna",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.172426,
+   "lng": 14.116652
+  },
+  "bbox": [
+   50.171455,
+   14.114313,
+   50.172981,
+   14.118491
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "210790",
+  "name": "P. Holého",
+  "normalized": "p. holeho",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143837,
+   "lng": 14.120033
+  },
+  "bbox": [
+   50.127281,
+   14.116803,
+   50.144724,
+   14.142995
+  ],
+  "addressCount": 57
+ },
+ {
+  "id": "210803",
+  "name": "Palackého",
+  "normalized": "palackeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167745,
+   "lng": 14.104521
+  },
+  "bbox": [
+   50.167081,
+   14.102488,
+   50.168544,
+   14.107001
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "210811",
+  "name": "Partyzánská",
+  "normalized": "partyzanska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143973,
+   "lng": 14.115301
+  },
+  "bbox": [
+   50.143491,
+   14.114606,
+   50.144433,
+   14.115793
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "211320",
+  "name": "Pařížská",
+  "normalized": "parizska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135716,
+   "lng": 14.133894
+  },
+  "bbox": [
+   50.133963,
+   14.131577,
+   50.137153,
+   14.135464
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "210838",
+  "name": "Patejdlova",
+  "normalized": "patejdlova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142681,
+   "lng": 14.113346
+  },
+  "bbox": [
+   50.142036,
+   14.11289,
+   50.143113,
+   14.113999
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "210846",
+  "name": "Pavlisova",
+  "normalized": "pavlisova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.140952,
+   "lng": 14.096815
+  },
+  "bbox": [
+   50.139566,
+   14.095807,
+   50.142465,
+   14.097425
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "210854",
+  "name": "Pechlátova",
+  "normalized": "pechlatova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.162456,
+   "lng": 14.137186
+  },
+  "bbox": [
+   50.161922,
+   14.13691,
+   50.162993,
+   14.137513
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "210862",
+  "name": "Pekařská",
+  "normalized": "pekarska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147933,
+   "lng": 14.105181
+  },
+  "bbox": [
+   50.147749,
+   14.104539,
+   50.14806,
+   14.105575
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210871",
+  "name": "Petra Bezruče",
+  "normalized": "petra bezruce",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.13894,
+   "lng": 14.098205
+  },
+  "bbox": [
+   50.134512,
+   14.09442,
+   50.144115,
+   14.104495
+  ],
+  "addressCount": 40
+ },
+ {
+  "id": "210889",
+  "name": "Petra Jilemnického",
+  "normalized": "petra jilemnickeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167313,
+   "lng": 14.119604
+  },
+  "bbox": [
+   50.167131,
+   14.118993,
+   50.167491,
+   14.120083
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "211338",
+  "name": "Petrohradská",
+  "normalized": "petrohradska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139741,
+   "lng": 14.079352
+  },
+  "bbox": [
+   50.139518,
+   14.07406,
+   50.140212,
+   14.083471
+  ],
+  "addressCount": 40
+ },
+ {
+  "id": "918636",
+  "name": "Pcherská",
+  "normalized": "pcherska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.17623,
+   "lng": 14.106038
+  },
+  "bbox": [
+   50.175879,
+   14.105779,
+   50.176551,
+   14.106379
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "210897",
+  "name": "plk. Stříbrného",
+  "normalized": "plk. stribrneho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146055,
+   "lng": 14.103505
+  },
+  "bbox": [
+   50.145736,
+   14.103145,
+   50.146457,
+   14.103889
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "210919",
+  "name": "Plzeňská",
+  "normalized": "plzenska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134954,
+   "lng": 14.09893
+  },
+  "bbox": [
+   50.134465,
+   14.097411,
+   50.135695,
+   14.099867
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "1026631",
+  "name": "Pod Bukovkou",
+  "normalized": "pod bukovkou",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149313,
+   "lng": 14.097315
+  },
+  "bbox": [
+   50.14899,
+   14.09719,
+   50.149577,
+   14.097539
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "210927",
+  "name": "Pod hájem",
+  "normalized": "pod hajem",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167661,
+   "lng": 14.115563
+  },
+  "bbox": [
+   50.166994,
+   14.114543,
+   50.168479,
+   14.116862
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "2015790",
+  "name": "Pod Kuklíkem",
+  "normalized": "pod kuklikem",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165982,
+   "lng": 14.103421
+  },
+  "bbox": [
+   50.165019,
+   14.103157,
+   50.166482,
+   14.103851
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "210935",
+  "name": "Pod lesem",
+  "normalized": "pod lesem",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.139859,
+   "lng": 14.123468
+  },
+  "bbox": [
+   50.139653,
+   14.123224,
+   50.140065,
+   14.12361
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "2090350",
+  "name": "Pod Líšnicí",
+  "normalized": "pod lisnici",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167417,
+   "lng": 14.100231
+  },
+  "bbox": [
+   50.167176,
+   14.099993,
+   50.167663,
+   14.100445
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "1532537",
+  "name": "Pod Návsí",
+  "normalized": "pod navsi",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.135184,
+   "lng": 14.066914
+  },
+  "bbox": [
+   50.13497,
+   14.066676,
+   50.135397,
+   14.067152
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "3716503",
+  "name": "Pod Ořechovkou",
+  "normalized": "pod orechovkou",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145272,
+   "lng": 14.087263
+  },
+  "bbox": [
+   50.145188,
+   14.087135,
+   50.145355,
+   14.087391
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "660205",
+  "name": "Pod Strání",
+  "normalized": "pod strani",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147506,
+   "lng": 14.093985
+  },
+  "bbox": [
+   50.146804,
+   14.091409,
+   50.148317,
+   14.095894
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "2050838",
+  "name": "Pod Svahem",
+  "normalized": "pod svahem",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165634,
+   "lng": 14.109788
+  },
+  "bbox": [
+   50.165114,
+   14.108429,
+   50.166154,
+   14.111219
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "1784528",
+  "name": "Pod Synagogou",
+  "normalized": "pod synagogou",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146011,
+   "lng": 14.104108
+  },
+  "bbox": [
+   50.146011,
+   14.104108,
+   50.146011,
+   14.104108
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "210951",
+  "name": "Pod Šibencem",
+  "normalized": "pod sibencem",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.16344,
+   "lng": 14.107557
+  },
+  "bbox": [
+   50.163316,
+   14.107289,
+   50.163563,
+   14.107825
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "861553",
+  "name": "Pod Vodojemem",
+  "normalized": "pod vodojemem",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167755,
+   "lng": 14.121129
+  },
+  "bbox": [
+   50.167369,
+   14.120819,
+   50.168022,
+   14.121599
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "210960",
+  "name": "Poděbradova",
+  "normalized": "podebradova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144845,
+   "lng": 14.098729
+  },
+  "bbox": [
+   50.143845,
+   14.098155,
+   50.145582,
+   14.099732
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "210986",
+  "name": "Podrázkého",
+  "normalized": "podrazkeho",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.139763,
+   "lng": 14.071363
+  },
+  "bbox": [
+   50.138657,
+   14.071006,
+   50.140593,
+   14.071779
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "210994",
+  "name": "Polní",
+  "normalized": "polni",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136477,
+   "lng": 14.123031
+  },
+  "bbox": [
+   50.135859,
+   14.12278,
+   50.136713,
+   14.123223
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211001",
+  "name": "Polská",
+  "normalized": "polska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130484,
+   "lng": 14.12689
+  },
+  "bbox": [
+   50.128339,
+   14.126088,
+   50.132774,
+   14.128129
+  ],
+  "addressCount": 28
+ },
+ {
+  "id": "211010",
+  "name": "Poštovní náměstí",
+  "normalized": "postovni namesti",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145853,
+   "lng": 14.10407
+  },
+  "bbox": [
+   50.145325,
+   14.103372,
+   50.146149,
+   14.104684
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211036",
+  "name": "Práce",
+  "normalized": "prace",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.162165,
+   "lng": 14.135583
+  },
+  "bbox": [
+   50.161732,
+   14.134159,
+   50.163271,
+   14.136076
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211028",
+  "name": "Pražská",
+  "normalized": "prazska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136813,
+   "lng": 14.130956
+  },
+  "bbox": [
+   50.135976,
+   14.125207,
+   50.138064,
+   14.137937
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "211044",
+  "name": "Prokopa Holého",
+  "normalized": "prokopa holeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164744,
+   "lng": 14.120026
+  },
+  "bbox": [
+   50.164299,
+   14.119609,
+   50.165178,
+   14.120539
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "1784561",
+  "name": "Propojovací",
+  "normalized": "propojovaci",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.166061,
+   "lng": 14.121397
+  },
+  "bbox": [
+   50.166051,
+   14.121339,
+   50.166071,
+   14.121455
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "211052",
+  "name": "Průchodní",
+  "normalized": "pruchodni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145841,
+   "lng": 14.096417
+  },
+  "bbox": [
+   50.145772,
+   14.096315,
+   50.145901,
+   14.096526
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "211061",
+  "name": "Průchova",
+  "normalized": "pruchova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144282,
+   "lng": 14.089252
+  },
+  "bbox": [
+   50.144038,
+   14.08876,
+   50.144488,
+   14.089825
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "211079",
+  "name": "Průmyslová",
+  "normalized": "prumyslova",
+  "districts": [
+   "Dubí",
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.157102,
+   "lng": 14.116401
+  },
+  "bbox": [
+   50.15033,
+   14.114384,
+   50.162227,
+   14.123603
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "211087",
+  "name": "Přemyslova",
+  "normalized": "premyslova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169167,
+   "lng": 14.10484
+  },
+  "bbox": [
+   50.168882,
+   14.104559,
+   50.169422,
+   14.105065
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "211109",
+  "name": "Příční",
+  "normalized": "pricni",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165026,
+   "lng": 14.099097
+  },
+  "bbox": [
+   50.164329,
+   14.09863,
+   50.166134,
+   14.09958
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "211117",
+  "name": "Purkyňova",
+  "normalized": "purkynova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142908,
+   "lng": 14.098867
+  },
+  "bbox": [
+   50.141678,
+   14.098405,
+   50.143623,
+   14.099575
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "211133",
+  "name": "R. Novotného",
+  "normalized": "r. novotneho",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136672,
+   "lng": 14.118733
+  },
+  "bbox": [
+   50.136022,
+   14.117263,
+   50.137266,
+   14.120462
+  ],
+  "addressCount": 29
+ },
+ {
+  "id": "211141",
+  "name": "R. Svobodové",
+  "normalized": "r. svobodove",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.140056,
+   "lng": 14.096596
+  },
+  "bbox": [
+   50.139485,
+   14.095393,
+   50.140448,
+   14.097772
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "211150",
+  "name": "Raisova",
+  "normalized": "raisova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.149097,
+   "lng": 14.135053
+  },
+  "bbox": [
+   50.148973,
+   14.134638,
+   50.149172,
+   14.135517
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211176",
+  "name": "Rakovnická",
+  "normalized": "rakovnicka",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.138305,
+   "lng": 14.062528
+  },
+  "bbox": [
+   50.136484,
+   14.059195,
+   50.140398,
+   14.065736
+  ],
+  "addressCount": 36
+ },
+ {
+  "id": "211532",
+  "name": "Rašínova",
+  "normalized": "rasinova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.166445,
+   "lng": 14.108908
+  },
+  "bbox": [
+   50.166153,
+   14.107492,
+   50.166661,
+   14.110581
+  ],
+  "addressCount": 29
+ },
+ {
+  "id": "211192",
+  "name": "Redaktora Boučka",
+  "normalized": "redaktora boucka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134945,
+   "lng": 14.109758
+  },
+  "bbox": [
+   50.133508,
+   14.107058,
+   50.139974,
+   14.124288
+  ],
+  "addressCount": 32
+ },
+ {
+  "id": "211206",
+  "name": "Reimanova",
+  "normalized": "reimanova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136838,
+   "lng": 14.122744
+  },
+  "bbox": [
+   50.136528,
+   14.121528,
+   50.137064,
+   14.124027
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "211214",
+  "name": "Riegrova",
+  "normalized": "riegrova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.139281,
+   "lng": 14.120725
+  },
+  "bbox": [
+   50.137324,
+   14.119096,
+   50.141298,
+   14.123547
+  ],
+  "addressCount": 43
+ },
+ {
+  "id": "211257",
+  "name": "Rog. Houdka",
+  "normalized": "rog. houdka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143739,
+   "lng": 14.080657
+  },
+  "bbox": [
+   50.143165,
+   14.079506,
+   50.144194,
+   14.08137
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "211265",
+  "name": "Rooseveltova",
+  "normalized": "rooseveltova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144052,
+   "lng": 14.10895
+  },
+  "bbox": [
+   50.143491,
+   14.107081,
+   50.145036,
+   14.110901
+  ],
+  "addressCount": 22
+ },
+ {
+  "id": "211281",
+  "name": "Rosálie Hajníkové",
+  "normalized": "rosalie hajnikove",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.166779,
+   "lng": 14.105041
+  },
+  "bbox": [
+   50.166411,
+   14.102746,
+   50.16711,
+   14.106837
+  ],
+  "addressCount": 32
+ },
+ {
+  "id": "211290",
+  "name": "Rud. Jonáše",
+  "normalized": "rud. jonase",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.157554,
+   "lng": 14.136628
+  },
+  "bbox": [
+   50.157099,
+   14.13612,
+   50.158157,
+   14.137131
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "211303",
+  "name": "Rud. Knotka",
+  "normalized": "rud. knotka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147691,
+   "lng": 14.096905
+  },
+  "bbox": [
+   50.146881,
+   14.096206,
+   50.148393,
+   14.097512
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "211311",
+  "name": "Rybná",
+  "normalized": "rybna",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142442,
+   "lng": 14.114968
+  },
+  "bbox": [
+   50.142014,
+   14.114714,
+   50.142831,
+   14.115282
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "211346",
+  "name": "Rychtářská",
+  "normalized": "rychtarska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.140654,
+   "lng": 14.118702
+  },
+  "bbox": [
+   50.140372,
+   14.118095,
+   50.140967,
+   14.119357
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211818",
+  "name": "Římská",
+  "normalized": "rimska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142302,
+   "lng": 14.075888
+  },
+  "bbox": [
+   50.142203,
+   14.073494,
+   50.142408,
+   14.078287
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211354",
+  "name": "S. K. Neumanna",
+  "normalized": "s. k. neumanna",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171366,
+   "lng": 14.113978
+  },
+  "bbox": [
+   50.171195,
+   14.11293,
+   50.171549,
+   14.115056
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "211362",
+  "name": "Saskova",
+  "normalized": "saskova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143638,
+   "lng": 14.095574
+  },
+  "bbox": [
+   50.143202,
+   14.095039,
+   50.143981,
+   14.095967
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "211371",
+  "name": "Sevastopolská",
+  "normalized": "sevastopolska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14276,
+   "lng": 14.075905
+  },
+  "bbox": [
+   50.142554,
+   14.073766,
+   50.143106,
+   14.078188
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "211389",
+  "name": "Severní",
+  "normalized": "severni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144474,
+   "lng": 14.073805
+  },
+  "bbox": [
+   50.144156,
+   14.071709,
+   50.145112,
+   14.076169
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211397",
+  "name": "Skalní",
+  "normalized": "skalni",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.139258,
+   "lng": 14.119711
+  },
+  "bbox": [
+   50.138881,
+   14.119225,
+   50.139688,
+   14.120246
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "211427",
+  "name": "Slánská",
+  "normalized": "slanska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150028,
+   "lng": 14.105125
+  },
+  "bbox": [
+   50.148261,
+   14.103158,
+   50.154647,
+   14.10684
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "211435",
+  "name": "Slepá",
+  "normalized": "slepa",
+  "districts": [
+   "Kladno",
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164719,
+   "lng": 14.106093
+  },
+  "bbox": [
+   50.146112,
+   14.104064,
+   50.169551,
+   14.106808
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "211443",
+  "name": "Slovenská",
+  "normalized": "slovenska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136429,
+   "lng": 14.113776
+  },
+  "bbox": [
+   50.136429,
+   14.113776,
+   50.136429,
+   14.113776
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "211451",
+  "name": "Smečenská",
+  "normalized": "smecenska",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.142482,
+   "lng": 14.060072
+  },
+  "bbox": [
+   50.140584,
+   14.057509,
+   50.144637,
+   14.066267
+  ],
+  "addressCount": 56
+ },
+ {
+  "id": "211460",
+  "name": "Smetanova",
+  "normalized": "smetanova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132761,
+   "lng": 14.107035
+  },
+  "bbox": [
+   50.131454,
+   14.103044,
+   50.141853,
+   14.124812
+  ],
+  "addressCount": 45
+ },
+ {
+  "id": "211478",
+  "name": "Soběslavova",
+  "normalized": "sobeslavova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143166,
+   "lng": 14.113955
+  },
+  "bbox": [
+   50.142977,
+   14.113711,
+   50.143303,
+   14.114232
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "211486",
+  "name": "Sochorova",
+  "normalized": "sochorova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138515,
+   "lng": 14.086064
+  },
+  "bbox": [
+   50.138486,
+   14.084698,
+   50.138558,
+   14.087239
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211494",
+  "name": "Sokola Tůmy",
+  "normalized": "sokola tumy",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.163168,
+   "lng": 14.104649
+  },
+  "bbox": [
+   50.162956,
+   14.102346,
+   50.163466,
+   14.107317
+  ],
+  "addressCount": 35
+ },
+ {
+  "id": "211508",
+  "name": "Sokolovská",
+  "normalized": "sokolovska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143514,
+   "lng": 14.074622
+  },
+  "bbox": [
+   50.143499,
+   14.074235,
+   50.143528,
+   14.075008
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "211516",
+  "name": "Sokolská",
+  "normalized": "sokolska",
+  "districts": [
+   "Kročehlavy",
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.157322,
+   "lng": 14.109419
+  },
+  "bbox": [
+   50.142296,
+   14.10547,
+   50.169518,
+   14.115352
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "211541",
+  "name": "Sportovců",
+  "normalized": "sportovcu",
+  "districts": [
+   "Kladno",
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137306,
+   "lng": 14.083921
+  },
+  "bbox": [
+   50.134313,
+   14.072288,
+   50.138637,
+   14.089985
+  ],
+  "addressCount": 32
+ },
+ {
+  "id": "211559",
+  "name": "Sportovní",
+  "normalized": "sportovni",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167279,
+   "lng": 14.10879
+  },
+  "bbox": [
+   50.166973,
+   14.107264,
+   50.167629,
+   14.110133
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "211567",
+  "name": "Spytihněvova",
+  "normalized": "spytihnevova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.13911,
+   "lng": 14.094891
+  },
+  "bbox": [
+   50.138887,
+   14.094409,
+   50.139277,
+   14.095453
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "211575",
+  "name": "Stan. Strnada",
+  "normalized": "stan. strnada",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137996,
+   "lng": 14.066874
+  },
+  "bbox": [
+   50.137365,
+   14.066619,
+   50.138589,
+   14.067196
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "211583",
+  "name": "Stanisl. Oplta",
+  "normalized": "stanisl. oplta",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169197,
+   "lng": 14.112971
+  },
+  "bbox": [
+   50.168619,
+   14.11264,
+   50.169537,
+   14.113313
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "211591",
+  "name": "Stará",
+  "normalized": "stara",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145787,
+   "lng": 14.102338
+  },
+  "bbox": [
+   50.145559,
+   14.101905,
+   50.146134,
+   14.10265
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211605",
+  "name": "Stromová",
+  "normalized": "stromova",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.168434,
+   "lng": 14.167939
+  },
+  "bbox": [
+   50.168358,
+   14.166757,
+   50.168487,
+   14.168594
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "211613",
+  "name": "Strouhalova",
+  "normalized": "strouhalova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138879,
+   "lng": 14.086888
+  },
+  "bbox": [
+   50.137651,
+   14.08443,
+   50.139634,
+   14.088957
+  ],
+  "addressCount": 47
+ },
+ {
+  "id": "211826",
+  "name": "Studentská",
+  "normalized": "studentska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143907,
+   "lng": 14.07344
+  },
+  "bbox": [
+   50.143726,
+   14.072971,
+   50.144064,
+   14.073684
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "211621",
+  "name": "Suchardova",
+  "normalized": "suchardova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144663,
+   "lng": 14.101237
+  },
+  "bbox": [
+   50.144473,
+   14.100915,
+   50.144892,
+   14.101661
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "211630",
+  "name": "Sukova",
+  "normalized": "sukova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143038,
+   "lng": 14.124827
+  },
+  "bbox": [
+   50.142623,
+   14.124459,
+   50.143359,
+   14.125137
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "211656",
+  "name": "Svátkova",
+  "normalized": "svatkova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138317,
+   "lng": 14.121911
+  },
+  "bbox": [
+   50.138104,
+   14.121657,
+   50.138471,
+   14.122102
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211648",
+  "name": "Svatopluka Čecha",
+  "normalized": "svatopluka cecha",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168917,
+   "lng": 14.109812
+  },
+  "bbox": [
+   50.168481,
+   14.109549,
+   50.169356,
+   14.110187
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "1810545",
+  "name": "Svažitá",
+  "normalized": "svazita",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168936,
+   "lng": 14.105413
+  },
+  "bbox": [
+   50.168631,
+   14.105287,
+   50.169213,
+   14.105655
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211672",
+  "name": "Svépomoc",
+  "normalized": "svepomoc",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.137391,
+   "lng": 14.11422
+  },
+  "bbox": [
+   50.137265,
+   14.113903,
+   50.137469,
+   14.11452
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "918831",
+  "name": "Svinařovská",
+  "normalized": "svinarovska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.175775,
+   "lng": 14.103738
+  },
+  "bbox": [
+   50.17507,
+   14.103491,
+   50.176564,
+   14.104139
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "211664",
+  "name": "Svobody",
+  "normalized": "svobody",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136197,
+   "lng": 14.113839
+  },
+  "bbox": [
+   50.134637,
+   14.111919,
+   50.13757,
+   14.115574
+  ],
+  "addressCount": 45
+ },
+ {
+  "id": "212016",
+  "name": "Svojsíkova",
+  "normalized": "svojsikova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165563,
+   "lng": 14.10245
+  },
+  "bbox": [
+   50.164777,
+   14.095874,
+   50.166297,
+   14.107112
+  ],
+  "addressCount": 76
+ },
+ {
+  "id": "211699",
+  "name": "Šafaříkova",
+  "normalized": "safarikova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138264,
+   "lng": 14.096786
+  },
+  "bbox": [
+   50.138106,
+   14.096451,
+   50.138389,
+   14.09711
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "211681",
+  "name": "Šachetní",
+  "normalized": "sachetni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145287,
+   "lng": 14.078479
+  },
+  "bbox": [
+   50.145239,
+   14.077742,
+   50.145782,
+   14.079861
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "211702",
+  "name": "Šaldova",
+  "normalized": "saldova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148943,
+   "lng": 14.134372
+  },
+  "bbox": [
+   50.147921,
+   14.133959,
+   50.149904,
+   14.135269
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "211711",
+  "name": "Šamberkova",
+  "normalized": "samberkova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142113,
+   "lng": 14.12459
+  },
+  "bbox": [
+   50.141987,
+   14.124336,
+   50.142339,
+   14.124818
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "211729",
+  "name": "Šindlerova",
+  "normalized": "sindlerova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171836,
+   "lng": 14.115878
+  },
+  "bbox": [
+   50.171617,
+   14.114917,
+   50.17211,
+   14.117094
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "211737",
+  "name": "Školská",
+  "normalized": "skolska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.143184,
+   "lng": 14.120607
+  },
+  "bbox": [
+   50.142792,
+   14.118085,
+   50.143468,
+   14.122412
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "211745",
+  "name": "Škroupova",
+  "normalized": "skroupova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.147789,
+   "lng": 14.075318
+  },
+  "bbox": [
+   50.146975,
+   14.067922,
+   50.150722,
+   14.079707
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "212105",
+  "name": "Štefánikova",
+  "normalized": "stefanikova",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.138574,
+   "lng": 14.065556
+  },
+  "bbox": [
+   50.137937,
+   14.061068,
+   50.139038,
+   14.071467
+  ],
+  "addressCount": 73
+ },
+ {
+  "id": "211753",
+  "name": "Štechova",
+  "normalized": "stechova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144389,
+   "lng": 14.089221
+  },
+  "bbox": [
+   50.142374,
+   14.084162,
+   50.145127,
+   14.091326
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "3071201",
+  "name": "Štěpána Rautenstraucha",
+  "normalized": "stepana rautenstraucha",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146611,
+   "lng": 14.068425
+  },
+  "bbox": [
+   50.146611,
+   14.068425,
+   50.146611,
+   14.068425
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "211761",
+  "name": "Štěpánská",
+  "normalized": "stepanska",
+  "districts": [
+   "Kladno",
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.141854,
+   "lng": 14.111028
+  },
+  "bbox": [
+   50.140505,
+   14.108968,
+   50.142952,
+   14.112701
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "211770",
+  "name": "Štítného",
+  "normalized": "stitneho",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142393,
+   "lng": 14.115581
+  },
+  "bbox": [
+   50.141853,
+   14.115227,
+   50.143168,
+   14.115825
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "1785583",
+  "name": "Štolová",
+  "normalized": "stolova",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.16307,
+   "lng": 14.139443
+  },
+  "bbox": [
+   50.162413,
+   14.137706,
+   50.164996,
+   14.144159
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "212156",
+  "name": "Štulcova",
+  "normalized": "stulcova",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.14243,
+   "lng": 14.068095
+  },
+  "bbox": [
+   50.142229,
+   14.067049,
+   50.142703,
+   14.069251
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "211788",
+  "name": "Šturzova",
+  "normalized": "sturzova",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168158,
+   "lng": 14.10078
+  },
+  "bbox": [
+   50.16791,
+   14.100134,
+   50.168417,
+   14.101895
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211796",
+  "name": "Šulcova",
+  "normalized": "sulcova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138559,
+   "lng": 14.11947
+  },
+  "bbox": [
+   50.137017,
+   14.11627,
+   50.140555,
+   14.123871
+  ],
+  "addressCount": 38
+ },
+ {
+  "id": "212300",
+  "name": "Švédská",
+  "normalized": "svedska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.127699,
+   "lng": 14.122231
+  },
+  "bbox": [
+   50.127428,
+   14.121115,
+   50.127973,
+   14.124061
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "212326",
+  "name": "Švýcarská",
+  "normalized": "svycarska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130642,
+   "lng": 14.116852
+  },
+  "bbox": [
+   50.130373,
+   14.115811,
+   50.130926,
+   14.11806
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "212571",
+  "name": "T. G. Masaryka",
+  "normalized": "t. g. masaryka",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14584,
+   "lng": 14.099409
+  },
+  "bbox": [
+   50.145061,
+   14.094712,
+   50.146586,
+   14.10274
+  ],
+  "addressCount": 47
+ },
+ {
+  "id": "211800",
+  "name": "Táboritská",
+  "normalized": "taboritska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.155463,
+   "lng": 14.117387
+  },
+  "bbox": [
+   50.155405,
+   14.117124,
+   50.155521,
+   14.117649
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "212539",
+  "name": "Tallinská",
+  "normalized": "tallinska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138573,
+   "lng": 14.079735
+  },
+  "bbox": [
+   50.138448,
+   14.079725,
+   50.138697,
+   14.079745
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "667897",
+  "name": "Thienfeld",
+  "normalized": "thienfeld",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.156314,
+   "lng": 14.105409
+  },
+  "bbox": [
+   50.156314,
+   14.105409,
+   50.156314,
+   14.105409
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "211834",
+  "name": "Tichá",
+  "normalized": "ticha",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159016,
+   "lng": 14.133398
+  },
+  "bbox": [
+   50.158879,
+   14.133045,
+   50.159213,
+   14.133693
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "211842",
+  "name": "Tolstého",
+  "normalized": "tolsteho",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.140016,
+   "lng": 14.06531
+  },
+  "bbox": [
+   50.139665,
+   14.062081,
+   50.140424,
+   14.068786
+  ],
+  "addressCount": 36
+ },
+ {
+  "id": "211851",
+  "name": "Trojanova",
+  "normalized": "trojanova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142021,
+   "lng": 14.122008
+  },
+  "bbox": [
+   50.141236,
+   14.119939,
+   50.142516,
+   14.123424
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "2015846",
+  "name": "Trojská",
+  "normalized": "trojska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164219,
+   "lng": 14.10825
+  },
+  "bbox": [
+   50.16409,
+   14.107855,
+   50.164345,
+   14.108864
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "2163926",
+  "name": "Truhlářská",
+  "normalized": "truhlarska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167489,
+   "lng": 14.099886
+  },
+  "bbox": [
+   50.166988,
+   14.098599,
+   50.167825,
+   14.101205
+  ],
+  "addressCount": 23
+ },
+ {
+  "id": "918652",
+  "name": "Třebichovická",
+  "normalized": "trebichovicka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.175784,
+   "lng": 14.104902
+  },
+  "bbox": [
+   50.174779,
+   14.104495,
+   50.176729,
+   14.105255
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "212555",
+  "name": "Třebízského",
+  "normalized": "trebizskeho",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.16619,
+   "lng": 14.103737
+  },
+  "bbox": [
+   50.165707,
+   14.099826,
+   50.16671,
+   14.107035
+  ],
+  "addressCount": 58
+ },
+ {
+  "id": "211869",
+  "name": "Tuchoraz",
+  "normalized": "tuchoraz",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150736,
+   "lng": 14.104213
+  },
+  "bbox": [
+   50.150542,
+   14.103856,
+   50.151172,
+   14.104562
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "211877",
+  "name": "Tylova",
+  "normalized": "tylova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143601,
+   "lng": 14.078898
+  },
+  "bbox": [
+   50.141172,
+   14.077261,
+   50.144936,
+   14.081374
+  ],
+  "addressCount": 60
+ },
+ {
+  "id": "211885",
+  "name": "Tyršova",
+  "normalized": "tyrsova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145028,
+   "lng": 14.097242
+  },
+  "bbox": [
+   50.14425,
+   14.0968,
+   50.145618,
+   14.098041
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "721778",
+  "name": "U Borovin",
+  "normalized": "u borovin",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148122,
+   "lng": 14.152263
+  },
+  "bbox": [
+   50.147515,
+   14.150405,
+   50.149064,
+   14.15564
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "894834",
+  "name": "U Cihelny",
+  "normalized": "u cihelny",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.142186,
+   "lng": 14.066004
+  },
+  "bbox": [
+   50.142053,
+   14.066002,
+   50.142319,
+   14.066006
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "818267",
+  "name": "U Engerthu",
+  "normalized": "u engerthu",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.153012,
+   "lng": 14.088243
+  },
+  "bbox": [
+   50.152887,
+   14.087931,
+   50.153258,
+   14.088661
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "211893",
+  "name": "U haldy",
+  "normalized": "u haldy",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.149913,
+   "lng": 14.107497
+  },
+  "bbox": [
+   50.149652,
+   14.106858,
+   50.150068,
+   14.108419
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211907",
+  "name": "U Hvězdy",
+  "normalized": "u hvezdy",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13511,
+   "lng": 14.114195
+  },
+  "bbox": [
+   50.133867,
+   14.112521,
+   50.136646,
+   14.116229
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "1985191",
+  "name": "U Kaštanu",
+  "normalized": "u kastanu",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148543,
+   "lng": 14.138437
+  },
+  "bbox": [
+   50.148319,
+   14.138102,
+   50.148795,
+   14.13871
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "211915",
+  "name": "U Kateřiny",
+  "normalized": "u kateriny",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.163152,
+   "lng": 14.13853
+  },
+  "bbox": [
+   50.163144,
+   14.138381,
+   50.163162,
+   14.138702
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "725137",
+  "name": "U Kožovy hory",
+  "normalized": "u kozovy hory",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.119088,
+   "lng": 14.114363
+  },
+  "bbox": [
+   50.117989,
+   14.114193,
+   50.120065,
+   14.114643
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "701807",
+  "name": "U Lesa",
+  "normalized": "u lesa",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.154824,
+   "lng": 14.089332
+  },
+  "bbox": [
+   50.154209,
+   14.088617,
+   50.155329,
+   14.090261
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "3071065",
+  "name": "U Mrazíren",
+  "normalized": "u mraziren",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139082,
+   "lng": 14.09324
+  },
+  "bbox": [
+   50.139082,
+   14.09324,
+   50.139082,
+   14.09324
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "2050811",
+  "name": "U Studny",
+  "normalized": "u studny",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.164651,
+   "lng": 14.107792
+  },
+  "bbox": [
+   50.164503,
+   14.10727,
+   50.16485,
+   14.108347
+  ],
+  "addressCount": 11
+ },
+ {
+  "id": "1496557",
+  "name": "U Šestého",
+  "normalized": "u sesteho",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.15609,
+   "lng": 14.136668
+  },
+  "bbox": [
+   50.155893,
+   14.136291,
+   50.15638,
+   14.136993
+  ],
+  "addressCount": 4
+ },
+ {
+  "id": "2725398",
+  "name": "U Trati",
+  "normalized": "u trati",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143815,
+   "lng": 14.083186
+  },
+  "bbox": [
+   50.143815,
+   14.083186,
+   50.143815,
+   14.083186
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "211931",
+  "name": "U tržnice",
+  "normalized": "u trznice",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133454,
+   "lng": 14.123425
+  },
+  "bbox": [
+   50.13319,
+   14.12254,
+   50.133791,
+   14.124534
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "211940",
+  "name": "U vodojemu",
+  "normalized": "u vodojemu",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.139284,
+   "lng": 14.084016
+  },
+  "bbox": [
+   50.138179,
+   14.083314,
+   50.140531,
+   14.084438
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "211958",
+  "name": "U výtopny",
+  "normalized": "u vytopny",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13465,
+   "lng": 14.122716
+  },
+  "bbox": [
+   50.134307,
+   14.121411,
+   50.134941,
+   14.124126
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "211966",
+  "name": "U zastávky",
+  "normalized": "u zastavky",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.140696,
+   "lng": 14.08493
+  },
+  "bbox": [
+   50.140663,
+   14.084872,
+   50.140729,
+   14.084988
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "211974",
+  "name": "U zbrojnice",
+  "normalized": "u zbrojnice",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.168406,
+   "lng": 14.163636
+  },
+  "bbox": [
+   50.168317,
+   14.162536,
+   50.168586,
+   14.164508
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "1943740",
+  "name": "U Zippeho kolonie",
+  "normalized": "u zippeho kolonie",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142057,
+   "lng": 14.082734
+  },
+  "bbox": [
+   50.141969,
+   14.082555,
+   50.142129,
+   14.082925
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "212580",
+  "name": "Uhelná",
+  "normalized": "uhelna",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.17554,
+   "lng": 14.109087
+  },
+  "bbox": [
+   50.175028,
+   14.107765,
+   50.176114,
+   14.110811
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "212008",
+  "name": "Újezdská",
+  "normalized": "ujezdska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.160684,
+   "lng": 14.114454
+  },
+  "bbox": [
+   50.160622,
+   14.114219,
+   50.16072,
+   14.114743
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "211982",
+  "name": "Ukrajinská",
+  "normalized": "ukrajinska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131454,
+   "lng": 14.128909
+  },
+  "bbox": [
+   50.128966,
+   14.127965,
+   50.133705,
+   14.130335
+  ],
+  "addressCount": 19
+ },
+ {
+  "id": "211991",
+  "name": "Unhošťská",
+  "normalized": "unhostska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.136662,
+   "lng": 14.122991
+  },
+  "bbox": [
+   50.11986,
+   14.116798,
+   50.14237,
+   14.127709
+  ],
+  "addressCount": 77
+ },
+ {
+  "id": "212024",
+  "name": "Ústecká",
+  "normalized": "ustecka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135107,
+   "lng": 14.100926
+  },
+  "bbox": [
+   50.134446,
+   14.099859,
+   50.135705,
+   14.101879
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "212032",
+  "name": "Úzká",
+  "normalized": "uzka",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.144361,
+   "lng": 14.116067
+  },
+  "bbox": [
+   50.144215,
+   14.115605,
+   50.144582,
+   14.116433
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "212041",
+  "name": "V Bažantnici",
+  "normalized": "v bazantnici",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.130937,
+   "lng": 14.135831
+  },
+  "bbox": [
+   50.130618,
+   14.134577,
+   50.131265,
+   14.137296
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "2015820",
+  "name": "V Blatech",
+  "normalized": "v blatech",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.163571,
+   "lng": 14.105367
+  },
+  "bbox": [
+   50.163422,
+   14.105216,
+   50.163843,
+   14.105517
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "212059",
+  "name": "V Kožovech",
+  "normalized": "v kozovech",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.122383,
+   "lng": 14.107108
+  },
+  "bbox": [
+   50.121633,
+   14.106813,
+   50.123133,
+   14.107403
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "212067",
+  "name": "V zahrádkách",
+  "normalized": "v zahradkach",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.168639,
+   "lng": 14.167666
+  },
+  "bbox": [
+   50.168402,
+   14.167235,
+   50.168969,
+   14.168058
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "212075",
+  "name": "V. Burgra",
+  "normalized": "v. burgra",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146145,
+   "lng": 14.093608
+  },
+  "bbox": [
+   50.145875,
+   14.09139,
+   50.146442,
+   14.096302
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "212083",
+  "name": "V. Doubnera",
+  "normalized": "v. doubnera",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159918,
+   "lng": 14.136746
+  },
+  "bbox": [
+   50.15968,
+   14.136476,
+   50.160034,
+   14.137044
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "212091",
+  "name": "V. Kratochvíla",
+  "normalized": "v. kratochvila",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150901,
+   "lng": 14.092992
+  },
+  "bbox": [
+   50.150566,
+   14.088397,
+   50.152301,
+   14.099192
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "212113",
+  "name": "V. Macáka",
+  "normalized": "v. macaka",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.159214,
+   "lng": 14.140171
+  },
+  "bbox": [
+   50.158973,
+   14.139862,
+   50.159455,
+   14.14052
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "212121",
+  "name": "V. Maršnera",
+  "normalized": "v. marsnera",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148333,
+   "lng": 14.140293
+  },
+  "bbox": [
+   50.14807,
+   14.140063,
+   50.148558,
+   14.140507
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "212130",
+  "name": "V. Paiskra",
+  "normalized": "v. paiskra",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142957,
+   "lng": 14.125442
+  },
+  "bbox": [
+   50.14251,
+   14.123758,
+   50.143652,
+   14.127312
+  ],
+  "addressCount": 32
+ },
+ {
+  "id": "212148",
+  "name": "V. Sembdnera",
+  "normalized": "v. sembdnera",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.160214,
+   "lng": 14.13746
+  },
+  "bbox": [
+   50.159982,
+   14.137053,
+   50.160454,
+   14.137915
+  ],
+  "addressCount": 8
+ },
+ {
+  "id": "212164",
+  "name": "V. Špály",
+  "normalized": "v. spaly",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.158141,
+   "lng": 14.134419
+  },
+  "bbox": [
+   50.157829,
+   14.13387,
+   50.15861,
+   14.134796
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "212172",
+  "name": "V. Zítka",
+  "normalized": "v. zitka",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.138707,
+   "lng": 14.060953
+  },
+  "bbox": [
+   50.137116,
+   14.059903,
+   50.140316,
+   14.061924
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "212237",
+  "name": "Václava Beránka",
+  "normalized": "vaclava beranka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168435,
+   "lng": 14.104712
+  },
+  "bbox": [
+   50.168009,
+   14.102611,
+   50.168915,
+   14.107034
+  ],
+  "addressCount": 23
+ },
+ {
+  "id": "1810898",
+  "name": "Václava Černého",
+  "normalized": "vaclava cerneho",
+  "districts": [
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.164808,
+   "lng": 14.170291
+  },
+  "bbox": [
+   50.164719,
+   14.170009,
+   50.1649,
+   14.170562
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "212245",
+  "name": "Václava Milera",
+  "normalized": "vaclava milera",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.137586,
+   "lng": 14.067509
+  },
+  "bbox": [
+   50.13644,
+   14.066938,
+   50.13851,
+   14.068118
+  ],
+  "addressCount": 34
+ },
+ {
+  "id": "2305968",
+  "name": "Václava Pázdrala",
+  "normalized": "vaclava pazdrala",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.142507,
+   "lng": 14.082435
+  },
+  "bbox": [
+   50.142416,
+   14.082371,
+   50.142599,
+   14.082498
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "212253",
+  "name": "Václava Rabase",
+  "normalized": "vaclava rabase",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143545,
+   "lng": 14.102092
+  },
+  "bbox": [
+   50.142323,
+   14.099405,
+   50.144896,
+   14.104109
+  ],
+  "addressCount": 20
+ },
+ {
+  "id": "212261",
+  "name": "Václava Řacha",
+  "normalized": "vaclava racha",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171598,
+   "lng": 14.11001
+  },
+  "bbox": [
+   50.171212,
+   14.10889,
+   50.171987,
+   14.111951
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "212270",
+  "name": "Václavova",
+  "normalized": "vaclavova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.138745,
+   "lng": 14.095403
+  },
+  "bbox": [
+   50.1386,
+   14.095147,
+   50.138916,
+   14.095738
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "837083",
+  "name": "Václavské náměstí",
+  "normalized": "vaclavske namesti",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.132393,
+   "lng": 14.119663
+  },
+  "bbox": [
+   50.132393,
+   14.119663,
+   50.132393,
+   14.119663
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "212181",
+  "name": "Vančurova",
+  "normalized": "vancurova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141641,
+   "lng": 14.090005
+  },
+  "bbox": [
+   50.140435,
+   14.088319,
+   50.142989,
+   14.091489
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "212199",
+  "name": "Vaníčkova",
+  "normalized": "vanickova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13378,
+   "lng": 14.103885
+  },
+  "bbox": [
+   50.13315,
+   14.102104,
+   50.134737,
+   14.105659
+  ],
+  "addressCount": 24
+ },
+ {
+  "id": "212288",
+  "name": "Váňova",
+  "normalized": "vanova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.144839,
+   "lng": 14.1003
+  },
+  "bbox": [
+   50.1437,
+   14.098181,
+   50.145947,
+   14.10165
+  ],
+  "addressCount": 17
+ },
+ {
+  "id": "212202",
+  "name": "Varšavská",
+  "normalized": "varsavska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13483,
+   "lng": 14.126793
+  },
+  "bbox": [
+   50.134337,
+   14.125402,
+   50.13516,
+   14.127848
+  ],
+  "addressCount": 16
+ },
+ {
+  "id": "212211",
+  "name": "Vašatova",
+  "normalized": "vasatova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.14463,
+   "lng": 14.09694
+  },
+  "bbox": [
+   50.144142,
+   14.095462,
+   50.145295,
+   14.098318
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "212229",
+  "name": "Vašíčkova",
+  "normalized": "vasickova",
+  "districts": [
+   "Kladno",
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.144797,
+   "lng": 14.069401
+  },
+  "bbox": [
+   50.141334,
+   14.067464,
+   50.151187,
+   14.071829
+  ],
+  "addressCount": 62
+ },
+ {
+  "id": "660213",
+  "name": "Ve Strnadovně",
+  "normalized": "ve strnadovne",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.138434,
+   "lng": 14.059478
+  },
+  "bbox": [
+   50.136897,
+   14.058297,
+   50.140327,
+   14.061099
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "212296",
+  "name": "Veleslavínova",
+  "normalized": "veleslavinova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138234,
+   "lng": 14.120352
+  },
+  "bbox": [
+   50.137496,
+   14.118619,
+   50.139,
+   14.121881
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "212628",
+  "name": "Velvarská",
+  "normalized": "velvarska",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.170404,
+   "lng": 14.113083
+  },
+  "bbox": [
+   50.168557,
+   14.107724,
+   50.172158,
+   14.118855
+  ],
+  "addressCount": 51
+ },
+ {
+  "id": "212318",
+  "name": "Věry Pechové",
+  "normalized": "very pechove",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171367,
+   "lng": 14.110038
+  },
+  "bbox": [
+   50.171143,
+   14.110016,
+   50.171515,
+   14.110077
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "212334",
+  "name": "Vinařická",
+  "normalized": "vinaricka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.169868,
+   "lng": 14.103689
+  },
+  "bbox": [
+   50.169102,
+   14.100793,
+   50.171524,
+   14.10698
+  ],
+  "addressCount": 35
+ },
+ {
+  "id": "212342",
+  "name": "Vinšova",
+  "normalized": "vinsova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.142249,
+   "lng": 14.113077
+  },
+  "bbox": [
+   50.141473,
+   14.11227,
+   50.142812,
+   14.113868
+  ],
+  "addressCount": 18
+ },
+ {
+  "id": "2725207",
+  "name": "Višňovka",
+  "normalized": "visnovka",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.172776,
+   "lng": 14.120582
+  },
+  "bbox": [
+   50.172369,
+   14.119205,
+   50.173095,
+   14.122183
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "212369",
+  "name": "Vít. Nezvala",
+  "normalized": "vit. nezvala",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.145975,
+   "lng": 14.07145
+  },
+  "bbox": [
+   50.145675,
+   14.070179,
+   50.14635,
+   14.072767
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "212377",
+  "name": "Víta Nejedlého",
+  "normalized": "vita nejedleho",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.143123,
+   "lng": 14.104517
+  },
+  "bbox": [
+   50.142764,
+   14.103824,
+   50.143531,
+   14.105568
+  ],
+  "addressCount": 12
+ },
+ {
+  "id": "212385",
+  "name": "Vítězná",
+  "normalized": "vitezna",
+  "districts": [
+   "Kladno",
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.140616,
+   "lng": 14.073711
+  },
+  "bbox": [
+   50.140082,
+   14.065925,
+   50.141199,
+   14.084482
+  ],
+  "addressCount": 53
+ },
+ {
+  "id": "212351",
+  "name": "Vitry",
+  "normalized": "vitry",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.13473,
+   "lng": 14.130045
+  },
+  "bbox": [
+   50.131992,
+   14.12904,
+   50.135792,
+   14.130926
+  ],
+  "addressCount": 21
+ },
+ {
+  "id": "803782",
+  "name": "Vladimíra Boudníka",
+  "normalized": "vladimira boudnika",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.145242,
+   "lng": 14.064337
+  },
+  "bbox": [
+   50.144923,
+   14.063671,
+   50.14561,
+   14.065015
+  ],
+  "addressCount": 7
+ },
+ {
+  "id": "212393",
+  "name": "Vodárenská",
+  "normalized": "vodarenska",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.134162,
+   "lng": 14.117667
+  },
+  "bbox": [
+   50.13227,
+   14.112375,
+   50.135996,
+   14.124146
+  ],
+  "addressCount": 58
+ },
+ {
+  "id": "212407",
+  "name": "Vojanova",
+  "normalized": "vojanova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131524,
+   "lng": 14.107857
+  },
+  "bbox": [
+   50.130276,
+   14.104996,
+   50.138365,
+   14.120138
+  ],
+  "addressCount": 33
+ },
+ {
+  "id": "212644",
+  "name": "Vojtěcha Dundra",
+  "normalized": "vojtecha dundra",
+  "districts": [
+   "Dubí",
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165794,
+   "lng": 14.115811
+  },
+  "bbox": [
+   50.163479,
+   14.111883,
+   50.168015,
+   14.120507
+  ],
+  "addressCount": 27
+ },
+ {
+  "id": "660191",
+  "name": "Vojtěcha Lanny",
+  "normalized": "vojtecha lanny",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.15063,
+   "lng": 14.097053
+  },
+  "bbox": [
+   50.15015,
+   14.095863,
+   50.151055,
+   14.098213
+  ],
+  "addressCount": 26
+ },
+ {
+  "id": "212415",
+  "name": "Vojtěšská",
+  "normalized": "vojtesska",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.148496,
+   "lng": 14.132147
+  },
+  "bbox": [
+   50.148458,
+   14.131985,
+   50.148567,
+   14.132232
+  ],
+  "addressCount": 3
+ },
+ {
+  "id": "212652",
+  "name": "Vrapická",
+  "normalized": "vrapicka",
+  "districts": [
+   "Dubí",
+   "Vrapice"
+  ],
+  "center": {
+   "lat": 50.162218,
+   "lng": 14.145813
+  },
+  "bbox": [
+   50.158003,
+   14.132209,
+   50.168148,
+   14.168966
+  ],
+  "addressCount": 95
+ },
+ {
+  "id": "212423",
+  "name": "Vrchlického",
+  "normalized": "vrchlickeho",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.135454,
+   "lng": 14.1199
+  },
+  "bbox": [
+   50.131311,
+   14.116626,
+   50.139274,
+   14.123326
+  ],
+  "addressCount": 63
+ },
+ {
+  "id": "212431",
+  "name": "Vyšehrad",
+  "normalized": "vysehrad",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.168942,
+   "lng": 14.101516
+  },
+  "bbox": [
+   50.168334,
+   14.099873,
+   50.169671,
+   14.10265
+  ],
+  "addressCount": 30
+ },
+ {
+  "id": "1889320",
+  "name": "Wabiho Ryvoly",
+  "normalized": "wabiho ryvoly",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.171059,
+   "lng": 14.112663
+  },
+  "bbox": [
+   50.170851,
+   14.111737,
+   50.171235,
+   14.11354
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "212440",
+  "name": "Wednesbury",
+  "normalized": "wednesbury",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.133112,
+   "lng": 14.127491
+  },
+  "bbox": [
+   50.13286,
+   14.126345,
+   50.133568,
+   14.128999
+  ],
+  "addressCount": 14
+ },
+ {
+  "id": "212458",
+  "name": "Wolkerova",
+  "normalized": "wolkerova",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131792,
+   "lng": 14.107268
+  },
+  "bbox": [
+   50.126794,
+   14.104995,
+   50.141867,
+   14.124851
+  ],
+  "addressCount": 35
+ },
+ {
+  "id": "212466",
+  "name": "Za nádražím",
+  "normalized": "za nadrazim",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.122824,
+   "lng": 14.11698
+  },
+  "bbox": [
+   50.122824,
+   14.11698,
+   50.122824,
+   14.11698
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "1985396",
+  "name": "Za Parkem",
+  "normalized": "za parkem",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.167463,
+   "lng": 14.104529
+  },
+  "bbox": [
+   50.167358,
+   14.104104,
+   50.167564,
+   14.104894
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "212474",
+  "name": "Za Školou",
+  "normalized": "za skolou",
+  "districts": [
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.165943,
+   "lng": 14.095032
+  },
+  "bbox": [
+   50.165943,
+   14.095032,
+   50.165943,
+   14.095032
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "212661",
+  "name": "Zádušní",
+  "normalized": "zadusni",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.146596,
+   "lng": 14.098578
+  },
+  "bbox": [
+   50.145846,
+   14.096916,
+   50.148247,
+   14.101971
+  ],
+  "addressCount": 13
+ },
+ {
+  "id": "212482",
+  "name": "Zahradní",
+  "normalized": "zahradni",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.144227,
+   "lng": 14.114949
+  },
+  "bbox": [
+   50.143947,
+   14.114435,
+   50.144753,
+   14.115546
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "212491",
+  "name": "Závišova",
+  "normalized": "zavisova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.148246,
+   "lng": 14.08762
+  },
+  "bbox": [
+   50.147766,
+   14.085096,
+   50.148734,
+   14.089651
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "212504",
+  "name": "Zbyslavova",
+  "normalized": "zbyslavova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.13805,
+   "lng": 14.095672
+  },
+  "bbox": [
+   50.137942,
+   14.095117,
+   50.138182,
+   14.095957
+  ],
+  "addressCount": 5
+ },
+ {
+  "id": "212512",
+  "name": "Zd. Hanuše",
+  "normalized": "zd. hanuse",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.157869,
+   "lng": 14.137263
+  },
+  "bbox": [
+   50.157372,
+   14.136615,
+   50.158297,
+   14.137793
+  ],
+  "addressCount": 15
+ },
+ {
+  "id": "212521",
+  "name": "Zd. Petříka",
+  "normalized": "zd. petrika",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.141993,
+   "lng": 14.092887
+  },
+  "bbox": [
+   50.141132,
+   14.090896,
+   50.142698,
+   14.094836
+  ],
+  "addressCount": 25
+ },
+ {
+  "id": "212547",
+  "name": "Zeyerova",
+  "normalized": "zeyerova",
+  "districts": [
+   "Rozdělov"
+  ],
+  "center": {
+   "lat": 50.136802,
+   "lng": 14.068556
+  },
+  "bbox": [
+   50.136698,
+   14.068209,
+   50.136905,
+   14.068833
+  ],
+  "addressCount": 6
+ },
+ {
+  "id": "212563",
+  "name": "Železárenská",
+  "normalized": "zelezarenska",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.150935,
+   "lng": 14.107283
+  },
+  "bbox": [
+   50.150545,
+   14.105516,
+   50.151628,
+   14.110316
+  ],
+  "addressCount": 9
+ },
+ {
+  "id": "212598",
+  "name": "Železná",
+  "normalized": "zelezna",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.138667,
+   "lng": 14.118282
+  },
+  "bbox": [
+   50.138307,
+   14.117867,
+   50.139037,
+   14.1186
+  ],
+  "addressCount": 10
+ },
+ {
+  "id": "212601",
+  "name": "Železničářů",
+  "normalized": "zeleznicaru",
+  "districts": [
+   "Kročehlavy"
+  ],
+  "center": {
+   "lat": 50.131453,
+   "lng": 14.104405
+  },
+  "bbox": [
+   50.1293,
+   14.100255,
+   50.134058,
+   14.110563
+  ],
+  "addressCount": 47
+ },
+ {
+  "id": "212610",
+  "name": "Žerotínova",
+  "normalized": "zerotinova",
+  "districts": [
+   "Kladno"
+  ],
+  "center": {
+   "lat": 50.1379,
+   "lng": 14.087818
+  },
+  "bbox": [
+   50.137807,
+   14.087804,
+   50.137992,
+   14.087831
+  ],
+  "addressCount": 2
+ },
+ {
+  "id": "753505",
+  "name": "Žitná",
+  "normalized": "zitna",
+  "districts": [
+   "Dubí"
+  ],
+  "center": {
+   "lat": 50.16337,
+   "lng": 14.115004
+  },
+  "bbox": [
+   50.16337,
+   14.115004,
+   50.16337,
+   14.115004
+  ],
+  "addressCount": 1
+ },
+ {
+  "id": "212636",
+  "name": "Žižkova",
+  "normalized": "zizkova",
+  "districts": [
+   "Kladno",
+   "Švermov"
+  ],
+  "center": {
+   "lat": 50.157672,
+   "lng": 14.10327
+  },
+  "bbox": [
+   50.144848,
+   14.100139,
+   50.16909,
+   14.106861
+  ],
+  "addressCount": 26
+ }
+]

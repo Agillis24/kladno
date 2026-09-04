@@ -1,0 +1,3339 @@
+{
+    "@context": "https://ofn.gov.cz/úřední-desky/2021-07-20/kontexty/úřední-deska.jsonld",
+    "typ": "Úřední deska",
+    "iri": "https://www.mestokladno.cz/zdroj/úřední-deska",
+    "stránka": "https://www.mestokladno.cz/uredni-deska/",
+    "provozovatel": {
+        "typ": "Osoba",
+        "ičo": "00234516"
+    },
+    "informace": [
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-rakovnik-usneseni-o-elektronicke-drazbe-nemovitych-veci-na-den-7-10-2026/d-1513126",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-rakovnik-usneseni-o-elektronicke-drazbe-nemovitych-veci-na-den-7-10-2026/d-1513126",
+            "název": {
+                "cs": "Exekutorský úřad Rakovník - Usnesení o elektronické dražbě nemovitých věcí na den 7.10.2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-10-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Rakovník - Usnesení o elektronické dražbě nemovitých věcí na den 7.10.2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513127"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-rekonstrukce-komunikace-a-chodniku-vii-ulice-vinarice/d-1513124",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-rekonstrukce-komunikace-a-chodniku-vii-ulice-vinarice/d-1513124",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - Rekonstrukce komunikace a chodníků VII. ulice, Vinařice"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "číslo_jednací": "R/2026/180495/3",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "R_2026_180495.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513125"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/hledame-novou-kolegyni-nebo-kolegu-na-pozici-referent-referentka-zivnostenskeho-uradu-v-oddeleni-registrace-zivnosti-odboru-zivnostenskeho-magistratu-mesta-kladna/d-1513122",
+            "iri": "https://www.mestokladno.cz/hledame-novou-kolegyni-nebo-kolegu-na-pozici-referent-referentka-zivnostenskeho-uradu-v-oddeleni-registrace-zivnosti-odboru-zivnostenskeho-magistratu-mesta-kladna/d-1513122",
+            "název": {
+                "cs": "Hledáme novou kolegyni, nebo kolegu na pozici referent/referentka živnostenského úřadu v oddělení registrace živností Odboru živnostenského Magistrátu města Kladna"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "VŘ - OŽ registrace živností"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513123"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kladno-stanoveni-dny-mesta-kladna/d-1513102",
+            "iri": "https://www.mestokladno.cz/kladno-stanoveni-dny-mesta-kladna/d-1513102",
+            "název": {
+                "cs": "Kladno - stanovení - Dny města Kladna"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Kladno-stanovení_MMK_Kultura města Kladna s.r.o._Dny města Kladna 2026_uzavírka ul. Sportovců, ul. Fr.Kloze, ul. Strouhalova"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513104"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "KL_DIO_Dny města Kladna_MEDIA_2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513103"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/zahajeni-zjistovaciho-rizeni-ke-koncepcim-plan-dilciho-povodi-berounky-2027-2033-plan-dilciho-povodi-horni-vltavy-2027-2033-plan-dilciho-povodi-dolni-vltavy-2027-2033-a-plan-dilciho-povodi-ostatnich-pritoku-dunaje-2027-2033/d-1513100",
+            "iri": "https://www.mestokladno.cz/zahajeni-zjistovaciho-rizeni-ke-koncepcim-plan-dilciho-povodi-berounky-2027-2033-plan-dilciho-povodi-horni-vltavy-2027-2033-plan-dilciho-povodi-dolni-vltavy-2027-2033-a-plan-dilciho-povodi-ostatnich-pritoku-dunaje-2027-2033/d-1513100",
+            "název": {
+                "cs": "Zahájení zjišťovacího řízení ke koncepcím „Plán dílčího povodí Berounky 2027–2033“, „Plán dílčího povodí Horní Vltavy 2027–2033“, „Plán dílčího povodí Dolní Vltavy 2027–2033“a „Plán dílčího povodí ostatních přítoků Dunaje 2027–2033“"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-25"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Informace o oznámení PDP Povodí Vltavy.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513101"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/rozhodnuti-kanalizacni-rad-stokove-site-mesta-kladna-mistni-casti-svermov/d-1513098",
+            "iri": "https://www.mestokladno.cz/rozhodnuti-kanalizacni-rad-stokove-site-mesta-kladna-mistni-casti-svermov/d-1513098",
+            "název": {
+                "cs": "ROZHODNUTÍ - Kanalizační řád stokové sítě města Kladna, místní části Švermov"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "číslo_jednací": "SMKL/096060/2025/OZP/3",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2025-96060.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513099"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kladno-ii-238-oop-docasny-zakaz-zastaveni-a-stanoveni/d-1513094",
+            "iri": "https://www.mestokladno.cz/kladno-ii-238-oop-docasny-zakaz-zastaveni-a-stanoveni/d-1513094",
+            "název": {
+                "cs": "Kladno - II/238 - OOP - dočasný zákaz zastavení a stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-02"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-18"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Kladno-238-DZZ-stanoveni-OOP-propad"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513096"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Kladno-havárie silničního tělesa silnice II-238.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513095"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-chodnik-pod-zamkem-na-pozemci-ch-parc-c-4809-6-4945-4946-4950-5-4950-14-4950-15-v-katastra-lni-m-u-zemi-kladno/d-1513075",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-chodnik-pod-zamkem-na-pozemci-ch-parc-c-4809-6-4945-4946-4950-5-4950-14-4950-15-v-katastra-lni-m-u-zemi-kladno/d-1513075",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - Chodník Pod Zámkem  na pozemcích parc. č. 4809/6, 4945, 4946, 4950/5, 4950/14, 4950/15 v katastrálním území Kladno"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-02"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-18"
+            },
+            "číslo_jednací": "R/2026/181485/2",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "181485 - JES - ODP.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513076"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/lany-ii-236h-stanoveni/d-1513072",
+            "iri": "https://www.mestokladno.cz/lany-ii-236h-stanoveni/d-1513072",
+            "název": {
+                "cs": "Lány - II/236H - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-01"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-17"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Lány-stanoveni-Kulinarsky_jarmark-26"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513074"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Lany-DIO-KJ26.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513073"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/registrace-volebnich-stran-volby-2026/d-1513044",
+            "iri": "https://www.mestokladno.cz/registrace-volebnich-stran-volby-2026/d-1513044",
+            "název": {
+                "cs": "Registrace volebních stran VOLBY 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-21"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Adéla do Senátu.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513045"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "ANO 2011.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513046"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Naše Česko.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513047"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Občanská demokratická strana.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513048"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "PŘÍSAHA občanské hnutí.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513049"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Svoboda a přímá demokracie (SPD).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513050"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/14-schuze-rm-24-8-2026/d-1513022",
+            "iri": "https://www.mestokladno.cz/14-schuze-rm-24-8-2026/d-1513022",
+            "název": {
+                "cs": "14. schůze RM - 24. 8. 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-16"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Zpráva 14. RM - 24. 8. 2026"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513041"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/mestska-cast-praha-6-verejna-vyhlaska-pisemnost-urcena-do-vlastnich-rukou-k-vyzvednuti-karel-panek/d-1513038",
+            "iri": "https://www.mestokladno.cz/mestska-cast-praha-6-verejna-vyhlaska-pisemnost-urcena-do-vlastnich-rukou-k-vyzvednuti-karel-panek/d-1513038",
+            "název": {
+                "cs": "Městská část Praha 6 - Veřejná vyhláška - písemnost určená do vlastních rukou - k vyzvednutí - Karel Pánek"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-01"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-17"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Městská část Praha 6 - Veřejná vyhláška - písemnost určená do vlastních rukou - k vyzvednutí - Karel Pánek.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513039"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/orp-stanoveni-oprava-i-61/d-1513033",
+            "iri": "https://www.mestokladno.cz/orp-stanoveni-oprava-i-61/d-1513033",
+            "název": {
+                "cs": "ORP - stanovení - oprava I/61"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-16"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "61-sil_MK-stanoveni-PUPPK-OOP-oprava_MaVP"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513035"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "DIO - uzavírka I_61 Malé a Velké Přítočno - oprava povrchu silnice I_61-akt.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513034"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kladno-nam-svobody-stanoveni/d-1513030",
+            "iri": "https://www.mestokladno.cz/kladno-nam-svobody-stanoveni/d-1513030",
+            "název": {
+                "cs": "Kladno - nám. Svobody - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-16"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Kladno-stanovení_MMK_Odbor investic_Gardenline_revitalizace nám. Svobody_dokončení stavby a zprovoznění AZ"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513032"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "KL_DIO_MMK_Odbor investic_Gardenline_revitalizace nám. Svobody_dokončení stavby a zprovoznění AZ.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513031"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/lany-uk-stanoveni/d-1513027",
+            "iri": "https://www.mestokladno.cz/lany-uk-stanoveni/d-1513027",
+            "název": {
+                "cs": "Lány - ÚK - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-16"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Lany-UK-stanoveni-PUPPK-OOP-oprava"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513029"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Lany-VPUK-DIO.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513028"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kladno-mk-ul-zeleznicaru-stanoveni/d-1513018",
+            "iri": "https://www.mestokladno.cz/kladno-mk-ul-zeleznicaru-stanoveni/d-1513018",
+            "název": {
+                "cs": "Kladno - MK ul. Železničářů - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-16"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Kladno-stanovení_Uniservis Hašek_nové kabelové vedení kNN_ul. Železničářů"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513020"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "KL_DIO_Uniservis Hašek_nové kabelové vedení kNN_ul. Železničářů II-118.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513019"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-127033-2026-ov-6-dv-vy-st-127033-2026-330-dv-zamer-z-2026-77620-rizeni-r-2026-130070/d-1513016",
+            "iri": "https://www.mestokladno.cz/smkl-127033-2026-ov-6-dv-vy-st-127033-2026-330-dv-zamer-z-2026-77620-rizeni-r-2026-130070/d-1513016",
+            "název": {
+                "cs": "SMKL/127033/2026/OV/6/Dv Výst./127033/2026/330/Dv Záměr: Z/2026/77620 Řízení: R/2026/130070"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-16"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-127033"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513017"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/ii-116-stanoveni/d-1513013",
+            "iri": "https://www.mestokladno.cz/ii-116-stanoveni/d-1513013",
+            "název": {
+                "cs": "II/116 - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-28"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "116-stanoveni-PUPPK-OOP- uzavirka-STRA-26"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513015"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "116-DIO.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513014"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-003409-2026-osc-4-dv-vy-st-3409-2026-330-dv-zamer-z-2025-211456-rizeni-r-2026-3382/d-1513009",
+            "iri": "https://www.mestokladno.cz/smkl-003409-2026-osc-4-dv-vy-st-3409-2026-330-dv-zamer-z-2025-211456-rizeni-r-2026-3382/d-1513009",
+            "název": {
+                "cs": "SMKL/003409/2026/OSC/4/Dv Výst./3409/2026/330/Dv Záměr: Z/2025/211456 Řízení: R/2026/3382"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-28"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-3409"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513010"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/lany-iii-23623-stanoveni/d-1513005",
+            "iri": "https://www.mestokladno.cz/lany-iii-23623-stanoveni/d-1513005",
+            "název": {
+                "cs": "Lány - III/23623 - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Lány-stanoveni-Dozinky-26"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513007"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Lany-Dozinky-2026-DIO.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513006"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-162608-2026-ov-2-mi-vy-st-162608-2026-330-mi-zamer-z-2026-68982-rizeni-r-2026-163825/d-1513003",
+            "iri": "https://www.mestokladno.cz/smkl-162608-2026-ov-2-mi-vy-st-162608-2026-330-mi-zamer-z-2026-68982-rizeni-r-2026-163825/d-1513003",
+            "název": {
+                "cs": "SMKL/162608/2026/OV/2/Mi Výst./162608/2026/330/Mi Záměr: Z/2026/68982 Řízení: R/2026/163825"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-162608"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1513004"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zahajeni-rizeni-ve-veci-prodeje-silnicniho-vozidla-ve-verejne-drazbe/d-1512998",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zahajeni-rizeni-ve-veci-prodeje-silnicniho-vozidla-ve-verejne-drazbe/d-1512998",
+            "název": {
+                "cs": "Oznámení o zahájení řízení ve věci prodeje silničního vozidla ve veřejné dražbě"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "číslo_jednací": "SMKL/191141/2026/ODAS/2",
+            "spisová_značka": "SMKL/191141/2026/ODAS",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zahájení řízení ve věci prodeje silničního vozidla ve veřejné dražbě"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512999"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/okresni-soud-v-kladne-verejna-vyhlaska-vyzva-urceni-data-smrti-zemrele-h-viszmolkove/d-1512996",
+            "iri": "https://www.mestokladno.cz/okresni-soud-v-kladne-verejna-vyhlaska-vyzva-urceni-data-smrti-zemrele-h-viszmolkove/d-1512996",
+            "název": {
+                "cs": "Okresní soud v Kladně - Veřejná vyhláška - výzva - určení data smrti zemřelé H.Viszmolkové"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Okresní soud v Kladně - Veřejná vyhláška - výzva - určení data smrti zemřelé H.Viszmolkové.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512997"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-151057-2026-ov-2-ba-vy-st-151057-2026-330-ba-zamer-z-2025-198414-rizeni-r-2026-161924/d-1512994",
+            "iri": "https://www.mestokladno.cz/smkl-151057-2026-ov-2-ba-vy-st-151057-2026-330-ba-zamer-z-2025-198414-rizeni-r-2026-161924/d-1512994",
+            "název": {
+                "cs": "SMKL/151057/2026/OV/2/Ba Výst./151057/2026/330/Ba Záměr: Z/2025/198414 Řízení: R/2026/161924"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-151057"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512995"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/zakolany-stanoveni-prazska-50/d-1512991",
+            "iri": "https://www.mestokladno.cz/zakolany-stanoveni-prazska-50/d-1512991",
+            "název": {
+                "cs": "Zákolany - stanovení - Pražská 50"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-11"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Zakolany-P50-stanoveni-PUPPK-OOP-2026"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512993"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "P50-DIO-26.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512992"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-moznosti-seznamit-se-s-podklady-rozhodnuti-ude-leni-souhlasu-ke-geologicky-m-praci-m-na-pozemku-parc-c-1195-40-v-katastra-lni-m-u-zemi-unhos-t/d-1512989",
+            "iri": "https://www.mestokladno.cz/oznameni-o-moznosti-seznamit-se-s-podklady-rozhodnuti-ude-leni-souhlasu-ke-geologicky-m-praci-m-na-pozemku-parc-c-1195-40-v-katastra-lni-m-u-zemi-unhos-t/d-1512989",
+            "název": {
+                "cs": "OZNÁMENÍ O MOŽNOSTI SEZNÁMIT SE S PODKLADY ROZHODNUTÍ - udělení souhlasu ke geologickým pracím na pozemku parc. č. 1195/40 v katastrálním území Unhošť"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-11"
+            },
+            "číslo_jednací": "SMKL/197309/2025/OZP/8",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2025-197309.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512990"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-svr-mereni-3d-spol-s-r-o-28-rijna-1503-kladno/d-1512987",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-svr-mereni-3d-spol-s-r-o-28-rijna-1503-kladno/d-1512987",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - SVR Měření 3D spol.s.r.o., 28. října 1503, Kladno"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-11"
+            },
+            "číslo_jednací": "R/2026/189300/2",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "189300 - JES - PAK (kácení).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512988"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-nova-dcov-pro-objekt-s-c-p-167-p-c-507k-u-kacice/d-1512985",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-nova-dcov-pro-objekt-s-c-p-167-p-c-507k-u-kacice/d-1512985",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - Nová DČOV pro objekt s č.p.167,p.č. 507k.ú. Kačice"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-11"
+            },
+            "číslo_jednací": "SMKL/174457/2026/OVH/1",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "JES - Nová DČOV pro objektsč.p.167,p.č. 507k.ú. Kačice.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512986"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-rodinne-domy-hrebec-vc-doprovodnych-staveb-etapa2/d-1512983",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-rodinne-domy-hrebec-vc-doprovodnych-staveb-etapa2/d-1512983",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - Rodinné domy Hřebeč,vč.doprovodných staveb–ETAPA2"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-11"
+            },
+            "číslo_jednací": "SMKL/161955/2026/OVH/2",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "JES - Rodinné domy Hřebeč,vč.doprovodných staveb–ETAPA2.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512984"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-105965-2026-ov-6-mv-vy-st-105965-2026-mv-zamer-z-2026-49969-rizeni-r-2026-114188/d-1512978",
+            "iri": "https://www.mestokladno.cz/smkl-105965-2026-ov-6-mv-vy-st-105965-2026-mv-zamer-z-2026-49969-rizeni-r-2026-114188/d-1512978",
+            "název": {
+                "cs": "SMKL/105965/2026/OV/6/MV Výst./105965/2026/MV Záměr: Z/2026/49969 Řízení: R/2026/114188"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-11"
+            }
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-verejnou-vyhlaskou-vydani-zmeny-c-4-uzemniho-planu-druzec-zverejneni-uplneho-zneni-uzemniho-planu-druzec/d-1512976",
+            "iri": "https://www.mestokladno.cz/oznameni-verejnou-vyhlaskou-vydani-zmeny-c-4-uzemniho-planu-druzec-zverejneni-uplneho-zneni-uzemniho-planu-druzec/d-1512976",
+            "název": {
+                "cs": "Oznámení veřejnou vyhláškou. Vydání změny č. 4 Územního plánu Družec. Zveřejnění úplného znění Územního plánu Družec."
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-14"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Družec_oznameni_vv_oop"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512977"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-050905-2026-ov-6-s-me-vy-st-50905-2026-s-me-330-zamer-z-2025-208821-rizeni-r-2026-84327/d-1512974",
+            "iri": "https://www.mestokladno.cz/smkl-050905-2026-ov-6-s-me-vy-st-50905-2026-s-me-330-zamer-z-2025-208821-rizeni-r-2026-84327/d-1512974",
+            "název": {
+                "cs": "SMKL/050905/2026/OV/6/Šme Výst./50905/2026/Šme/330 Záměr: Z/2025/208821 Řízení: R/2026/84327"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-25"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-10"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-50905"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512975"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-vedeni-opticke-site-kladno-na-sestem-na-pozemcich-parc-c-793-8-805-1-862-2-875-1-876-891-1-892-909-2-948-970-1-994-1-995-1022-1066-1-v-katastralnim-uzemi-dubi-u-kladna/d-1512972",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-vedeni-opticke-site-kladno-na-sestem-na-pozemcich-parc-c-793-8-805-1-862-2-875-1-876-891-1-892-909-2-948-970-1-994-1-995-1022-1066-1-v-katastralnim-uzemi-dubi-u-kladna/d-1512972",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - Vedení optické sítě– Kladno, Na šestém na pozemcích parc. č. 793/8, 805/1, 862/2, 875/1, 876, 891/1, 892, 909/2, 948, 970/1, 994/1, 995, 1022, 1066/1 v katastrálním území Dubí u Kladna"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-25"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-10"
+            },
+            "číslo_jednací": "R/2026/140262/3",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "140262 JES - les, vod.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512973"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/hostoun-iii-0075-stanoveni/d-1512969",
+            "iri": "https://www.mestokladno.cz/hostoun-iii-0075-stanoveni/d-1512969",
+            "název": {
+                "cs": "Hostouň - III/0075 - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Hostoun-0075-stanoveni-PUPPK-OOP-posviceni-26"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512971"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Hostoun-DIO-posviceni.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512970"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-173291-2026-ov-2-mv-vy-st-173291-2026-mv-zamer-z-2026-148514-rizeni-r-2026-186823/d-1512965",
+            "iri": "https://www.mestokladno.cz/smkl-173291-2026-ov-2-mv-vy-st-173291-2026-mv-zamer-z-2026-148514-rizeni-r-2026-186823/d-1512965",
+            "název": {
+                "cs": "SMKL/173291/2026/OV/2/MV Výst./173291/2026/MV Záměr: Z/2026/148514 Řízení: R/2026/186823"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-173291"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512966"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/urad-pro-zastupovani-statu-ve-vecech-majetkovych-aukcni-vyhlaska-c-eas-sbe-029-2026-pleteny-ujezd-prodej-nemovite-veci/d-1512961",
+            "iri": "https://www.mestokladno.cz/urad-pro-zastupovani-statu-ve-vecech-majetkovych-aukcni-vyhlaska-c-eas-sbe-029-2026-pleteny-ujezd-prodej-nemovite-veci/d-1512961",
+            "název": {
+                "cs": "Úřad pro zastupování státu ve věcech majetkových - Aukční vyhláška č. EAS/SBE/029/2026 - Pletený Újezd - prodej nemovité věci"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Úřad pro zastupování státu ve věcech majetkových - Aukční vyhláška č. EAS-SBE-029-2026 - Pletený Újezd - prodej nemovité věci.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512962"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-094050-2026-ov-8-mv-vy-st-94050-2026-mv-zamer-z-2026-82403-rizeni-r-2026-116570/d-1512958",
+            "iri": "https://www.mestokladno.cz/smkl-094050-2026-ov-8-mv-vy-st-94050-2026-mv-zamer-z-2026-82403-rizeni-r-2026-116570/d-1512958",
+            "název": {
+                "cs": "SMKL/094050/2026/OV/8/MV Výst./94050/2026/MV Záměr: Z/2026/82403 Řízení: R/2026/116570"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-94050"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512959"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-169061-2026-ov-5-mi-vy-st-169061-2026-330-mi-zamer-z-2026-80127-rizeni-r-2026-170553/d-1512956",
+            "iri": "https://www.mestokladno.cz/smkl-169061-2026-ov-5-mi-vy-st-169061-2026-330-mi-zamer-z-2026-80127-rizeni-r-2026-170553/d-1512956",
+            "název": {
+                "cs": "SMKL/169061/2026/OV/5/Mi Výst./169061/2026/330/Mi Záměr: Z/2026/80127 Řízení: R/2026/170553"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-63062"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512957"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-169061-2026-ov-5-mi-vy-st-169061-2026-330-mi-zamer-z-2026-80127-rizeni-r-2026-170553/d-1512929",
+            "iri": "https://www.mestokladno.cz/smkl-169061-2026-ov-5-mi-vy-st-169061-2026-330-mi-zamer-z-2026-80127-rizeni-r-2026-170553/d-1512929",
+            "název": {
+                "cs": "SMKL/169061/2026/OV/5/Mi Výst./169061/2026/330/Mi Záměr: Z/2026/80127 Řízení: R/2026/170553"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-169061"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512930"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-186282-2026-ov-dvvy-st-186282-2026-330-dv/d-1512927",
+            "iri": "https://www.mestokladno.cz/smkl-186282-2026-ov-dvvy-st-186282-2026-330-dv/d-1512927",
+            "název": {
+                "cs": "SMKL/186282/2026/OV/DvVýst./186282/2026/330/Dv"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-21"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-186282"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512928"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/tuchlovice-mk-ul-za-starou-postou-stanoveni/d-1512915",
+            "iri": "https://www.mestokladno.cz/tuchlovice-mk-ul-za-starou-postou-stanoveni/d-1512915",
+            "název": {
+                "cs": "Tuchlovice - MK ul. Za Starou poštou - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Tuchlovice-MK-ulZSP-stanoveni-PUPPK-OOP-26"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512917"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Tuchlovice-MK-ZaStaroupostou-DIO.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512916"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/iii-0067-pavlov-stanoveni/d-1512912",
+            "iri": "https://www.mestokladno.cz/iii-0067-pavlov-stanoveni/d-1512912",
+            "název": {
+                "cs": "III/0067 - Pavlov - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "0067-stanoveni-PUPPK-OOP-rekonstrukce"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512914"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "0067-DIO.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512913"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/mestska-cast-praha-6-verejna-vyhlaska-pisemnost-urcena-do-vlastnich-rukou-k-prevzeti-f-schneider/d-1512910",
+            "iri": "https://www.mestokladno.cz/mestska-cast-praha-6-verejna-vyhlaska-pisemnost-urcena-do-vlastnich-rukou-k-prevzeti-f-schneider/d-1512910",
+            "název": {
+                "cs": "Městská část Praha 6  -Veřejná vyhláška - písemnost určená do vlastních rukou - k převzetí F. Schneider"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-05"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Městská část Praha 6 - Veřejná vyhláška - písemnost určená do vlastních rukou - k převzetí F. Schneider.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512911"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/mestska-cast-praha-6-verejna-vyhlaska-pisemnost-urcena-do-vlastnich-rukou-k-prevzeti-d-klima/d-1512906",
+            "iri": "https://www.mestokladno.cz/mestska-cast-praha-6-verejna-vyhlaska-pisemnost-urcena-do-vlastnich-rukou-k-prevzeti-d-klima/d-1512906",
+            "název": {
+                "cs": "Městská část Praha 6 - Veřejná vyhláška - písemnost určená do vlastních rukou - k převzetí - D.Klíma"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-05"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Městská část Praha 6 - veřejná vyhláška - písemnost určená do vlastních rukou - k vyzvednutí - D. Klíma.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512907"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznamovatel-c-32-2026-prodej/d-1512898",
+            "iri": "https://www.mestokladno.cz/oznamovatel-c-32-2026-prodej/d-1512898",
+            "název": {
+                "cs": "Oznamovatel č. 32/2026 - prodej"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznamovatel č. 32-2026 prodej.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512899"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/verejna-vyhlaska-oznameni-o-konani-verejneho-projednani-navrhu-zmeny-c-3-uzemniho-planu-pleteny-ujezd/d-1512679",
+            "iri": "https://www.mestokladno.cz/verejna-vyhlaska-oznameni-o-konani-verejneho-projednani-navrhu-zmeny-c-3-uzemniho-planu-pleteny-ujezd/d-1512679",
+            "název": {
+                "cs": "Veřejná vyhláška. Oznámení o konání veřejného projednání návrhu změny č. 3 Územního plánu Pletený Újezd."
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-10-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "VV_Pletený Újezd"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512680"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-142559-2026-ov-2-ny-vy-st-142559-2026-330-ny-zamer-z-2026-87785-rizeni-r-2026-185920/d-1512896",
+            "iri": "https://www.mestokladno.cz/smkl-142559-2026-ov-2-ny-vy-st-142559-2026-330-ny-zamer-z-2026-87785-rizeni-r-2026-185920/d-1512896",
+            "název": {
+                "cs": "SMKL/142559/2026/OV/2/Ný Výst./142559/2026/330/Ný Záměr: Z/2026/87785 Řízení: R/2026/185920"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-04"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-142559"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512897"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kladno-jar-seiferta-a-mk-stanoveni/d-1512876",
+            "iri": "https://www.mestokladno.cz/kladno-jar-seiferta-a-mk-stanoveni/d-1512876",
+            "název": {
+                "cs": "Kladno - Jar. Seiferta a MK - stanovení"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-04"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Kladno-Motycin-23634a-stanoveni-PUPPK-OOP-ISaPK"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512878"
+                },
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "KL-J_Seiferta-DiO.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512877"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-178033-2026-ov-2-mv-vy-st-178033-2026-mv-zamer-z-2026-149241-rizeni-r-2026-183000/d-1512874",
+            "iri": "https://www.mestokladno.cz/smkl-178033-2026-ov-2-mv-vy-st-178033-2026-mv-zamer-z-2026-149241-rizeni-r-2026-183000/d-1512874",
+            "název": {
+                "cs": "SMKL/178033/2026/OV/2/MV Výst./178033/2026/MV Záměr: Z/2026/149241 Řízení: R/2026/183000"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-04"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-178033"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512875"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-hradec-kralove-drazebni-vyhlaska-elektronicka-drazba-na-den-21-10-2026/d-1512715",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-hradec-kralove-drazebni-vyhlaska-elektronicka-drazba-na-den-21-10-2026/d-1512715",
+            "název": {
+                "cs": "Exekutorský úřad Hradec Králové - dražebni vyhláška- elektronická dražba na den 21.10.2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-10-21"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Hradec Králové - dražebni vyhláška- elektronická dražba na den 21.10.2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512716"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kusk-usneseni-o-povereni-mu-slany-stavebni-urad-ve-veci-rizeni-povoleni-zameru-c-z-2026-25111-deleni-parcel-a-zasitovani-5-parcel-u-vyboru-k-u-svinarov/d-1512705",
+            "iri": "https://www.mestokladno.cz/kusk-usneseni-o-povereni-mu-slany-stavebni-urad-ve-veci-rizeni-povoleni-zameru-c-z-2026-25111-deleni-parcel-a-zasitovani-5-parcel-u-vyboru-k-u-svinarov/d-1512705",
+            "název": {
+                "cs": "KUSK - Usnesení o pověření MÚ Slaný - stavební úřad -  ve věci řízení povolení záměru č. Z/2026/25111 - dělení parcel a zasíťování 5 parcel U Výboru - k.ú. - Svinařov"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "KUSK - Usnesení o pověření MÚ Slaný - stavební úřad - ve věci řízení o povolení záměru č. Z-2026-25111- dělení parcel a zasíťování 5 parcel U Výboru - k.ú. Svinařov.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512706"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-kd-dretovice-nova-ts-yves-kvn-knn/d-1512701",
+            "iri": "https://www.mestokladno.cz/jednotne-environmentalni-stanovisko-kd-dretovice-nova-ts-yves-kvn-knn/d-1512701",
+            "název": {
+                "cs": "JEDNOTNÉ ENVIRONMENTÁLNÍ STANOVISKO - KD Dřetovice nová TS Yves kVN, kNN"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "číslo_jednací": "R/2026/161791/4",
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "R_2026_161791.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512702"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/pocet-a-sidlo-volebnich-okrsku-v-kladne/d-1512699",
+            "iri": "https://www.mestokladno.cz/pocet-a-sidlo-volebnich-okrsku-v-kladne/d-1512699",
+            "název": {
+                "cs": "Počet a sídlo volebních okrsků v Kladně"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Počet a sídlo volebních okrsků v Kladně.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512700"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/pocet-a-sidlo-volebnich-okrsku-v-kladne/d-1512697",
+            "iri": "https://www.mestokladno.cz/pocet-a-sidlo-volebnich-okrsku-v-kladne/d-1512697",
+            "název": {
+                "cs": "Počet a sídlo volebních okrsků v Kladně"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Počet a sídlo volebních okrsků v Kladně.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512698"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/smkl-127033-2026-ov-5-dv-vy-st-127033-2026-330-dv-zamer-z-2026-77620-rizeni-r-2026-130070/d-1512691",
+            "iri": "https://www.mestokladno.cz/smkl-127033-2026-ov-5-dv-vy-st-127033-2026-330-dv-zamer-z-2026-77620-rizeni-r-2026-130070/d-1512691",
+            "název": {
+                "cs": "SMKL/127033/2026/OV/5/Dv Výst./127033/2026/330/Dv Záměr: Z/2026/77620 Řízení: R/2026/130070"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "2026-127033"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512692"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-brno-mesto-usneseni-o-elektronicke-drazbe-na-den-24-9-2026/d-1512617",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-brno-mesto-usneseni-o-elektronicke-drazbe-na-den-24-9-2026/d-1512617",
+            "název": {
+                "cs": "Exekutorský úřad Brno - město - usnesení o elektronické dražbě na den 24.9.2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-13"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-24"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Brno - město -  usnesení o elektronické dražbě na den 24.9.2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512618"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/vyhlaseni-ztrat-a-nalezu-na-uzemi-mesta-kladna-obdobi-cervenec-2026/d-1512607",
+            "iri": "https://www.mestokladno.cz/vyhlaseni-ztrat-a-nalezu-na-uzemi-mesta-kladna-obdobi-cervenec-2026/d-1512607",
+            "název": {
+                "cs": "Vyhlášení ztrát a nálezů na území města Kladna - období - červenec 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-07"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-07"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Vyhlášení nálezů červenec 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512608"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-praha-zapad-drazebni-vyhlaska-elektronicka-drazba-9-9-2026/d-1512580",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-praha-zapad-drazebni-vyhlaska-elektronicka-drazba-9-9-2026/d-1512580",
+            "název": {
+                "cs": "Exekutorský úřad Praha - západ - dražební vyhláška - elektronická dražba 9. 9. 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-07"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorsky urad Praha - zapad - drazebni vyhlaska - elektronicka drazba 9. 9. 2026-anonymizace.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512581"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-praha-vychod-drazebni-vyhlaska-elektronicka-drazba-10-9-2026/d-1512550",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-praha-vychod-drazebni-vyhlaska-elektronicka-drazba-10-9-2026/d-1512550",
+            "název": {
+                "cs": "Exekutorský úřad Praha - východ - dražební vyhláška - elektronická dražba 10. 9. 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-06"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-10"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Praha - východ - dražební vyhláška - elektronická dražba 10. 9. 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512551"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-praha-4-elektronicka-drazba-nemovite-veci-10-9-2026/d-1512503",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-praha-4-elektronicka-drazba-nemovite-veci-10-9-2026/d-1512503",
+            "název": {
+                "cs": "Exekutorský úřad Praha 4 - elektronická dražba nemovité věci - 10. 9. 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-04"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-10"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Praha 4 - elektronická dražba 10. 9. 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512504"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-kladno-zruseni-drazebniho-jednani-dne-3-9-2026/d-1512496",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-kladno-zruseni-drazebniho-jednani-dne-3-9-2026/d-1512496",
+            "název": {
+                "cs": "Exekutorský úřad Kladno - zrušení dražebního jednání dne 3. 9. 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Kladno - zrušení dražebního jednání - 3. 9. 2026"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512499"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-kladno-drazebni-vyhlaska-elektronicka-drazba-21-9-2026/d-1512494",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-kladno-drazebni-vyhlaska-elektronicka-drazba-21-9-2026/d-1512494",
+            "název": {
+                "cs": "Exekutorský úřad Kladno - dražební vyhláška - elektronická dražba 21. 9. 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-08-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Kladno - Dražební vyhláška - elektronická dražba dne 21. 9. 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512495"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-prerov-usneseni-o-provedeni-elektronicke-drazby-nemovite-veci-dne-9-9-2026/d-1512408",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-prerov-usneseni-o-provedeni-elektronicke-drazby-nemovite-veci-dne-9-9-2026/d-1512408",
+            "název": {
+                "cs": "Exekutorský úřad  Přerov - Usnesení o provedení elektronické dražby nemovité věci dne 9.9.2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-07-21"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad  Přerov - Usnesení o provedení elektronické dražby nemovité věci dne 9.9.2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512409"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/exekutorsky-urad-kladno-usneseni-elektronicka-drazba-dne-3-9-2026/d-1512378",
+            "iri": "https://www.mestokladno.cz/exekutorsky-urad-kladno-usneseni-elektronicka-drazba-dne-3-9-2026/d-1512378",
+            "název": {
+                "cs": "Exekutorský úřad Kladno - Usnesení - elektronická dražba dne 3.9.2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-07-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-03"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Exekutorský úřad Kladno - Usnesení - elektronická dražba dne 3.9.2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512379"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/celni-urad-pro-stredocesky-kraj-drazebni-vyhlaska-drazba-nemovite-veci-na-den-23-9-2026/d-1512361",
+            "iri": "https://www.mestokladno.cz/celni-urad-pro-stredocesky-kraj-drazebni-vyhlaska-drazba-nemovite-veci-na-den-23-9-2026/d-1512361",
+            "název": {
+                "cs": "Celní úřad pro Středočeský kraj - Dražební vyhláška - dražba nemovité věci na den - 23.9.2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-07-16"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-23"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Celní úřad pro Středočeský kraj - Dražební vyhláška - dražba nemovité věci na den - 23.9.2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512362"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/krajska-hygienicka-stanice-pozvanka-ke-zkousce-znalosti-hub-v-roce-2026/d-1512344",
+            "iri": "https://www.mestokladno.cz/krajska-hygienicka-stanice-pozvanka-ke-zkousce-znalosti-hub-v-roce-2026/d-1512344",
+            "název": {
+                "cs": "Krajská hygienická stanice - Pozvánka ke zkoušce znalosti  hub v roce 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-07-15"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-10-15"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Pozvánka ke zkoušce znalosti hub v roce 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1512345"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/pocet-clenu-zastupitelstva-mesta-kladna-na-volebni-obdobi-2026-2030-a-potrebny-pocet-podpisu-na-peticich/d-1511138",
+            "iri": "https://www.mestokladno.cz/pocet-clenu-zastupitelstva-mesta-kladna-na-volebni-obdobi-2026-2030-a-potrebny-pocet-podpisu-na-peticich/d-1511138",
+            "název": {
+                "cs": "Počet členů Zastupitelstva města Kladna na volební období 2026 - 2030 a potřebný počet podpisů na peticích"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-07-02"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-10-31"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Počet členů Zastupitelstva města Kladna na volební období 2026 - 2030 a potřebný počet podpisů na peticích.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1511140"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-1-na-rok-2026/d-1511004",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-1-na-rok-2026/d-1511004",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 1 na rok 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-06-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 1 na rok 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1511014"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-zaverecneho-uctu-za-rok-2025/d-1510942",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-zaverecneho-uctu-za-rok-2025/d-1510942",
+            "název": {
+                "cs": "Oznámení o zveřejnění závěrečného účtu za rok 2025"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-06-17"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 1 na rok 2026"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1511006"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/stanoveni-vyjimecnych-pripadu-pri-nichz-je-na-celem-uzemi-statutarniho-mesta-kladno-a-doba-nocniho-klidu-vymezena-od-0-00-do-6-00-hodin/d-1510952",
+            "iri": "https://www.mestokladno.cz/stanoveni-vyjimecnych-pripadu-pri-nichz-je-na-celem-uzemi-statutarniho-mesta-kladno-a-doba-nocniho-klidu-vymezena-od-0-00-do-6-00-hodin/d-1510952",
+            "název": {
+                "cs": "Stanovení výjimečných případů, při nichž je na celém území Statutárního města Kladno a doba nočního klidu vymezena od 0:00 do 6:00 hodin"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-06-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-21"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Stanovení výjimečných případů - noční klid 2026-2.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1510953"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/potrebny-pocet-podpisu-na-peticich-pro-nezavisle-kandidaty-a-sdruzeni-nezavislych-kandidatu/d-1510556",
+            "iri": "https://www.mestokladno.cz/potrebny-pocet-podpisu-na-peticich-pro-nezavisle-kandidaty-a-sdruzeni-nezavislych-kandidatu/d-1510556",
+            "název": {
+                "cs": "Potřebný počet podpisů na peticích pro nezávislé kandidáty a sdružení nezávislých kandidátů"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-07-16"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-10-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Potřebný počet podpisů na peticích pro nezávislé kandidáty a sdružení nezávislých kandidátů.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1510557"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-zaverecneho-uctu-statutarniho-mesta-kladna-pro-rok-2025-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1510510",
+            "iri": "https://www.mestokladno.cz/navrh-zaverecneho-uctu-statutarniho-mesta-kladna-pro-rok-2025-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1510510",
+            "název": {
+                "cs": "Návrh závěrečného účtu Statutárního města Kladna pro rok 2025 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby)"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-05-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh závěrečného účtu Statutárního města Kladna pro rok 2025 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1510511"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-zaverecneho-uctu-za-rok-2025/d-1510508",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-zaverecneho-uctu-za-rok-2025/d-1510508",
+            "název": {
+                "cs": "Oznámení o zveřejnění návrhu závěrečného účtu za rok 2025"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-05-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění návrhu zavěrečného účtu za rok 2025.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1510509"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/pronajem-nebytoveho-prostoru-c-302-v-1-patre-objektu-c-p-2680-v-ul-hrebecska-kladno/d-1510090",
+            "iri": "https://www.mestokladno.cz/pronajem-nebytoveho-prostoru-c-302-v-1-patre-objektu-c-p-2680-v-ul-hrebecska-kladno/d-1510090",
+            "název": {
+                "cs": "Pronájem nebytového prostoru č. 302 v 1.patře objektu č.p. 2680 v ul. Hřebečská, Kladno"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-04-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Hrebecska_2680_302_obecne_zverejneni_od_27.4.2026_neomezene.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1510091"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-schvaleneho-rozpoctu-na-rok-2026/d-1509581",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-schvaleneho-rozpoctu-na-rok-2026/d-1509581",
+            "název": {
+                "cs": "Oznámení o zveřejnění schváleného rozpočtu na rok 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-03-23"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění schváleného rozpočtu na rok 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1509582"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-rozpoctu-statutarniho-mesta-kladna-pro-rok-2026-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1509196",
+            "iri": "https://www.mestokladno.cz/navrh-rozpoctu-statutarniho-mesta-kladna-pro-rok-2026-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1509196",
+            "název": {
+                "cs": "Návrh rozpočtu Statutárního města Kladna pro rok 2026 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby)"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-02-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh rozpočtu Statutárního města Kladna pro rok 2026 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1509197"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-rozpoctu-na-rok-2026/d-1509194",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-rozpoctu-na-rok-2026/d-1509194",
+            "název": {
+                "cs": "Oznámení o zveřejnění návrhu rozpočtu na rok 2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-02-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění návrhu rozpočtu na rok 2026.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1509195"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-5-na-rok-2025/d-1509008",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-5-na-rok-2025/d-1509008",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 5 na rok 2025"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-02-10"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 5 na rok 2025"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1509010"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/statutarni-mesto-kladno-porovnani-vas-2023-pzkv/d-1501153",
+            "iri": "https://www.mestokladno.cz/statutarni-mesto-kladno-porovnani-vas-2023-pzkv/d-1501153",
+            "název": {
+                "cs": "Statutární město Kladno porovnání VaS 2023 PZKV"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-05-02"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Statutatní město Kladno  porovnání VaS 2023 PZKV.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1501154"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-zaverecneho-uctu-za-rok-2023/d-1501391",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-zaverecneho-uctu-za-rok-2023/d-1501391",
+            "název": {
+                "cs": "Oznámení o zveřejnění návrhu zavěrečného účtu za rok 2023"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-05-29"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění návrhu zavěrčené účtu za rok 2023.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1501392"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-4-na-rok-2025/d-1508678",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-4-na-rok-2025/d-1508678",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 4 na rok 2025"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-01-12"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 4 na rok 2025.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1508679"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-3/d-1508602",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-3/d-1508602",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 3"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2026-01-05"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 3 na rok 2025"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1508603"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-provizoria/d-1508552",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-provizoria/d-1508552",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového provizoria"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-12-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového provizoria.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1508554"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/zapis-mistni-komise-o-vysledku-hlasovani-v-mistnim-referendu-doplneni/d-1507733",
+            "iri": "https://www.mestokladno.cz/zapis-mistni-komise-o-vysledku-hlasovani-v-mistnim-referendu-doplneni/d-1507733",
+            "název": {
+                "cs": "Zápis místní komise o výsledku hlasování v místním referendu - doplnění"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-10-08"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Zapis_MR_oprava-anonymizace.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1507734"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/zapis-mistni-komise-o-vysledku-hlasovani-v-mistnim-referendu/d-1507709",
+            "iri": "https://www.mestokladno.cz/zapis-mistni-komise-o-vysledku-hlasovani-v-mistnim-referendu/d-1507709",
+            "název": {
+                "cs": "Zápis místní komise o výsledku hlasování v místním referendu"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-10-05"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Zapis_MK_referendum_2025-anonymizace"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1507711"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/sbf-pronajem-nebytoveho-prostoru-c-503-v-ul-vitezna-2959/d-1507634",
+            "iri": "https://www.mestokladno.cz/sbf-pronajem-nebytoveho-prostoru-c-503-v-ul-vitezna-2959/d-1507634",
+            "název": {
+                "cs": "Sbf - pronájem nebytového prostoru č. 503 v ul. Vítězná 2959"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-09-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Vítězná  2959-503 obecné zveřejnění od 26.9. neomezeně.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1507635"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-2/d-1507519",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-2/d-1507519",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 2"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-09-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 2 na rok 2025.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1507520"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/katastralni-urad-pracoviste-kladno-verejna-vyhlaska-vyzva-k-prihlaseni-osob-opravnenych-z-vecneho-bremene/d-1507367",
+            "iri": "https://www.mestokladno.cz/katastralni-urad-pracoviste-kladno-verejna-vyhlaska-vyzva-k-prihlaseni-osob-opravnenych-z-vecneho-bremene/d-1507367",
+            "název": {
+                "cs": "Katastrální úřad - pracoviště Kladno - Veřejná vyhláška- výzva k přihlášení osob oprávněných z věcného břemene"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-09-09"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "datum": "2026-09-09"
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Katastrální úřad - pracoviště Kladno - Veřejná vyhláška- výzva k přihlášení osob oprávněných z věcného břemene.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1507368"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/kladno-modernizace-trati-kladno-kladno-ostrovec-uzavirka-ul-l-zapotocke-a-ul-tylova-reko-povrchu/d-1507263",
+            "iri": "https://www.mestokladno.cz/kladno-modernizace-trati-kladno-kladno-ostrovec-uzavirka-ul-l-zapotocke-a-ul-tylova-reko-povrchu/d-1507263",
+            "název": {
+                "cs": "Kladno - Modernizace trati Kladno - Kladno - Ostrovec_uzavírka ul. L. Zápotocké a ul. Tylova_reko povrchu"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-08-28"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "85_PS_EUROVIA CS_Modernizace trati Kladno - Kladno - Ostrovec_uzavírka ul. L. Zápotocké a ul. Tylova_reko povrchu"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1507264"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-1/d-1506511",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-1/d-1506511",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 1."
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-07-03"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Rozpočtové opatření - oznámení o zveřejnění.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1506512"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-zaverecneho-uctu-za-rok-2024/d-1506485",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-zaverecneho-uctu-za-rok-2024/d-1506485",
+            "název": {
+                "cs": "Oznámení o zveřejnění závěrečného účtu za rok 2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-07-02"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění  zavěrečného účtu za rok 2024.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1506486"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-zaverecneho-uctu-statutarniho-mesta-kladna-pro-rok-2024-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1505869",
+            "iri": "https://www.mestokladno.cz/navrh-zaverecneho-uctu-statutarniho-mesta-kladna-pro-rok-2024-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1505869",
+            "název": {
+                "cs": "Návrh závěrečného účtu Statutárního města Kladna pro rok 2024 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby)"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-05-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh závěrečného účtu Statutárního města Kladna pro rok 2024 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1505870"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-zaverecneho-uctu-za-rok-2024/d-1505867",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-zaverecneho-uctu-za-rok-2024/d-1505867",
+            "název": {
+                "cs": "Oznámení o zveřejnění návrhu zavěrečného účtu za rok 2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-05-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění návrhu zavěrečného účtu za rok 2024.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1505868"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-schvaleneho-rozpoctu-na-rok-2025/d-1504885",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-schvaleneho-rozpoctu-na-rok-2025/d-1504885",
+            "název": {
+                "cs": "Oznámení o zveřejnění schváleného rozpočtu na rok 2025"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-04-01"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění schváleného rozpočtu na rok 2025.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1504886"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-rozpoctu-statutarniho-mesta-kladna-pro-rok-2025-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1504462",
+            "iri": "https://www.mestokladno.cz/navrh-rozpoctu-statutarniho-mesta-kladna-pro-rok-2025-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1504462",
+            "název": {
+                "cs": "Návrh rozpočtu Statutárního města Kladna pro rok 2025 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby)"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-02-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh rozpočtu Statutárního města Kladna pro rok 2025 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1504463"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-rozpoctu-na-rok-2025/d-1504460",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-rozpoctu-na-rok-2025/d-1504460",
+            "název": {
+                "cs": "Oznámení o zveřejnění návrhu rozpočtu na rok 2025"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-02-27"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění návrhu rozpočtu na rok 2025.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1504461"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-4-na-rok-2024/d-1504161",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-4-na-rok-2024/d-1504161",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 4 na rok 2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2025-02-10"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 4 na rok 2024"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1504162"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-3-na-rok-2024/d-1503697",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-3-na-rok-2024/d-1503697",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 3 na rok 2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-12-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 3 na rok 2024.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1503698"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-strednedobeho-vyhledu-rozpoctu-mesta-na-roky-2025-2029/d-1503649",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-strednedobeho-vyhledu-rozpoctu-mesta-na-roky-2025-2029/d-1503649",
+            "název": {
+                "cs": "Oznámení o zveřejnění Střednědobého výhledu rozpočtu města na roky 2025 - 2029"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-12-18"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění  Střednědobého výhledu rozpočtu města na roky 2025-2029.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1503650"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-provizoria/d-1503613",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-provizoria/d-1503613",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového provizoria"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-12-17"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového provizoria.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1503614"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-strednedobeho-vyhledu-rozpoctu-uzsi-rozsah/d-1503191",
+            "iri": "https://www.mestokladno.cz/navrh-strednedobeho-vyhledu-rozpoctu-uzsi-rozsah/d-1503191",
+            "název": {
+                "cs": "Návrh Střednědobého výhledu rozpočtu - užší rozsah"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-11-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh Střednědobého výhledu rozpočtu - užší rozsah.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1503192"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-strednedobeho-vyhledu-rozpoctu-mesta-na-roky-2025-2029/d-1503188",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-navrhu-strednedobeho-vyhledu-rozpoctu-mesta-na-roky-2025-2029/d-1503188",
+            "název": {
+                "cs": "Oznámení o zveřejnění návrhu Střednědobého výhledu rozpočtu města na roky 2025 - 2029"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-11-26"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění návrhu Střednědobého výhledu rozpočtu města na roky 2025-2029"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1503190"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/cenik-hritovnich-sluzeb-dle-zasedani-rady-mesta-kladna-ze-dne-7-10-2024/d-1502827",
+            "iri": "https://www.mestokladno.cz/cenik-hritovnich-sluzeb-dle-zasedani-rady-mesta-kladna-ze-dne-7-10-2024/d-1502827",
+            "název": {
+                "cs": "Ceník hřitovních služeb dle zasedání Rady města Kladna ze dne 7.10.2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-10-21"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Ceník hřbitovních služeb dle zasedání RM Kladna ze dne 7.10.2024.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1502828"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-2-na-rok-2024/d-1502598",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-2-na-rok-2024/d-1502598",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 2 na rok 2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-09-20"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 2 na rok 2024"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1502599"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-zaverecneho-uctu-za-rok-2023/d-1501710",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-zaverecneho-uctu-za-rok-2023/d-1501710",
+            "název": {
+                "cs": "Oznámení o zveřejnění  zavěrečného účtu za rok 2023"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-06-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění  zavěrečného účtu za rok 2023.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1501711"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-1-na-rok-2024/d-1501708",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-rozpoctoveho-opatreni-c-1-na-rok-2024/d-1501708",
+            "název": {
+                "cs": "Oznámení o zveřejnění rozpočtového opatření č. 1 na rok 2024"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-06-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění rozpočtového opatření č. 1 na rok 2024.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1501709"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-zaverecneho-uctu-statutarniho-mesta-kladna-pro-rok-2023-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1501393",
+            "iri": "https://www.mestokladno.cz/navrh-zaverecneho-uctu-statutarniho-mesta-kladna-pro-rok-2023-rozdeleni-dle-nejvyssich-jednotek-druhoveho-trideni-rozpoctove-skladby/d-1501393",
+            "název": {
+                "cs": "Návrh závěrečného účtu Statutárního města Kladna pro rok 2023 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby)"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-05-29"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh závěrečného účtu Statutárního města Kladna pro rok 2023 (rozdělení dle nejvyšších jednotek druhového třídění rozpočtové skladby).pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1501394"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/statutarni-mesto-kladno-porovnani-vas-2023-k-svermov/d-1501151",
+            "iri": "https://www.mestokladno.cz/statutarni-mesto-kladno-porovnani-vas-2023-k-svermov/d-1501151",
+            "název": {
+                "cs": "Statutární město Kladno porovnání VaS 2023 K Švermov"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-05-02"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Stattutární město  Kladno  porovnání VaS 2023 K Švermov.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1501152"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/rozpocet-statutarniho-mesta-kladna-na-rok-2024-oznameni-o-zverejneni/d-1500844",
+            "iri": "https://www.mestokladno.cz/rozpocet-statutarniho-mesta-kladna-na-rok-2024-oznameni-o-zverejneni/d-1500844",
+            "název": {
+                "cs": "Rozpočet Statutárního města Kladna na rok 2024 - oznámení o zveřejnění"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2024-03-28"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Rozpočet Statutárního města Kladna na rok 2024 - oznámení o zveřejnění.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1500845"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/oznameni-o-zverejneni-strednedobeho-vyhledu/d-1488114",
+            "iri": "https://www.mestokladno.cz/oznameni-o-zverejneni-strednedobeho-vyhledu/d-1488114",
+            "název": {
+                "cs": "Oznámení o zveřejnění střednědobého výhledu"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2021-04-08"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Oznámení o zveřejnění střednědobého výhledu.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1488115"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/zapis-o-vysledku-hlasovani-do-zastupitelstva-mesta-kladna/d-1494896",
+            "iri": "https://www.mestokladno.cz/zapis-o-vysledku-hlasovani-do-zastupitelstva-mesta-kladna/d-1494896",
+            "název": {
+                "cs": "Zápis o výsledku hlasování do Zastupitelstva města Kladna"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2022-09-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Zápis o výsledku hlasování do Zastupitelstva města Kladna.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1494897"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/zapis-o-vysledku-hlasovani-do-zastupitelstev-obci-ru-kladno/d-1494894",
+            "iri": "https://www.mestokladno.cz/zapis-o-vysledku-hlasovani-do-zastupitelstev-obci-ru-kladno/d-1494894",
+            "název": {
+                "cs": "Zápis o výsledku hlasování do zastupitelstev obcí RÚ Kladno"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2022-09-24"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Zápis o výsledku hlasování do zastupitelstev obcí RÚ Kladno.pdf"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1494895"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/navrh-strednedobeho-vyhledu-rozpoctu-2022-2026/d-1487376",
+            "iri": "https://www.mestokladno.cz/navrh-strednedobeho-vyhledu-rozpoctu-2022-2026/d-1487376",
+            "název": {
+                "cs": "Návrh Střednědobého výhledu rozpočtu 2022-2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2021-02-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Návrh Střednědobého výhledu rozpočtu 2022-2026"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1487377"
+                }
+            ]
+        },
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.mestokladno.cz/sdeleni-pro-zasedani-zastupitelstva-mesta-kladna-navrh-strednedobeho-vyhledu-rozpoctu-2022-2026/d-1487378",
+            "iri": "https://www.mestokladno.cz/sdeleni-pro-zasedani-zastupitelstva-mesta-kladna-navrh-strednedobeho-vyhledu-rozpoctu-2022-2026/d-1487378",
+            "název": {
+                "cs": "Sdělení pro zasedání Zastupitelstva města Kladna - návrh Střednědobého výhledu rozpočtu 2022-2026"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2021-02-19"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "Sdělení pro zasedání Zastupitelstva města Kladna - návrh Střednědobého výhledu rozpočtu 2022 - 2026"
+                    },
+                    "url": "https://www.mestokladno.cz/assets/File.ashx?id_org=6506&amp;id_dokumenty=1487379"
+                }
+            ]
+        }
+    ]
+}
