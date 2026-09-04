@@ -1,13 +1,13 @@
 {
  "version": "v1",
- "generatedAt": "2026-09-04T11:34:16.437Z",
+ "generatedAt": "2026-09-04T12:39:02.530Z",
  "datasets": {
   "districts": {
    "file": "districts.json",
    "hash": "3a1e8fe30e42e7816c931f5faa7d28c4278eb50e927b83294334540441d7befa",
    "count": 6,
    "bytes": 939,
-   "lastSuccessfulFetch": "2026-09-04T11:24:59.882Z",
+   "lastSuccessfulFetch": "2026-09-04T12:37:46.129Z",
    "stale": false,
    "lastError": null
   },
@@ -16,70 +16,70 @@
    "hash": "c0654ac54fb2c089f0745396e773cf9f6df35dd033a1e100386896069cf89cda",
    "count": 578,
    "bytes": 155464,
-   "lastSuccessfulFetch": "2026-09-04T11:24:59.882Z",
+   "lastSuccessfulFetch": "2026-09-04T12:37:46.129Z",
    "stale": false,
    "lastError": null
   },
   "board": {
    "file": "board.json",
-   "hash": "240e9a672a1c042fe1c8c51a8e9a4a1789da49aaa26e682d0ed5052fe699d167",
+   "hash": "f197f674e5f94dae979248e053a5202875183b219c5d2b66bca065af67b23c6c",
    "count": 112,
    "bytes": 117604,
-   "lastSuccessfulFetch": "2026-09-04T11:25:01.136Z",
+   "lastSuccessfulFetch": "2026-09-04T12:37:47.148Z",
    "stale": false,
    "lastError": null
   },
   "events": {
    "file": "events.json",
-   "hash": "43e6e1a455b6add0744e31c09798b75e0f7722db9ed5b948243fbeb67fdd0237",
+   "hash": "2e00f32f9fd28940f5df06dde00a8963f5dce212e66cbd687cebcad627c54400",
    "count": 27,
    "bytes": 28063,
-   "lastSuccessfulFetch": "2026-09-04T11:25:52.093Z",
+   "lastSuccessfulFetch": "2026-09-04T12:37:50.452Z",
    "stale": false,
    "lastError": null
   },
   "news": {
    "file": "news.json",
-   "hash": "046ffa0dc896fec7415375be2eb42d1b8aaafc4068fb15c4d589288ec9dbf588",
+   "hash": "c53abbbba72fd7c3c1777e28482abcf07b22c09c424149ce6a327c2fd6c1ca16",
    "count": 50,
-   "bytes": 46249,
-   "lastSuccessfulFetch": "2026-09-04T11:25:52.243Z",
+   "bytes": 45759,
+   "lastSuccessfulFetch": "2026-09-04T12:37:51.645Z",
    "stale": false,
    "lastError": null
   },
   "air": {
    "file": "air.json",
-   "hash": "de5f7d4a0237720bcdc59bd5c2ad5151be9c1a4b5c673bd13786f605639c3f76",
+   "hash": "34b295fdc6dfad1f3b639beb421aa385c7692295393735a026f91392fa865c3e",
    "count": 2,
-   "bytes": 1826,
-   "lastSuccessfulFetch": "2026-09-04T11:25:54.996Z",
+   "bytes": 1833,
+   "lastSuccessfulFetch": "2026-09-04T12:37:54.426Z",
    "stale": false,
    "lastError": null
   },
   "traffic": {
    "file": "traffic.json",
-   "hash": "84127e5d20ce52f819863c7eb53b468fe48393a532a4f769255ee7739c87cff4",
+   "hash": "afac38558916d204b5e0864cdb5d0dd2d59a1eeeb7c3481d5b16eecbd3e4af2a",
    "count": 21,
    "bytes": 21850,
-   "lastSuccessfulFetch": "2026-09-04T11:27:11.474Z",
+   "lastSuccessfulFetch": "2026-09-04T12:37:54.759Z",
    "stale": false,
    "lastError": null
   },
   "waste": {
    "file": "waste.json",
-   "hash": "f7aaab49cc88f23e80f3d157e6c3f98f67771e254ff60b02d905b3ce1c7f25ce",
+   "hash": "4b9b2ed620aa069077aa06abacda4b295c56adb2a7b07cb4ac0902453111fae8",
    "count": 3,
    "bytes": 2332,
-   "lastSuccessfulFetch": "2026-09-04T10:27:44.643Z",
-   "stale": true,
-   "lastError": "https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618: HTTP 500 Internal Server Error pro https://www.mestokladno.cz/sberne-dvory-a-mobilni-sberne-dvory/ds-200618"
+   "lastSuccessfulFetch": "2026-09-04T12:37:56.486Z",
+   "stale": false,
+   "lastError": null
   },
   "contacts": {
    "file": "contacts.json",
-   "hash": "5b2b3f07eeedf3dcbd6db6a47f8962ba896f9b0441b7e8cad5e9c77f9eabf78e",
+   "hash": "10ab14e221a5f54046adba0e72fde6f7ec73a22c5f5de58d6f25471bf2fa22e5",
    "count": 33,
    "bytes": 20101,
-   "lastSuccessfulFetch": "2026-09-04T11:32:33.462Z",
+   "lastSuccessfulFetch": "2026-09-04T12:37:57.876Z",
    "stale": false,
    "lastError": null
   }

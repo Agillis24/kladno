@@ -12,30 +12,30 @@
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 57.7,
+    "value": 63.4,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 6.1,
+    "value": 9.4,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 7.6,
+    "value": 3.6,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-04T11:25:54.996Z"
+   "fetchedAt": "2026-09-04T12:37:54.426Z"
   }
  },
  {
@@ -51,37 +51,37 @@
    {
     "code": "SO2",
     "name": "oxid siřičitý",
-    "value": 4,
+    "value": -5003,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 3.8,
+    "value": -5003,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 5.9,
+    "value": -5003,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 11.5,
+    "value": 6.2,
     "unit": null,
-    "measuredAt": "2026-09-04T09:00:00.000Z"
+    "measuredAt": "2026-09-04T11:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-04T11:25:54.996Z"
+   "fetchedAt": "2026-09-04T12:37:54.426Z"
   }
  }
 ]
