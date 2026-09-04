@@ -1,0 +1,64 @@
+name: Diagnostika dostupnosti webu města
+
+# Jednorázová pomůcka. Pipeline v GitHub Actions hlásí u všech zdrojů
+# z mestokladno.cz „fetch failed", zatímco lokálně i z ČR všechno funguje.
+# Tímhle zjistíme, jestli jde o blokaci cloudových IP, IPv6, TLS nebo DNS.
+on:
+  workflow_dispatch:
+
+jobs:
+  zjisti:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Odkud voláme
+        run: curl -sS --max-time 20 https://api.ipify.org && echo ""
+
+      - name: DNS
+        run: |
+          getent ahosts www.mestokladno.cz || echo "getent selhal"
+          echo "---"
+          getent ahostsv4 www.mestokladno.cz || echo "žádná IPv4"
+          echo "---"
+          getent ahostsv6 www.mestokladno.cz || echo "žádná IPv6"
+
+      - name: curl výchozí
+        run: |
+          curl -sS -v --max-time 30 -o /dev/null \
+            -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)" \
+            https://www.mestokladno.cz/robots.txt 2>&1 | tail -30 || echo "EXIT=$?"
+
+      - name: curl vynuceně přes IPv4
+        run: |
+          curl -sS -4 --max-time 30 -o /dev/null -w "IPv4 HTTP=%{http_code} time=%{time_total}\n" \
+            -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)" \
+            https://www.mestokladno.cz/robots.txt || echo "IPv4 EXIT=$?"
+
+      - name: curl vynuceně přes IPv6
+        run: |
+          curl -sS -6 --max-time 30 -o /dev/null -w "IPv6 HTTP=%{http_code} time=%{time_total}\n" \
+            -A "MojeKladnoBot/1.0 (+https://github.com/Agillis24/kladno)" \
+            https://www.mestokladno.cz/robots.txt || echo "IPv6 EXIT=$?"
+
+      - name: curl s běžným prohlížečovým User-Agentem
+        run: |
+          curl -sS --max-time 30 -o /dev/null -w "UA prohlížeče HTTP=%{http_code}\n" \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36" \
+            https://www.mestokladno.cz/robots.txt || echo "EXIT=$?"
+
+      - name: node fetch včetně příčiny chyby
+        run: |
+          node -e "
+          const url = 'https://www.mestokladno.cz/robots.txt';
+          fetch(url, { headers: { 'User-Agent': 'MojeKladnoBot/1.0' } })
+            .then((r) => { console.log('node fetch OK, status', r.status); })
+            .catch((e) => {
+              console.log('node fetch selhal:', e.message);
+              console.log('příčina:', e.cause?.message ?? e.cause ?? '(žádná)');
+              console.log('kód:', e.cause?.code ?? '(žádný)');
+            });
+          "
+
+      - name: kontrolní volání jiného českého webu
+        run: |
+          curl -sS --max-time 30 -o /dev/null -w "opendata.chmi.cz HTTP=%{http_code}\n" https://opendata.chmi.cz/ || echo "EXIT=$?"
+          curl -sS --max-time 30 -o /dev/null -w "vdp.cuzk.cz HTTP=%{http_code}\n" https://vdp.cuzk.cz/ || echo "EXIT=$?"
