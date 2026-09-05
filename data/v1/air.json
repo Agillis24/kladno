@@ -12,30 +12,30 @@
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 74.6,
+    "value": 78.2,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 6.5,
+    "value": 3.5,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 4.2,
+    "value": 12.4,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-05T13:23:14.886Z"
+   "fetchedAt": "2026-09-05T14:23:36.910Z"
   }
  },
  {
@@ -51,37 +51,37 @@
    {
     "code": "SO2",
     "name": "oxid siřičitý",
-    "value": 2.9,
+    "value": 3.2,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 2.3,
+    "value": 1,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 3.6,
+    "value": 3.1,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 6.4,
+    "value": 3.9,
     "unit": null,
-    "measuredAt": "2026-09-05T11:00:00.000Z"
+    "measuredAt": "2026-09-05T12:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-05T13:23:14.886Z"
+   "fetchedAt": "2026-09-05T14:23:36.910Z"
   }
  }
 ]
