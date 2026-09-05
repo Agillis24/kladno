@@ -6,36 +6,36 @@
    "lat": 50.14385986328125,
    "lng": 14.101783752441406
   },
-  "index": 3,
-  "indexLabel": "normální",
+  "index": 2,
+  "indexLabel": "dobrá",
   "measurements": [
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 78,
+    "value": 75.6,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 4.8,
+    "value": 2.1,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
     "value": 1,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-05T18:27:42.381Z"
+   "fetchedAt": "2026-09-05T19:21:19.426Z"
   }
  },
  {
@@ -53,35 +53,35 @@
     "name": "oxid siřičitý",
     "value": 3.2,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 4.2,
+    "value": 5.2,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 6.3,
+    "value": 6.9,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 4.2,
+    "value": 3.1,
     "unit": null,
-    "measuredAt": "2026-09-05T16:00:00.000Z"
+    "measuredAt": "2026-09-05T17:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-05T18:27:42.381Z"
+   "fetchedAt": "2026-09-05T19:21:19.426Z"
   }
  }
 ]
