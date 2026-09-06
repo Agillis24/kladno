@@ -1,13 +1,13 @@
 {
  "version": "v1",
- "generatedAt": "2026-09-06T11:23:10.630Z",
+ "generatedAt": "2026-09-06T12:34:10.360Z",
  "datasets": {
   "districts": {
    "file": "districts.json",
    "hash": "3a1e8fe30e42e7816c931f5faa7d28c4278eb50e927b83294334540441d7befa",
    "count": 6,
    "bytes": 939,
-   "lastSuccessfulFetch": "2026-09-06T11:22:08.692Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:08.888Z",
    "stale": false,
    "lastError": null
   },
@@ -16,70 +16,70 @@
    "hash": "c0654ac54fb2c089f0745396e773cf9f6df35dd033a1e100386896069cf89cda",
    "count": 578,
    "bytes": 155464,
-   "lastSuccessfulFetch": "2026-09-06T11:22:08.692Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:08.888Z",
    "stale": false,
    "lastError": null
   },
   "board": {
    "file": "board.json",
-   "hash": "6adeba8465b939f10bfb5b9667bf10e79a3001317c4e26cece0e55df6d743b10",
+   "hash": "44cbd195005fc8a8f34fd2d0075b2ec0354ca8d5927511780b254c05994c4c3d",
    "count": 107,
    "bytes": 112390,
-   "lastSuccessfulFetch": "2026-09-06T11:22:09.724Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:10.045Z",
    "stale": false,
    "lastError": null
   },
   "events": {
    "file": "events.json",
-   "hash": "9591f4589ae146c17ece5c38c80e2ed40ff5067fdfa38ffd62963d136b69614e",
+   "hash": "b94481a7bd38ae10e76e4a209966e8e6df2185fda0a603fa2c8c1d52717c7308",
    "count": 26,
    "bytes": 27049,
-   "lastSuccessfulFetch": "2026-09-06T11:22:12.721Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:13.186Z",
    "stale": false,
    "lastError": null
   },
   "news": {
    "file": "news.json",
-   "hash": "e904a3b386d0ca1c654d947847346518fbbb46aaef728cf9ff75f2af842fca70",
+   "hash": "e8f6fda29e4c623b1ee48d7f7e1ac8a20c8d257e24587361a0add58bc5e98983",
    "count": 50,
    "bytes": 45759,
-   "lastSuccessfulFetch": "2026-09-06T11:22:14.222Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:14.546Z",
    "stale": false,
    "lastError": null
   },
   "air": {
    "file": "air.json",
-   "hash": "faccd4be8d5112bff2a8c2b80482a963ee31af60e5f05cdbacf6225dab766949",
+   "hash": "6b5d1109731d6fbc34d79af7287fd7e785248b95fe490a8080112f06486a9ebf",
    "count": 2,
-   "bytes": 1844,
-   "lastSuccessfulFetch": "2026-09-06T11:22:17.733Z",
+   "bytes": 1835,
+   "lastSuccessfulFetch": "2026-09-06T12:33:17.527Z",
    "stale": false,
    "lastError": null
   },
   "traffic": {
    "file": "traffic.json",
-   "hash": "a664085df613638a08d20564f063c778e160986e8912b61414d97d6b9379708f",
+   "hash": "66e348b87b6f4ac1c12eb79983f84734cd6084e55fadd31ace25757d36dec10b",
    "count": 21,
    "bytes": 21850,
-   "lastSuccessfulFetch": "2026-09-06T11:22:18.072Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:17.875Z",
    "stale": false,
    "lastError": null
   },
   "waste": {
    "file": "waste.json",
-   "hash": "61de4e2dc4e6455e5c63870e1645b4e083c1594476e5eeaa53c001eac174c1d3",
+   "hash": "eaae10848b913416e5aec4acc2931f52152733495eaef71fa910821258d4fc41",
    "count": 3,
    "bytes": 2332,
-   "lastSuccessfulFetch": "2026-09-06T11:22:19.846Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:19.613Z",
    "stale": false,
    "lastError": null
   },
   "contacts": {
    "file": "contacts.json",
-   "hash": "ff02c7703129be79855441f2586029bc7dec0d1fc151b44b5d04fbadb7676865",
+   "hash": "5aa6be2e8c498421eeb430b9bdbaefff42447724d96433765adb047ff48d2862",
    "count": 33,
    "bytes": 20101,
-   "lastSuccessfulFetch": "2026-09-06T11:22:21.189Z",
+   "lastSuccessfulFetch": "2026-09-06T12:33:21.182Z",
    "stale": false,
    "lastError": null
   }
