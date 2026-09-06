@@ -12,30 +12,30 @@
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 70.2,
+    "value": 71.6,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 11.8,
+    "value": 17.3,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 16.4,
+    "value": 11.8,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-06T10:24:15.768Z"
+   "fetchedAt": "2026-09-06T11:22:17.733Z"
   }
  },
  {
@@ -51,37 +51,37 @@
    {
     "code": "SO2",
     "name": "oxid siřičitý",
-    "value": 1.3,
+    "value": -5003,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 1,
+    "value": -5003,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 2.7,
+    "value": -5003,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 20.8,
+    "value": 11.2,
     "unit": null,
-    "measuredAt": "2026-09-06T08:00:00.000Z"
+    "measuredAt": "2026-09-06T09:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-06T10:24:15.768Z"
+   "fetchedAt": "2026-09-06T11:22:17.733Z"
   }
  }
 ]
