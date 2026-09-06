@@ -6,36 +6,36 @@
    "lat": 50.14385986328125,
    "lng": 14.101783752441406
   },
-  "index": 2,
-  "indexLabel": "dobrá",
+  "index": 3,
+  "indexLabel": "normální",
   "measurements": [
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 46.3,
+    "value": 66.8,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
-    "value": 1,
+    "value": 8.3,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 9.1,
+    "value": 28.4,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-06T07:26:38.582Z"
+   "fetchedAt": "2026-09-06T08:30:49.562Z"
   }
  },
  {
@@ -45,43 +45,43 @@
    "lat": 50.16741180419922,
    "lng": 14.106047630310059
   },
-  "index": 2,
-  "indexLabel": "dobrá",
+  "index": 3,
+  "indexLabel": "normální",
   "measurements": [
    {
     "code": "SO2",
     "name": "oxid siřičitý",
-    "value": 1.3,
+    "value": 3.5,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 4.2,
+    "value": 2.5,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 5.7,
+    "value": 3.4,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 22.7,
+    "value": 18.6,
     "unit": null,
-    "measuredAt": "2026-09-06T05:00:00.000Z"
+    "measuredAt": "2026-09-06T07:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-06T07:26:38.582Z"
+   "fetchedAt": "2026-09-06T08:30:49.562Z"
   }
  }
 ]
