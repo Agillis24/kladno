@@ -12,30 +12,30 @@
    {
     "code": "O3",
     "name": "přízemní ozon",
-    "value": 79.4,
+    "value": 70.6,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    },
    {
     "code": "PM2_5",
     "name": "jemné částice PM2,5",
     "value": 1,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
     "value": 4.7,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-06T18:27:27.508Z"
+   "fetchedAt": "2026-09-06T19:20:56.068Z"
   }
  },
  {
@@ -53,35 +53,35 @@
     "name": "oxid siřičitý",
     "value": 5.3,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    },
    {
     "code": "NO2",
     "name": "oxid dusičitý",
-    "value": 6.5,
+    "value": 15.5,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    },
    {
     "code": "NOx",
     "name": "oxidy dusíku",
-    "value": 8.2,
+    "value": 18,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    },
    {
     "code": "PM10",
     "name": "částice PM10",
-    "value": 4,
+    "value": 15.7,
     "unit": null,
-    "measuredAt": "2026-09-06T16:00:00.000Z"
+    "measuredAt": "2026-09-06T17:00:00.000Z"
    }
   ],
   "source": {
    "name": "Kvalita ovzduší, ČHMÚ",
    "url": "https://opendata.chmi.cz/air_quality/",
    "license": "CC BY 4.0, Český hydrometeorologický ústav",
-   "fetchedAt": "2026-09-06T18:27:27.508Z"
+   "fetchedAt": "2026-09-06T19:20:56.068Z"
   }
  }
 ]
